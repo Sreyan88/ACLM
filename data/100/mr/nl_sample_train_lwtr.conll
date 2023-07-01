@@ -1,0 +1,10528 @@
+een	O
+handboor	O
+heeft	O
+een	O
+dwars	O
+geplaatst	O
+handvat	B-PROD
+waarmee	O
+de	O
+boor	O
+rondgedraaid	O
+kan	O
+worden	O
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+werd	O
+voor	O
+het	O
+eerst	O
+geldig	O
+gepubliceerd	O
+in	O
+1903	O
+door	O
+nathan	B-PER
+banks	I-PER
+.	O
+
+
+deze	O
+soort	O
+komt	O
+voor	O
+in	O
+costa	B-LOC
+rica	I-LOC
+en	O
+panama	B-LOC
+.	O
+
+
+de	O
+serie	O
+werd	O
+uitgezonden	O
+op	O
+abc	B-CORP
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+is	O
+voor	O
+het	O
+eerst	O
+geldig	O
+gepubliceerd	O
+in	O
+1791	O
+door	O
+johann	B-PER
+friedrich	I-PER
+gmelin	I-PER
+.	O
+
+
+hij	O
+studeerde	O
+vervolgens	O
+af	O
+als	O
+regent	O
+wetenschappen	O
+en	O
+werd	O
+in	O
+1952	O
+leraar	O
+wiskunde	O
+in	O
+oudenaarde	B-LOC
+.	O
+
+
+kafka	O
+had	O
+zo	O
+wellicht	O
+de	O
+basis	O
+geschapen	O
+voor	O
+zijn	O
+roman	O
+het	B-CW
+proces	I-CW
+.	O
+
+
+onder	O
+andere	O
+titus	B-PER
+petronius	I-PER
+secundus	I-PER
+,	O
+zijn	O
+voorganger	O
+in	O
+het	O
+ambt	O
+,	O
+werd	O
+uitgeleverd	O
+en	O
+door	O
+de	O
+pretoriaanse	B-GRP
+garde	I-GRP
+vermoord	O
+.	O
+
+
+in	O
+algerije	B-LOC
+,	O
+waar	O
+hij	O
+ook	O
+als	O
+soldaat	O
+diende	O
+,	O
+schreef	O
+hij	O
+in	O
+de	O
+jaren	O
+vijftig	O
+zijn	O
+eerste	O
+sociologische	O
+studies	O
+,	O
+de	O
+wetenschap	O
+waar	O
+hij	O
+zich	O
+toe	O
+‘	O
+bekeerde	O
+’	O
+.	O
+
+
+in	O
+de	O
+bondsrepubliek	B-LOC
+duitsland	I-LOC
+werd	O
+de	O
+film	O
+op	O
+26	O
+december	O
+1969	O
+op	O
+zdf	B-CORP
+voor	O
+het	O
+eerst	O
+uitgezonden	O
+en	O
+bereikte	O
+een	O
+kijkcijfer	O
+van	O
+53	O
+%	O
+(	O
+20	O
+miljoen	O
+kijkers	O
+)	O
+.	O
+
+
+rond	O
+200	O
+begonnen	O
+bisschops	O
+synodes	B-GRP
+zich	O
+tegen	O
+het	O
+montanisme	O
+te	O
+keren	O
+,	O
+waaruit	O
+valt	O
+op	O
+te	O
+maken	O
+,	O
+dat	O
+de	O
+beweging	O
+was	O
+begonnen	O
+zich	O
+te	O
+verspreiden	O
+.	O
+
+
+in	O
+1999	O
+trok	O
+hij	O
+naar	O
+kaa	B-GRP
+gent	I-GRP
+.	O
+
+
+die	O
+race	O
+werd	O
+gewonnen	O
+door	O
+ramón	B-PER
+torras	I-PER
+(	O
+bultaco	B-CORP
+)	O
+.	O
+
+
+hiervoor	O
+werd	O
+elke	O
+keer	O
+een	O
+thriller	B-CW
+verfilmd	O
+in	O
+de	O
+vorm	O
+van	O
+een	O
+toneelstuk	B-CW
+.	O
+
+
+in	O
+2006	O
+werd	O
+de	O
+film	O
+op	O
+dvd	O
+uitgebracht	O
+en	O
+twee	O
+jaar	O
+later	O
+ook	O
+op	O
+blu-ray	B-PROD
+.	O
+
+
+de	O
+gynaecologen	O
+carl	B-PER
+clauberg	I-PER
+en	O
+horst	B-PER
+schumann	I-PER
+deden	O
+onderzoek	O
+naar	O
+de	O
+sterilisatie	O
+van	O
+vrouwen	O
+
+
+soublecause	O
+is	O
+een	O
+gemeente	O
+in	O
+het	O
+franse	B-LOC
+departement	O
+hautes-pyrénées	B-LOC
+(	O
+regio	O
+occitanie	B-LOC
+)	O
+en	O
+telt	O
+171	O
+inwoners	O
+.	O
+
+
+idzerda	O
+'s	O
+zender	O
+pcgg	B-CORP
+werd	O
+razend	O
+populair	O
+,	O
+wat	O
+hem	O
+in	O
+staat	O
+stelde	O
+de	O
+benodigde	O
+financiële	O
+ondersteuning	O
+voor	O
+zijn	O
+zender	O
+te	O
+vragen	O
+en	O
+te	O
+ontvangen	O
+.	O
+
+
+pizza	O
+kebab	O
+/	O
+shoarma	O
+(	O
+tomaat	O
+,	O
+kaas	O
+,	O
+kebab	B-PROD
+/	O
+shoarma	B-PROD
+)	O
+(	O
+zweden	B-LOC
+,	O
+van	O
+oorsprong	O
+turks	B-LOC
+,	O
+ook	O
+populair	O
+in	O
+nederland	B-LOC
+)	O
+
+
+het	O
+toernooi	O
+staat	O
+onder	O
+auspiciën	O
+van	O
+de	O
+wereld	O
+roeifederatie	O
+fisa	B-GRP
+.	O
+
+
+in	O
+september	O
+2018	O
+kocht	O
+netflix	B-CORP
+de	O
+wereldwijde	O
+distributierechten	O
+.	O
+
+
+deze	O
+locatie	O
+,	O
+rekening	O
+houdend	O
+met	O
+de	O
+archeologie	O
+van	O
+de	O
+torre	B-LOC
+de	I-LOC
+dona	I-LOC
+chama	I-LOC
+,	O
+het	O
+fort	O
+en	O
+de	O
+vestingwerken	O
+,	O
+wijzen	O
+op	O
+een	O
+nederzetting	O
+in	O
+de	O
+pre	O
+en	O
+proto	O
+historie	O
+.	O
+
+
+het	O
+staat	O
+op	O
+hun	O
+gelijknamige	B-CW
+album	I-CW
+uit	O
+1991	O
+.	O
+
+
+vecuronium	O
+wordt	O
+ook	O
+gebruikt	O
+door	O
+een	O
+arts	O
+in	O
+law	B-CW
+&	I-CW
+order	I-CW
+voordat	O
+een	O
+orgaan	O
+wordt	O
+uitgenomen	O
+bij	O
+een	O
+hersendode	O
+patiënt	O
+.	O
+
+
+hier	O
+moest	O
+hij	O
+verblijven	O
+tot	O
+de	O
+versterkingen	O
+vanuit	O
+zaragoza	B-LOC
+en	O
+valencia	B-LOC
+zouden	O
+arriveren	O
+.	O
+
+
+hij	O
+debuteerde	O
+voor	O
+de	O
+colombia	B-LOC
+club	O
+unión	B-GRP
+magdalena	I-GRP
+.	O
+
+
+kleinere	O
+versies	O
+werden	O
+vaak	O
+als	O
+amulet	B-PROD
+om	O
+de	O
+nek	O
+gedragen	O
+.	O
+
+
+in	O
+oktober	O
+2019	O
+tekende	O
+hij	O
+voor	O
+northampton	B-GRP
+town	I-GRP
+.	O
+
+
+bilaspur	O
+is	O
+een	O
+census	B-LOC
+town	I-LOC
+in	O
+het	O
+district	O
+yamuna	B-LOC
+nagar	I-LOC
+van	O
+de	O
+india	B-LOC
+staat	B-LOC
+haryana	B-LOC
+.	O
+
+
+ook	O
+in	O
+2007	O
+had	O
+hij	O
+een	O
+hoofdrol	O
+in	O
+boot	B-CW
+camp	I-CW
+met	O
+mila	B-PER
+kunis	I-PER
+als	O
+tegenspeelster	O
+.	O
+
+
+jan	B-PER
+peter	I-PER
+balkenende	I-PER
+werkte	O
+voor	O
+het	O
+wetenschappelijk	O
+bureau	O
+van	O
+het	O
+cda	B-GRP
+,	O
+ab	B-PER
+klink	I-PER
+was	O
+er	O
+directeur	O
+.	O
+
+
+jacks	O
+dood	O
+aan	O
+het	O
+eind	O
+van	O
+de	O
+film	O
+titanic	B-CW
+had	O
+voorkomen	O
+kunnen	O
+worden	O
+.	O
+
+
+hij	O
+bereikte	O
+de	O
+finale	O
+en	O
+werd	O
+tweede	O
+,	O
+waarbij	O
+hij	O
+een	O
+lied	O
+van	O
+willy	B-PER
+alberti	I-PER
+uitvoerde	O
+.	O
+
+
+rousseloy	O
+is	O
+een	O
+gemeente	O
+in	O
+het	O
+franse	B-LOC
+departement	O
+oise	B-LOC
+(	O
+regio	O
+hauts-de-france	B-LOC
+)	O
+en	O
+telt	O
+312	O
+inwoners	O
+.	O
+
+
+daarbij	O
+slechts	O
+één	O
+afgestreken	O
+eetlepel	O
+havermout	B-PROD
+,	O
+die	O
+men	O
+12	O
+uur	O
+had	O
+voorgeweekt	O
+in	O
+3	O
+eetlepels	O
+water	O
+,	O
+en	O
+het	O
+sap	O
+van	O
+een	O
+halve	O
+citroen	O
+en	O
+1	O
+eetlepel	O
+gecondenseerde	O
+melk	O
+.	O
+
+
+de	O
+wereldgezondheidsorganisatie	B-GRP
+publiceerde	O
+in	O
+2005	O
+richtlijnen	O
+op	O
+betreffende	O
+de	O
+inhoud	O
+van	O
+de	O
+basisopleiding	O
+chiropraxie	O
+en	O
+veiligheidsvoorschriften	O
+voor	O
+de	O
+praktijk	O
+.	O
+
+
+#	O
+35	O
+bij	O
+vpro	B-CORP
+'s	I-CORP
+song	O
+van	O
+het	O
+jaar	O
+
+
+1997	O
+1998	O
+the	B-CW
+new	I-CW
+batman	I-CW
+adventures	I-CW
+–	O
+als	O
+diverse	O
+stemmen	O
+–	O
+3	O
+afl	O
+.	O
+
+
+ginger	O
+ale	O
+(	O
+niet	O
+te	O
+verwarren	O
+met	O
+gemberbier	B-PROD
+)	O
+is	O
+een	O
+koolzuurhoudende	O
+frisdrank	B-PROD
+op	O
+smaak	O
+gebracht	O
+met	O
+gember	B-PROD
+.	O
+
+
+het	O
+spel	O
+is	O
+uitgebracht	O
+voor	O
+windows	B-CW
+,	O
+playstation	B-PROD
+3	I-PROD
+,	O
+xbox	B-PROD
+360	I-PROD
+en	O
+android	B-CW
+/	O
+ios	B-CW
+.	O
+
+
+branded	B-CW
+,	O
+een	O
+filmwestern	O
+uit	O
+1950	O
+
+
+in	O
+1858	O
+beschreef	O
+johann	B-PER
+andreas	I-PER
+wagner	I-PER
+een	O
+tweede	O
+exemplaar	O
+,	O
+bestaande	O
+uit	O
+skeletdelen	O
+.	O
+
+
+de	O
+plaats	O
+maakt	O
+deel	O
+uit	O
+van	O
+het	O
+arrondissement	O
+mont-de-marsan	B-LOC
+.	O
+
+
+amstel	O
+is	O
+een	O
+biermerk	O
+van	O
+heineken	B-CORP
+.	O
+
+
+roger	B-PER
+van	I-PER
+boxtel	I-PER
+,	O
+bestuurder	O
+en	O
+voormalig	O
+politicus	O
+
+
+even	B-CW
+better	I-CW
+than	I-CW
+the	I-CW
+real	I-CW
+thing	I-CW
+is	O
+het	O
+tweede	O
+nummer	O
+op	O
+het	O
+album	O
+achtung	B-CW
+baby	I-CW
+en	O
+werd	O
+in	O
+1992	O
+als	O
+vierde	O
+single	O
+van	O
+dit	O
+album	O
+uitgebracht	O
+.	O
+
+
+de	O
+motorwagens	O
+210	O
+en	O
+220	O
+zijn	O
+als	O
+museumtrams	B-PROD
+bewaard	O
+gebleven	O
+,	O
+alleen	O
+de	O
+220	O
+is	O
+rijvaardig	O
+.	O
+
+
+ondervoorzitter	O
+van	O
+het	O
+agentschap	O
+belga	B-CORP
+;	O
+
+
+in	O
+2006	O
+is	O
+het	O
+aantal	O
+inwoners	O
+door	O
+het	O
+united	B-GRP
+states	I-GRP
+census	I-GRP
+bureau	I-GRP
+geschat	O
+op	O
+831	O
+,	O
+een	O
+daling	O
+van	O
+95	O
+(	O
+10	O
+,	O
+3	O
+%	O
+)	O
+.	O
+
+
+verdachte	O
+brengt	O
+op	O
+21	O
+mei	O
+1983	O
+te	O
+haarlem	B-LOC
+met	O
+een	O
+mes	O
+een	O
+aantal	O
+steekwonden	O
+toe	O
+in	O
+het	O
+hoofd	O
+en	O
+het	O
+lichaam	O
+van	O
+het	O
+slachtoffer	O
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+werd	O
+voor	O
+het	O
+eerst	O
+voorgesteld	O
+door	O
+franz	B-PER
+steindachner	I-PER
+in	O
+1876	O
+.	O
+
+
+nightwork	O
+was	O
+een	O
+tsjechische	B-LOC
+band	B-CORP
+uit	O
+praag	B-LOC
+.	O
+
+
+het	O
+tweede	O
+nummer	O
+op	O
+de	O
+single	B-CW
+was	O
+een	O
+versie	O
+van	O
+het	O
+nummer	O
+.	O
+
+
+tussen	O
+1914	O
+en	O
+1933	O
+acteerde	O
+ze	O
+in	O
+238	O
+films	B-CW
+,	O
+vooral	O
+stomme	B-CW
+slapstick	B-CW
+komedies	B-CW
+.	O
+
+
+in	O
+zijn	O
+vroege	O
+werk	O
+citeerde	O
+hij	O
+naar	O
+constantin	B-PER
+brâncuși	I-PER
+in	O
+grotendeels	O
+houten	O
+,	O
+verticale	O
+werken	O
+.	O
+
+
+tocantínia	O
+is	O
+een	O
+gemeente	B-LOC
+in	O
+de	O
+braziliaanse	B-LOC
+deelstaat	O
+tocantins	B-LOC
+.	O
+
+
+ze	O
+werd	O
+daarmee	O
+1e	O
+opvolger	O
+voor	O
+de	O
+gemeenteraad	B-GRP
+in	O
+de	O
+periode	O
+2000	O
+2006	O
+.	O
+
+
+rijlaars	B-PROD
+hoge	O
+nauwsluitende	O
+laarzen	O
+van	O
+leer	O
+of	O
+van	O
+rubber	O
+/	O
+vinyl	O
+
+
+daarna	O
+(	O
+h	O
+.	O
+3	O
+5	O
+)	O
+geeft	O
+hij	O
+een	O
+samenvatting	O
+van	O
+de	O
+geschiedenis	O
+van	O
+het	O
+management	O
+bij	O
+de	O
+spoorwegen	B-CORP
+in	O
+de	O
+loop	O
+van	O
+de	O
+19e	O
+en	O
+begin	O
+20e	O
+eeuw	O
+.	O
+
+
+voor	O
+haar	O
+tegenspeler	O
+tyrone	B-PER
+power	I-PER
+was	O
+het	O
+de	O
+laatste	O
+komediefilm	O
+die	O
+hij	O
+maakte	O
+tot	O
+en	O
+met	O
+zijn	O
+rol	O
+in	O
+the	B-CW
+luck	I-CW
+of	I-CW
+the	I-CW
+irish	I-CW
+.	O
+
+
+ook	O
+te	O
+zien	O
+in	O
+the	B-CW
+lost	I-CW
+world:	I-CW
+jurassic	I-CW
+park	I-CW
+
+
+ballast	B-CORP
+nedam	I-CORP
+had	O
+nog	O
+250.000	O
+gulden	O
+betaald	O
+om	O
+het	O
+achterstallige	O
+onderhoud	O
+aan	O
+de	O
+brug	O
+en	O
+sluis	O
+weg	O
+te	O
+werken	O
+.	O
+
+
+een	O
+hert	O
+met	O
+een	O
+kruis	O
+tussen	O
+het	O
+gewei	O
+is	O
+het	O
+attribuut	O
+van	O
+sint	B-PER
+eustachius	I-PER
+.	O
+
+
+marel	O
+startte	O
+zijn	O
+carrière	O
+bij	O
+breiðablik	B-GRP
+kópavogur	I-GRP
+,	O
+maar	O
+maakte	O
+al	O
+snel	O
+de	O
+overstap	O
+naar	O
+het	O
+buitenland	O
+.	O
+
+
+foxpro	O
+2.6	O
+voor	O
+apple	B-PROD
+macintosh	I-PROD
+is	O
+uitgebracht	O
+.	O
+
+
+in	O
+de	O
+laatste	O
+jaren	O
+maakte	O
+men	O
+voornamelijk	O
+gemotoriseerde	O
+fietsen	O
+en	O
+bromfiets	B-PROD
+.	O
+
+
+zijn	O
+familie	O
+viel	O
+in	O
+844	O
+in	O
+ongenade	O
+bij	O
+koning	O
+karel	B-PER
+de	I-PER
+kale	I-PER
+van	O
+west-francië	B-LOC
+en	O
+verloor	O
+hierdoor	O
+haar	O
+bezittingen	O
+.	O
+
+
+ook	O
+peter	B-PER
+frampton	I-PER
+werd	O
+genoemd	O
+op	O
+het	O
+album	O
+,	O
+maar	O
+het	O
+is	O
+onbekend	O
+wat	O
+precies	O
+zijn	O
+bijdrage	O
+was	O
+.	O
+
+
+via	O
+de	O
+eindronde	O
+en	O
+strafschoppen	O
+tegen	O
+fc	B-GRP
+rouen	I-GRP
+kan	O
+de	O
+club	O
+na	O
+één	O
+jaar	O
+terugkeren	O
+en	O
+wordt	O
+dertiende	O
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+werd	O
+voor	O
+het	O
+eerst	O
+geldig	O
+gepubliceerd	O
+in	O
+1943	O
+door	O
+cândido	B-PER
+firmino	I-PER
+de	I-PER
+mello-leitão	I-PER
+.	O
+
+
+het	O
+werd	O
+in	O
+1965	O
+bij	O
+de	O
+rdm	B-CORP
+gebouwd	O
+.	O
+
+
+hij	O
+belandde	O
+uiteindelijk	O
+bij	O
+de	O
+jeugdopleiding	O
+van	O
+lille	B-GRP
+osc	I-GRP
+.	O
+
+
+wat	O
+wel	O
+bekend	O
+is	O
+dat	O
+hij	O
+overleed	O
+in	O
+1936	O
+in	O
+chicago	B-LOC
+.	O
+
+
+de	O
+villa	O
+'s	O
+,	O
+in	O
+dit	O
+geval	O
+landhuizen	O
+,	O
+werden	O
+gebouwd	O
+voor	O
+welvarende	O
+families	O
+die	O
+veelal	O
+een	O
+palazzo	B-LOC
+in	O
+een	O
+stad	O
+hadden	O
+.	O
+
+
+sinds	O
+augustus	O
+2011	O
+is	O
+ze	O
+voorzitter	O
+van	O
+de	O
+european	B-GRP
+hockey	I-GRP
+federation	I-GRP
+(	O
+ehf	O
+)	O
+.	O
+
+
+behalve	O
+naar	O
+de	O
+klassieke	O
+componisten	O
+beethoven	B-PER
+en	O
+tsjaikovski	B-PER
+verwijst	O
+de	O
+tekst	O
+naar	O
+verschillende	O
+andere	O
+popmuzikanten	O
+.	O
+
+
+2001	O
+:	O
+sergi	B-PER
+lópez	I-PER
+voor	O
+harry,	B-CW
+un	I-CW
+ami	I-CW
+qui	I-CW
+vous	I-CW
+veut	I-CW
+du	I-CW
+bien	I-CW
+
+
+ze	O
+dwong	O
+de	O
+bemanning	O
+over	O
+haifa	B-LOC
+,	O
+haar	O
+geboortestad	O
+,	O
+te	O
+vliegen	O
+met	O
+als	O
+doel	O
+om	O
+in	O
+tel	B-LOC
+aviv	I-LOC
+te	O
+landen	O
+.	O
+
+
+astra	B-CORP
+weet	O
+voor	O
+het	O
+eerst	O
+een	O
+van	O
+hun	O
+raketten	O
+in	O
+de	O
+ruimte	O
+te	O
+krijgen	O
+.	O
+
+
+amage	O
+is	O
+een	O
+gemeente	O
+in	O
+het	O
+franse	B-LOC
+departement	O
+haute-saône	B-LOC
+(	O
+regio	O
+bourgogne-franche-comté	B-LOC
+)	O
+en	O
+telt	O
+330	O
+inwoners	O
+.	O
+
+
+;	O
+hi	O
+tech	O
+:	O
+hi	O
+tech	O
+is	O
+de	O
+naam	O
+van	O
+een	O
+progressief	O
+werkend	O
+motorfiets	B-PROD
+veersysteem	O
+,	O
+met	O
+twee	O
+hefboompjes	O
+.	O
+
+
+ze	O
+was	O
+de	O
+enige	O
+dochter	O
+en	O
+erfgename	O
+van	O
+lodewijk	B-PER
+van	I-PER
+male	I-PER
+,	O
+graaf	B-LOC
+van	I-LOC
+vlaanderen	I-LOC
+,	O
+en	O
+margaretha	B-PER
+van	I-PER
+brabant	I-PER
+.	O
+
+
+op	O
+6	O
+september	O
+1880	O
+werd	O
+de	O
+kerk	O
+door	O
+bisschop	O
+paredis	B-PER
+ingewijd	O
+.	O
+
+
+togrenda	O
+is	O
+een	O
+plaats	B-GRP
+in	O
+de	O
+noorse	B-LOC
+gemeente	O
+ås	B-LOC
+,	O
+provincie	B-LOC
+viken	B-LOC
+.	O
+
+
+lodewijkx	O
+scoorde	O
+het	O
+eerste	O
+punt	O
+voor	O
+jamathi	B-CORP
+.	O
+
+
+onderstaande	O
+tabel	O
+geeft	O
+de	O
+buurtindeling	O
+met	O
+kentallen	O
+volgens	O
+het	O
+centraal	B-GRP
+bureau	I-GRP
+voor	I-GRP
+de	I-GRP
+statistiek	I-GRP
+:	O
+
+
+hij	O
+was	O
+een	O
+van	O
+de	O
+oprichters	O
+van	O
+de	O
+plaatselijke	O
+landelijke	B-GRP
+organisatie	I-GRP
+voor	I-GRP
+hulp	I-GRP
+aan	I-GRP
+onderduikers	I-GRP
+.	O
+
+
+de	O
+dom	O
+heeft	O
+meer	O
+dan	O
+20	O
+altaren	B-PROD
+.	O
+
+
+rough	O
+diamonds	O
+is	O
+het	O
+derde	O
+studioalbum	B-CW
+van	O
+jack	B-GRP
+the	I-GRP
+lad	I-GRP
+.	O
+
+
+tot	O
+in	O
+1945	O
+was	O
+hij	O
+vooral	O
+actief	O
+als	O
+meubelontwerper	B-PROD
+.	O
+
+
+de	O
+stad	O
+heeft	O
+een	O
+spoorwegstation	O
+en	O
+een	O
+luchthaven	O
+met	O
+een	O
+eigen	O
+luchtvaartmaatschappij	O
+:	O
+aerobratsk	B-CORP
+.	O
+
+
+hier	O
+kwam	O
+hij	O
+in	O
+contact	O
+met	O
+de	O
+producer	O
+jack	B-PER
+clement	I-PER
+die	O
+hem	O
+onder	O
+meer	O
+het	O
+geld	O
+voorschoot	O
+om	O
+een	O
+demo	O
+te	O
+maken	O
+.	O
+
+
+de	O
+manga	O
+werd	O
+uitgegeven	O
+in	O
+shueisha	B-CORP
+'s	I-CORP
+tijdschrift	O
+margaret	B-CW
+en	O
+kende	O
+van	O
+diens	O
+begin	O
+al	O
+succes	O
+.	O
+
+
+in	O
+de	O
+jaren	O
+twintig	O
+verhuisde	O
+hij	O
+naar	O
+hollywood	B-LOC
+en	O
+speelde	O
+daar	O
+onder	O
+meer	O
+in	O
+the	B-CW
+man	I-CW
+who	I-CW
+laughs	I-CW
+.	O
+
+
+de	O
+achteras	O
+kwam	O
+uit	O
+een	O
+ford	B-PROD
+escort	I-PROD
+.	O
+
+
+danaë	O
+bestaat	O
+uit	O
+webcam	B-PROD
+van	O
+vrouwen	O
+.	O
+
+
+uit	O
+deze	O
+soort	O
+wordt	O
+een	O
+intens	O
+geurige	O
+olie	O
+gewonnen	O
+,	O
+nardus	B-PROD
+geheten	O
+.	O
+
+
+#	O
+dazed	B-CW
+and	I-CW
+confused	I-CW
+(	O
+page	O
+,	O
+gebaseerd	O
+op	O
+“	O
+dazed	O
+and	O
+confused	O
+”	O
+van	O
+jake	B-PER
+holmes	I-PER
+uit	O
+1967	O
+)	O
+
+
+het	O
+treinverkeer	O
+wordt	O
+verzorgd	O
+door	O
+de	O
+ns	B-GRP
+,	O
+het	O
+busvervoer	O
+door	O
+hermes	B-CORP
+.	O
+
+
+een	O
+handboor	O
+heeft	O
+een	O
+dwars	O
+geplaatst	O
+handvat	B-PROD
+waarmee	O
+de	O
+boor	O
+rondgedraaid	O
+kan	O
+worden	O
+.	O
+
+
+een	O
+handboor	O
+heeft	O
+een	O
+dwars	O
+geplaatst	O
+handvat	B-PROD
+waarmee	O
+de	O
+boor	O
+rondgedraaid	O
+kan	O
+worden	O
+.	O
+
+
+een	O
+handboor	O
+heeft	O
+een	O
+dwars	O
+geplaatst	O
+webcam	B-PROD
+waarmee	O
+de	O
+boor	O
+rondgedraaid	O
+kan	O
+worden	O
+.	O
+
+
+een	O
+handboor	O
+heeft	O
+een	O
+dwars	O
+geplaatst	O
+handvat	B-PROD
+waarmee	O
+de	O
+boor	O
+rondgedraaid	O
+kan	O
+worden	O
+.	O
+
+
+een	O
+handboor	O
+heeft	O
+een	O
+dwars	O
+geplaatst	O
+handvat	B-PROD
+waarmee	O
+de	O
+boor	O
+rondgedraaid	O
+kan	O
+worden	O
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+werd	O
+voor	O
+het	O
+eerst	O
+geldig	O
+gepubliceerd	O
+in	O
+1903	O
+door	O
+nathan	B-PER
+banks	I-PER
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+werd	O
+voor	O
+het	O
+eerst	O
+geldig	O
+gepubliceerd	O
+in	O
+1903	O
+door	O
+beethoven	B-PER
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+werd	O
+voor	O
+het	O
+eerst	O
+geldig	O
+gepubliceerd	O
+in	O
+1903	O
+door	O
+tsjaikovski	B-PER
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+werd	O
+voor	O
+het	O
+eerst	O
+geldig	O
+gepubliceerd	O
+in	O
+1903	O
+door	O
+nathan	B-PER
+banks	I-PER
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+werd	O
+voor	O
+het	O
+eerst	O
+geldig	O
+gepubliceerd	O
+in	O
+1903	O
+door	O
+nathan	B-PER
+banks	I-PER
+.	O
+
+
+deze	O
+soort	O
+komt	O
+voor	O
+in	O
+costa	B-LOC
+rica	I-LOC
+en	O
+panama	B-LOC
+.	O
+
+
+deze	O
+soort	O
+komt	O
+voor	O
+in	O
+costa	B-LOC
+rica	I-LOC
+en	O
+staat	B-LOC
+.	O
+
+
+deze	O
+soort	O
+komt	O
+voor	O
+in	O
+zaragoza	B-LOC
+en	O
+panama	B-LOC
+.	O
+
+
+deze	O
+soort	O
+komt	O
+voor	O
+in	O
+zaragoza	B-LOC
+en	O
+panama	B-LOC
+.	O
+
+
+deze	O
+soort	O
+komt	O
+voor	O
+in	O
+bourgogne-franche-comté	B-LOC
+en	O
+india	B-LOC
+.	O
+
+
+de	O
+serie	O
+werd	O
+uitgezonden	O
+op	O
+abc	B-CORP
+.	O
+
+
+de	O
+serie	O
+werd	O
+uitgezonden	O
+op	O
+band	B-CORP
+.	O
+
+
+de	O
+serie	O
+werd	O
+uitgezonden	O
+op	O
+abc	B-CORP
+.	O
+
+
+de	O
+serie	O
+werd	O
+uitgezonden	O
+op	O
+jamathi	B-CORP
+.	O
+
+
+de	O
+serie	O
+werd	O
+uitgezonden	O
+op	O
+shueisha	B-CORP
+'s	I-CORP
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+is	O
+voor	O
+het	O
+eerst	O
+geldig	O
+gepubliceerd	O
+in	O
+1791	O
+door	O
+johann	B-PER
+friedrich	I-PER
+gmelin	I-PER
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+is	O
+voor	O
+het	O
+eerst	O
+geldig	O
+gepubliceerd	O
+in	O
+1791	O
+door	O
+johann	B-PER
+friedrich	I-PER
+gmelin	I-PER
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+is	O
+voor	O
+het	O
+eerst	O
+geldig	O
+gepubliceerd	O
+in	O
+1791	O
+door	O
+johann	B-PER
+friedrich	I-PER
+gmelin	I-PER
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+is	O
+voor	O
+het	O
+eerst	O
+geldig	O
+gepubliceerd	O
+in	O
+1791	O
+door	O
+johann	B-PER
+friedrich	I-PER
+gmelin	I-PER
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+is	O
+voor	O
+het	O
+eerst	O
+geldig	O
+gepubliceerd	O
+in	O
+1791	O
+door	O
+johann	B-PER
+friedrich	I-PER
+gmelin	I-PER
+.	O
+
+
+hij	O
+studeerde	O
+vervolgens	O
+af	O
+als	O
+regent	O
+wetenschappen	O
+en	O
+werd	O
+in	O
+1952	O
+leraar	O
+wiskunde	O
+in	O
+oudenaarde	B-LOC
+.	O
+
+
+hij	O
+studeerde	O
+vervolgens	O
+af	O
+als	O
+regent	O
+wetenschappen	O
+en	O
+werd	O
+in	O
+1952	O
+leraar	O
+wiskunde	O
+in	O
+oudenaarde	B-LOC
+.	O
+
+
+hij	O
+studeerde	O
+vervolgens	O
+af	O
+als	O
+regent	O
+wetenschappen	O
+en	O
+werd	O
+in	O
+1952	O
+leraar	O
+wiskunde	O
+in	O
+oudenaarde	B-LOC
+.	O
+
+
+hij	O
+studeerde	O
+vervolgens	O
+af	O
+als	O
+regent	O
+wetenschappen	O
+en	O
+werd	O
+in	O
+1952	O
+leraar	O
+wiskunde	O
+in	O
+valencia	B-LOC
+.	O
+
+
+hij	O
+studeerde	O
+vervolgens	O
+af	O
+als	O
+regent	O
+wetenschappen	O
+en	O
+werd	O
+in	O
+1952	O
+leraar	O
+wiskunde	O
+in	O
+oudenaarde	B-LOC
+.	O
+
+
+kafka	O
+had	O
+zo	O
+wellicht	O
+de	O
+basis	O
+geschapen	O
+voor	O
+zijn	O
+roman	O
+het	B-CW
+proces	I-CW
+.	O
+
+
+kafka	O
+had	O
+zo	O
+wellicht	O
+de	O
+basis	O
+geschapen	O
+voor	O
+zijn	O
+roman	O
+het	B-CW
+proces	I-CW
+.	O
+
+
+kafka	O
+had	O
+zo	O
+wellicht	O
+de	O
+basis	O
+geschapen	O
+voor	O
+zijn	O
+roman	O
+dazed	B-CW
+and	I-CW
+confused	I-CW
+.	O
+
+
+kafka	O
+had	O
+zo	O
+wellicht	O
+de	O
+basis	O
+geschapen	O
+voor	O
+zijn	O
+roman	O
+het	B-CW
+proces	I-CW
+.	O
+
+
+kafka	O
+had	O
+zo	O
+wellicht	O
+de	O
+basis	O
+geschapen	O
+voor	O
+zijn	O
+roman	O
+stomme	B-CW
+.	O
+
+
+onder	O
+andere	O
+titus	B-PER
+petronius	I-PER
+secundus	I-PER
+,	O
+zijn	O
+voorganger	O
+in	O
+het	O
+ambt	O
+,	O
+werd	O
+uitgeleverd	O
+en	O
+door	O
+de	O
+pretoriaanse	B-GRP
+garde	I-GRP
+vermoord	O
+.	O
+
+
+onder	O
+andere	O
+jan	B-PER
+peter	I-PER
+balkenende	I-PER
+,	O
+zijn	O
+voorganger	O
+in	O
+het	O
+ambt	O
+,	O
+werd	O
+uitgeleverd	O
+en	O
+door	O
+de	O
+kaa	B-GRP
+gent	I-GRP
+vermoord	O
+.	O
+
+
+onder	O
+andere	O
+lodewijk	B-PER
+van	I-PER
+male	I-PER
+,	O
+zijn	O
+voorganger	O
+in	O
+het	O
+ambt	O
+,	O
+werd	O
+uitgeleverd	O
+en	O
+door	O
+de	O
+pretoriaanse	B-GRP
+garde	I-GRP
+vermoord	O
+.	O
+
+
+onder	O
+andere	O
+titus	B-PER
+petronius	I-PER
+secundus	I-PER
+,	O
+zijn	O
+voorganger	O
+in	O
+het	O
+ambt	O
+,	O
+werd	O
+uitgeleverd	O
+en	O
+door	O
+de	O
+pretoriaanse	B-GRP
+garde	I-GRP
+vermoord	O
+.	O
+
+
+onder	O
+andere	O
+titus	B-PER
+petronius	I-PER
+secundus	I-PER
+,	O
+zijn	O
+voorganger	O
+in	O
+het	O
+ambt	O
+,	O
+werd	O
+uitgeleverd	O
+en	O
+door	O
+de	O
+pretoriaanse	B-GRP
+garde	I-GRP
+vermoord	O
+.	O
+
+
+in	O
+algerije	B-LOC
+,	O
+waar	O
+hij	O
+ook	O
+als	O
+soldaat	O
+diende	O
+,	O
+schreef	O
+hij	O
+in	O
+de	O
+jaren	O
+vijftig	O
+zijn	O
+eerste	O
+sociologische	O
+studies	O
+,	O
+de	O
+wetenschap	O
+waar	O
+hij	O
+zich	O
+toe	O
+‘	O
+bekeerde	O
+’	O
+.	O
+
+
+in	O
+algerije	B-LOC
+,	O
+waar	O
+hij	O
+ook	O
+als	O
+soldaat	O
+diende	O
+,	O
+schreef	O
+hij	O
+in	O
+de	O
+jaren	O
+vijftig	O
+zijn	O
+eerste	O
+sociologische	O
+studies	O
+,	O
+de	O
+wetenschap	O
+waar	O
+hij	O
+zich	O
+toe	O
+‘	O
+bekeerde	O
+’	O
+.	O
+
+
+in	O
+bondsrepubliek	B-LOC
+duitsland	I-LOC
+,	O
+waar	O
+hij	O
+ook	O
+als	O
+soldaat	O
+diende	O
+,	O
+schreef	O
+hij	O
+in	O
+de	O
+jaren	O
+vijftig	O
+zijn	O
+eerste	O
+sociologische	O
+studies	O
+,	O
+de	O
+wetenschap	O
+waar	O
+hij	O
+zich	O
+toe	O
+‘	O
+bekeerde	O
+’	O
+.	O
+
+
+in	O
+occitanie	B-LOC
+,	O
+waar	O
+hij	O
+ook	O
+als	O
+soldaat	O
+diende	O
+,	O
+schreef	O
+hij	O
+in	O
+de	O
+jaren	O
+vijftig	O
+zijn	O
+eerste	O
+sociologische	O
+studies	O
+,	O
+de	O
+wetenschap	O
+waar	O
+hij	O
+zich	O
+toe	O
+‘	O
+bekeerde	O
+’	O
+.	O
+
+
+in	O
+torre	B-LOC
+de	I-LOC
+dona	I-LOC
+chama	I-LOC
+,	O
+waar	O
+hij	O
+ook	O
+als	O
+soldaat	O
+diende	O
+,	O
+schreef	O
+hij	O
+in	O
+de	O
+jaren	O
+vijftig	O
+zijn	O
+eerste	O
+sociologische	O
+studies	O
+,	O
+de	O
+wetenschap	O
+waar	O
+hij	O
+zich	O
+toe	O
+‘	O
+bekeerde	O
+’	O
+.	O
+
+
+in	O
+de	O
+bondsrepubliek	B-LOC
+duitsland	I-LOC
+werd	O
+de	O
+film	O
+op	O
+26	O
+december	O
+1969	O
+op	O
+zdf	B-CORP
+voor	O
+het	O
+eerst	O
+uitgezonden	O
+en	O
+bereikte	O
+een	O
+kijkcijfer	O
+van	O
+53	O
+%	O
+(	O
+20	O
+miljoen	O
+kijkers	O
+)	O
+.	O
+
+
+in	O
+de	O
+bondsrepubliek	B-LOC
+duitsland	I-LOC
+werd	O
+de	O
+film	O
+op	O
+26	O
+december	O
+1969	O
+op	O
+zdf	B-CORP
+voor	O
+het	O
+eerst	O
+uitgezonden	O
+en	O
+bereikte	O
+een	O
+kijkcijfer	O
+van	O
+53	O
+%	O
+(	O
+20	O
+miljoen	O
+kijkers	O
+)	O
+.	O
+
+
+in	O
+de	O
+bondsrepubliek	B-LOC
+duitsland	I-LOC
+werd	O
+de	O
+film	O
+op	O
+26	O
+december	O
+1969	O
+op	O
+zdf	B-CORP
+voor	O
+het	O
+eerst	O
+uitgezonden	O
+en	O
+bereikte	O
+een	O
+kijkcijfer	O
+van	O
+53	O
+%	O
+(	O
+20	O
+miljoen	O
+kijkers	O
+)	O
+.	O
+
+
+in	O
+de	O
+haarlem	B-LOC
+werd	O
+de	O
+film	O
+op	O
+26	O
+december	O
+1969	O
+op	O
+zdf	B-CORP
+voor	O
+het	O
+eerst	O
+uitgezonden	O
+en	O
+bereikte	O
+een	O
+kijkcijfer	O
+van	O
+53	O
+%	O
+(	O
+20	O
+miljoen	O
+kijkers	O
+)	O
+.	O
+
+
+in	O
+de	O
+bondsrepubliek	B-LOC
+duitsland	I-LOC
+werd	O
+de	O
+film	O
+op	O
+26	O
+december	O
+1969	O
+op	O
+zdf	B-CORP
+voor	O
+het	O
+eerst	O
+uitgezonden	O
+en	O
+bereikte	O
+een	O
+kijkcijfer	O
+van	O
+53	O
+%	O
+(	O
+20	O
+miljoen	O
+kijkers	O
+)	O
+.	O
+
+
+rond	O
+200	O
+begonnen	O
+bisschops	O
+fc	B-GRP
+rouen	I-GRP
+zich	O
+tegen	O
+het	O
+montanisme	O
+te	O
+keren	O
+,	O
+waaruit	O
+valt	O
+op	O
+te	O
+maken	O
+,	O
+dat	O
+de	O
+beweging	O
+was	O
+begonnen	O
+zich	O
+te	O
+verspreiden	O
+.	O
+
+
+rond	O
+200	O
+begonnen	O
+bisschops	O
+synodes	B-GRP
+zich	O
+tegen	O
+het	O
+montanisme	O
+te	O
+keren	O
+,	O
+waaruit	O
+valt	O
+op	O
+te	O
+maken	O
+,	O
+dat	O
+de	O
+beweging	O
+was	O
+begonnen	O
+zich	O
+te	O
+verspreiden	O
+.	O
+
+
+rond	O
+200	O
+begonnen	O
+bisschops	O
+synodes	B-GRP
+zich	O
+tegen	O
+het	O
+montanisme	O
+te	O
+keren	O
+,	O
+waaruit	O
+valt	O
+op	O
+te	O
+maken	O
+,	O
+dat	O
+de	O
+beweging	O
+was	O
+begonnen	O
+zich	O
+te	O
+verspreiden	O
+.	O
+
+
+rond	O
+200	O
+begonnen	O
+bisschops	O
+northampton	B-GRP
+town	I-GRP
+zich	O
+tegen	O
+het	O
+montanisme	O
+te	O
+keren	O
+,	O
+waaruit	O
+valt	O
+op	O
+te	O
+maken	O
+,	O
+dat	O
+de	O
+beweging	O
+was	O
+begonnen	O
+zich	O
+te	O
+verspreiden	O
+.	O
+
+
+rond	O
+200	O
+begonnen	O
+bisschops	O
+unión	B-GRP
+magdalena	I-GRP
+zich	O
+tegen	O
+het	O
+montanisme	O
+te	O
+keren	O
+,	O
+waaruit	O
+valt	O
+op	O
+te	O
+maken	O
+,	O
+dat	O
+de	O
+beweging	O
+was	O
+begonnen	O
+zich	O
+te	O
+verspreiden	O
+.	O
+
+
+in	O
+1999	O
+trok	O
+hij	O
+naar	O
+kaa	B-GRP
+gent	I-GRP
+.	O
+
+
+in	O
+1999	O
+trok	O
+hij	O
+naar	O
+kaa	B-GRP
+gent	I-GRP
+.	O
+
+
+in	O
+1999	O
+trok	O
+hij	O
+naar	O
+kaa	B-GRP
+gent	I-GRP
+.	O
+
+
+in	O
+1999	O
+trok	O
+hij	O
+naar	O
+kaa	B-GRP
+gent	I-GRP
+.	O
+
+
+in	O
+1999	O
+trok	O
+hij	O
+naar	O
+kaa	B-GRP
+gent	I-GRP
+.	O
+
+
+die	O
+race	O
+werd	O
+gewonnen	O
+door	O
+ramón	B-PER
+torras	I-PER
+(	O
+rdm	B-CORP
+)	O
+.	O
+
+
+die	O
+race	O
+werd	O
+gewonnen	O
+door	O
+ramón	B-PER
+torras	I-PER
+(	O
+jamathi	B-CORP
+)	O
+.	O
+
+
+die	O
+race	O
+werd	O
+gewonnen	O
+door	O
+ramón	B-PER
+torras	I-PER
+(	O
+aerobratsk	B-CORP
+)	O
+.	O
+
+
+die	O
+race	O
+werd	O
+gewonnen	O
+door	O
+ramón	B-PER
+torras	I-PER
+(	O
+bultaco	B-CORP
+)	O
+.	O
+
+
+die	O
+race	O
+werd	O
+gewonnen	O
+door	O
+ramón	B-PER
+torras	I-PER
+(	O
+bultaco	B-CORP
+)	O
+.	O
+
+
+hiervoor	O
+werd	O
+elke	O
+keer	O
+een	O
+thriller	B-CW
+verfilmd	O
+in	O
+de	O
+vorm	O
+van	O
+een	O
+toneelstuk	B-CW
+.	O
+
+
+hiervoor	O
+werd	O
+elke	O
+keer	O
+een	O
+thriller	B-CW
+verfilmd	O
+in	O
+de	O
+vorm	O
+van	O
+een	O
+toneelstuk	B-CW
+.	O
+
+
+hiervoor	O
+werd	O
+elke	O
+keer	O
+een	O
+komedies	B-CW
+verfilmd	O
+in	O
+de	O
+vorm	O
+van	O
+een	O
+toneelstuk	B-CW
+.	O
+
+
+hiervoor	O
+werd	O
+elke	O
+keer	O
+een	O
+branded	B-CW
+verfilmd	O
+in	O
+de	O
+vorm	O
+van	O
+een	O
+toneelstuk	B-CW
+.	O
+
+
+hiervoor	O
+werd	O
+elke	O
+keer	O
+een	O
+thriller	B-CW
+verfilmd	O
+in	O
+de	O
+vorm	O
+van	O
+een	O
+dazed	B-CW
+and	I-CW
+confused	I-CW
+.	O
+
+
+in	O
+2006	O
+werd	O
+de	O
+film	O
+op	O
+dvd	O
+uitgebracht	O
+en	O
+twee	O
+jaar	O
+later	O
+ook	O
+op	O
+shoarma	B-PROD
+.	O
+
+
+in	O
+2006	O
+werd	O
+de	O
+film	O
+op	O
+dvd	O
+uitgebracht	O
+en	O
+twee	O
+jaar	O
+later	O
+ook	O
+op	O
+blu-ray	B-PROD
+.	O
+
+
+in	O
+2006	O
+werd	O
+de	O
+film	O
+op	O
+dvd	O
+uitgebracht	O
+en	O
+twee	O
+jaar	O
+later	O
+ook	O
+op	O
+rijlaars	B-PROD
+.	O
+
+
+in	O
+2006	O
+werd	O
+de	O
+film	O
+op	O
+dvd	O
+uitgebracht	O
+en	O
+twee	O
+jaar	O
+later	O
+ook	O
+op	O
+bromfiets	B-PROD
+.	O
+
+
+in	O
+2006	O
+werd	O
+de	O
+film	O
+op	O
+dvd	O
+uitgebracht	O
+en	O
+twee	O
+jaar	O
+later	O
+ook	O
+op	O
+blu-ray	B-PROD
+.	O
+
+
+de	O
+gynaecologen	O
+willy	B-PER
+alberti	I-PER
+en	O
+horst	B-PER
+schumann	I-PER
+deden	O
+onderzoek	O
+naar	O
+de	O
+sterilisatie	O
+van	O
+vrouwen	O
+
+
+de	O
+gynaecologen	O
+carl	B-PER
+clauberg	I-PER
+en	O
+horst	B-PER
+schumann	I-PER
+deden	O
+onderzoek	O
+naar	O
+de	O
+sterilisatie	O
+van	O
+vrouwen	O
+
+
+de	O
+gynaecologen	O
+carl	B-PER
+clauberg	I-PER
+en	O
+horst	B-PER
+schumann	I-PER
+deden	O
+onderzoek	O
+naar	O
+de	O
+sterilisatie	O
+van	O
+vrouwen	O
+
+
+de	O
+gynaecologen	O
+carl	B-PER
+clauberg	I-PER
+en	O
+horst	B-PER
+schumann	I-PER
+deden	O
+onderzoek	O
+naar	O
+de	O
+sterilisatie	O
+van	O
+vrouwen	O
+
+
+de	O
+gynaecologen	O
+carl	B-PER
+clauberg	I-PER
+en	O
+horst	B-PER
+schumann	I-PER
+deden	O
+onderzoek	O
+naar	O
+de	O
+sterilisatie	O
+van	O
+vrouwen	O
+
+
+soublecause	O
+is	O
+een	O
+gemeente	O
+in	O
+het	O
+franse	B-LOC
+departement	O
+hautes-pyrénées	B-LOC
+(	O
+regio	O
+occitanie	B-LOC
+)	O
+en	O
+telt	O
+171	O
+inwoners	O
+.	O
+
+
+soublecause	O
+is	O
+een	O
+gemeente	O
+in	O
+het	O
+algerije	B-LOC
+departement	O
+provincie	B-LOC
+(	O
+regio	O
+occitanie	B-LOC
+)	O
+en	O
+telt	O
+171	O
+inwoners	O
+.	O
+
+
+soublecause	O
+is	O
+een	O
+gemeente	O
+in	O
+het	O
+hauts-de-france	B-LOC
+departement	O
+hautes-pyrénées	B-LOC
+(	O
+regio	O
+yamuna	B-LOC
+nagar	I-LOC
+)	O
+en	O
+telt	O
+171	O
+inwoners	O
+.	O
+
+
+soublecause	O
+is	O
+een	O
+gemeente	O
+in	O
+het	O
+franse	B-LOC
+departement	O
+hautes-pyrénées	B-LOC
+(	O
+regio	O
+occitanie	B-LOC
+)	O
+en	O
+telt	O
+171	O
+inwoners	O
+.	O
+
+
+soublecause	O
+is	O
+een	O
+gemeente	O
+in	O
+het	O
+staat	B-LOC
+departement	O
+hautes-pyrénées	B-LOC
+(	O
+regio	O
+braziliaanse	B-LOC
+)	O
+en	O
+telt	O
+171	O
+inwoners	O
+.	O
+
+
+idzerda	O
+'s	O
+zender	O
+pcgg	B-CORP
+werd	O
+razend	O
+populair	O
+,	O
+wat	O
+hem	O
+in	O
+staat	O
+stelde	O
+de	O
+benodigde	O
+financiële	O
+ondersteuning	O
+voor	O
+zijn	O
+zender	O
+te	O
+vragen	O
+en	O
+te	O
+ontvangen	O
+.	O
+
+
+idzerda	O
+'s	O
+zender	O
+spoorwegen	B-CORP
+werd	O
+razend	O
+populair	O
+,	O
+wat	O
+hem	O
+in	O
+staat	O
+stelde	O
+de	O
+benodigde	O
+financiële	O
+ondersteuning	O
+voor	O
+zijn	O
+zender	O
+te	O
+vragen	O
+en	O
+te	O
+ontvangen	O
+.	O
+
+
+idzerda	O
+'s	O
+zender	O
+rdm	B-CORP
+werd	O
+razend	O
+populair	O
+,	O
+wat	O
+hem	O
+in	O
+staat	O
+stelde	O
+de	O
+benodigde	O
+financiële	O
+ondersteuning	O
+voor	O
+zijn	O
+zender	O
+te	O
+vragen	O
+en	O
+te	O
+ontvangen	O
+.	O
+
+
+idzerda	O
+'s	O
+zender	O
+pcgg	B-CORP
+werd	O
+razend	O
+populair	O
+,	O
+wat	O
+hem	O
+in	O
+staat	O
+stelde	O
+de	O
+benodigde	O
+financiële	O
+ondersteuning	O
+voor	O
+zijn	O
+zender	O
+te	O
+vragen	O
+en	O
+te	O
+ontvangen	O
+.	O
+
+
+idzerda	O
+'s	O
+zender	O
+netflix	B-CORP
+werd	O
+razend	O
+populair	O
+,	O
+wat	O
+hem	O
+in	O
+staat	O
+stelde	O
+de	O
+benodigde	O
+financiële	O
+ondersteuning	O
+voor	O
+zijn	O
+zender	O
+te	O
+vragen	O
+en	O
+te	O
+ontvangen	O
+.	O
+
+
+pizza	O
+kebab	O
+/	O
+shoarma	O
+(	O
+tomaat	O
+,	O
+kaas	O
+,	O
+kebab	B-PROD
+/	O
+shoarma	B-PROD
+)	O
+(	O
+zweden	B-LOC
+,	O
+van	O
+oorsprong	O
+turks	B-LOC
+,	O
+ook	O
+populair	O
+in	O
+zaragoza	B-LOC
+)	O
+
+
+pizza	O
+kebab	O
+/	O
+shoarma	O
+(	O
+tomaat	O
+,	O
+kaas	O
+,	O
+kebab	B-PROD
+/	O
+kebab	B-PROD
+)	O
+(	O
+viken	B-LOC
+,	O
+van	O
+oorsprong	O
+turks	B-LOC
+,	O
+ook	O
+populair	O
+in	O
+mont-de-marsan	B-LOC
+)	O
+
+
+pizza	O
+kebab	O
+/	O
+shoarma	O
+(	O
+tomaat	O
+,	O
+kaas	O
+,	O
+kebab	B-PROD
+/	O
+shoarma	B-PROD
+)	O
+(	O
+zweden	B-LOC
+,	O
+van	O
+oorsprong	O
+turks	B-LOC
+,	O
+ook	O
+populair	O
+in	O
+nederland	B-LOC
+)	O
+
+
+pizza	O
+kebab	O
+/	O
+shoarma	O
+(	O
+tomaat	O
+,	O
+kaas	O
+,	O
+amulet	B-PROD
+/	O
+ford	B-PROD
+escort	I-PROD
+)	O
+(	O
+zweden	B-LOC
+,	O
+van	O
+oorsprong	O
+haifa	B-LOC
+,	O
+ook	O
+populair	O
+in	O
+nederland	B-LOC
+)	O
+
+
+pizza	O
+kebab	O
+/	O
+shoarma	O
+(	O
+tomaat	O
+,	O
+kaas	O
+,	O
+kebab	B-PROD
+/	O
+shoarma	B-PROD
+)	O
+(	O
+zweden	B-LOC
+,	O
+van	O
+oorsprong	O
+oise	B-LOC
+,	O
+ook	O
+populair	O
+in	O
+nederland	B-LOC
+)	O
+
+
+het	O
+toernooi	O
+staat	O
+onder	O
+auspiciën	O
+van	O
+de	O
+wereld	O
+roeifederatie	O
+fisa	B-GRP
+.	O
+
+
+het	O
+toernooi	O
+staat	O
+onder	O
+auspiciën	O
+van	O
+de	O
+wereld	O
+roeifederatie	O
+fisa	B-GRP
+.	O
+
+
+het	O
+toernooi	O
+staat	O
+onder	O
+auspiciën	O
+van	O
+de	O
+wereld	O
+roeifederatie	O
+fisa	B-GRP
+.	O
+
+
+het	O
+toernooi	O
+staat	O
+onder	O
+auspiciën	O
+van	O
+de	O
+wereld	O
+roeifederatie	O
+fisa	B-GRP
+.	O
+
+
+het	O
+toernooi	O
+staat	O
+onder	O
+auspiciën	O
+van	O
+de	O
+wereld	O
+roeifederatie	O
+fisa	B-GRP
+.	O
+
+
+in	O
+september	O
+2018	O
+kocht	O
+netflix	B-CORP
+de	O
+wereldwijde	O
+distributierechten	O
+.	O
+
+
+in	O
+september	O
+2018	O
+kocht	O
+aerobratsk	B-CORP
+de	O
+wereldwijde	O
+distributierechten	O
+.	O
+
+
+in	O
+september	O
+2018	O
+kocht	O
+netflix	B-CORP
+de	O
+wereldwijde	O
+distributierechten	O
+.	O
+
+
+in	O
+september	O
+2018	O
+kocht	O
+netflix	B-CORP
+de	O
+wereldwijde	O
+distributierechten	O
+.	O
+
+
+in	O
+september	O
+2018	O
+kocht	O
+spoorwegen	B-CORP
+de	O
+wereldwijde	O
+distributierechten	O
+.	O
+
+
+deze	O
+locatie	O
+,	O
+rekening	O
+houdend	O
+met	O
+de	O
+archeologie	O
+van	O
+de	O
+zaragoza	B-LOC
+,	O
+het	O
+fort	O
+en	O
+de	O
+vestingwerken	O
+,	O
+wijzen	O
+op	O
+een	O
+nederzetting	O
+in	O
+de	O
+pre	O
+en	O
+proto	O
+historie	O
+.	O
+
+
+deze	O
+locatie	O
+,	O
+rekening	O
+houdend	O
+met	O
+de	O
+archeologie	O
+van	O
+de	O
+staat	B-LOC
+,	O
+het	O
+fort	O
+en	O
+de	O
+vestingwerken	O
+,	O
+wijzen	O
+op	O
+een	O
+nederzetting	O
+in	O
+de	O
+pre	O
+en	O
+proto	O
+historie	O
+.	O
+
+
+deze	O
+locatie	O
+,	O
+rekening	O
+houdend	O
+met	O
+de	O
+archeologie	O
+van	O
+de	O
+tel	B-LOC
+aviv	I-LOC
+,	O
+het	O
+fort	O
+en	O
+de	O
+vestingwerken	O
+,	O
+wijzen	O
+op	O
+een	O
+nederzetting	O
+in	O
+de	O
+pre	O
+en	O
+proto	O
+historie	O
+.	O
+
+
+deze	O
+locatie	O
+,	O
+rekening	O
+houdend	O
+met	O
+de	O
+archeologie	O
+van	O
+de	O
+torre	B-LOC
+de	I-LOC
+dona	I-LOC
+chama	I-LOC
+,	O
+het	O
+fort	O
+en	O
+de	O
+vestingwerken	O
+,	O
+wijzen	O
+op	O
+een	O
+nederzetting	O
+in	O
+de	O
+pre	O
+en	O
+proto	O
+historie	O
+.	O
+
+
+deze	O
+locatie	O
+,	O
+rekening	O
+houdend	O
+met	O
+de	O
+archeologie	O
+van	O
+de	O
+oise	B-LOC
+,	O
+het	O
+fort	O
+en	O
+de	O
+vestingwerken	O
+,	O
+wijzen	O
+op	O
+een	O
+nederzetting	O
+in	O
+de	O
+pre	O
+en	O
+proto	O
+historie	O
+.	O
+
+
+het	O
+staat	O
+op	O
+hun	O
+gelijknamige	B-CW
+album	I-CW
+uit	O
+1991	O
+.	O
+
+
+het	O
+staat	O
+op	O
+hun	O
+ios	B-CW
+uit	O
+1991	O
+.	O
+
+
+het	O
+staat	O
+op	O
+hun	O
+branded	B-CW
+uit	O
+1991	O
+.	O
+
+
+het	O
+staat	O
+op	O
+hun	O
+gelijknamige	B-CW
+album	I-CW
+uit	O
+1991	O
+.	O
+
+
+het	O
+staat	O
+op	O
+hun	O
+gelijknamige	B-CW
+album	I-CW
+uit	O
+1991	O
+.	O
+
+
+vecuronium	O
+wordt	O
+ook	O
+gebruikt	O
+door	O
+een	O
+arts	O
+in	O
+law	B-CW
+&	I-CW
+order	I-CW
+voordat	O
+een	O
+orgaan	O
+wordt	O
+uitgenomen	O
+bij	O
+een	O
+hersendode	O
+patiënt	O
+.	O
+
+
+vecuronium	O
+wordt	O
+ook	O
+gebruikt	O
+door	O
+een	O
+arts	O
+in	O
+law	B-CW
+&	I-CW
+order	I-CW
+voordat	O
+een	O
+orgaan	O
+wordt	O
+uitgenomen	O
+bij	O
+een	O
+hersendode	O
+patiënt	O
+.	O
+
+
+vecuronium	O
+wordt	O
+ook	O
+gebruikt	O
+door	O
+een	O
+arts	O
+in	O
+law	B-CW
+&	I-CW
+order	I-CW
+voordat	O
+een	O
+orgaan	O
+wordt	O
+uitgenomen	O
+bij	O
+een	O
+hersendode	O
+patiënt	O
+.	O
+
+
+vecuronium	O
+wordt	O
+ook	O
+gebruikt	O
+door	O
+een	O
+arts	O
+in	O
+law	B-CW
+&	I-CW
+order	I-CW
+voordat	O
+een	O
+orgaan	O
+wordt	O
+uitgenomen	O
+bij	O
+een	O
+hersendode	O
+patiënt	O
+.	O
+
+
+vecuronium	O
+wordt	O
+ook	O
+gebruikt	O
+door	O
+een	O
+arts	O
+in	O
+law	B-CW
+&	I-CW
+order	I-CW
+voordat	O
+een	O
+orgaan	O
+wordt	O
+uitgenomen	O
+bij	O
+een	O
+hersendode	O
+patiënt	O
+.	O
+
+
+hier	O
+moest	O
+hij	O
+verblijven	O
+tot	O
+de	O
+versterkingen	O
+vanuit	O
+tsjechische	B-LOC
+en	O
+occitanie	B-LOC
+zouden	O
+arriveren	O
+.	O
+
+
+hier	O
+moest	O
+hij	O
+verblijven	O
+tot	O
+de	O
+versterkingen	O
+vanuit	O
+zaragoza	B-LOC
+en	O
+valencia	B-LOC
+zouden	O
+arriveren	O
+.	O
+
+
+hier	O
+moest	O
+hij	O
+verblijven	O
+tot	O
+de	O
+versterkingen	O
+vanuit	O
+zaragoza	B-LOC
+en	O
+valencia	B-LOC
+zouden	O
+arriveren	O
+.	O
+
+
+hier	O
+moest	O
+hij	O
+verblijven	O
+tot	O
+de	O
+versterkingen	O
+vanuit	O
+zaragoza	B-LOC
+en	O
+valencia	B-LOC
+zouden	O
+arriveren	O
+.	O
+
+
+hier	O
+moest	O
+hij	O
+verblijven	O
+tot	O
+de	O
+versterkingen	O
+vanuit	O
+zaragoza	B-LOC
+en	O
+oise	B-LOC
+zouden	O
+arriveren	O
+.	O
+
+
+hij	O
+debuteerde	O
+voor	O
+de	O
+costa	B-LOC
+rica	I-LOC
+club	O
+kaa	B-GRP
+gent	I-GRP
+.	O
+
+
+hij	O
+debuteerde	O
+voor	O
+de	O
+colombia	B-LOC
+club	O
+unión	B-GRP
+magdalena	I-GRP
+.	O
+
+
+hij	O
+debuteerde	O
+voor	O
+de	O
+colombia	B-LOC
+club	O
+unión	B-GRP
+magdalena	I-GRP
+.	O
+
+
+hij	O
+debuteerde	O
+voor	O
+de	O
+colombia	B-LOC
+club	O
+unión	B-GRP
+magdalena	I-GRP
+.	O
+
+
+hij	O
+debuteerde	O
+voor	O
+de	O
+colombia	B-LOC
+club	O
+european	B-GRP
+hockey	I-GRP
+federation	I-GRP
+.	O
+
+
+kleinere	O
+versies	O
+werden	O
+vaak	O
+als	O
+amulet	B-PROD
+om	O
+de	O
+nek	O
+gedragen	O
+.	O
+
+
+kleinere	O
+versies	O
+werden	O
+vaak	O
+als	O
+shoarma	B-PROD
+om	O
+de	O
+nek	O
+gedragen	O
+.	O
+
+
+kleinere	O
+versies	O
+werden	O
+vaak	O
+als	O
+amulet	B-PROD
+om	O
+de	O
+nek	O
+gedragen	O
+.	O
+
+
+kleinere	O
+versies	O
+werden	O
+vaak	O
+als	O
+gember	B-PROD
+om	O
+de	O
+nek	O
+gedragen	O
+.	O
+
+
+kleinere	O
+versies	O
+werden	O
+vaak	O
+als	O
+amulet	B-PROD
+om	O
+de	O
+nek	O
+gedragen	O
+.	O
+
+
+in	O
+oktober	O
+2019	O
+tekende	O
+hij	O
+voor	O
+jack	B-GRP
+the	I-GRP
+lad	I-GRP
+.	O
+
+
+in	O
+oktober	O
+2019	O
+tekende	O
+hij	O
+voor	O
+northampton	B-GRP
+town	I-GRP
+.	O
+
+
+in	O
+oktober	O
+2019	O
+tekende	O
+hij	O
+voor	O
+northampton	B-GRP
+town	I-GRP
+.	O
+
+
+in	O
+oktober	O
+2019	O
+tekende	O
+hij	O
+voor	O
+northampton	B-GRP
+town	I-GRP
+.	O
+
+
+in	O
+oktober	O
+2019	O
+tekende	O
+hij	O
+voor	O
+northampton	B-GRP
+town	I-GRP
+.	O
+
+
+bilaspur	O
+is	O
+een	O
+census	B-LOC
+town	I-LOC
+in	O
+het	O
+district	O
+yamuna	B-LOC
+nagar	I-LOC
+van	O
+de	O
+india	B-LOC
+staat	B-LOC
+noorse	B-LOC
+.	O
+
+
+bilaspur	O
+is	O
+een	O
+census	B-LOC
+town	I-LOC
+in	O
+het	O
+district	O
+yamuna	B-LOC
+nagar	I-LOC
+van	O
+de	O
+mont-de-marsan	B-LOC
+oise	B-LOC
+haryana	B-LOC
+.	O
+
+
+bilaspur	O
+is	O
+een	O
+tsjechische	B-LOC
+in	O
+het	O
+district	O
+yamuna	B-LOC
+nagar	I-LOC
+van	O
+de	O
+india	B-LOC
+staat	B-LOC
+oudenaarde	B-LOC
+.	O
+
+
+bilaspur	O
+is	O
+een	O
+census	B-LOC
+town	I-LOC
+in	O
+het	O
+district	O
+yamuna	B-LOC
+nagar	I-LOC
+van	O
+de	O
+india	B-LOC
+mont-de-marsan	B-LOC
+haryana	B-LOC
+.	O
+
+
+bilaspur	O
+is	O
+een	O
+census	B-LOC
+town	I-LOC
+in	O
+het	O
+district	O
+yamuna	B-LOC
+nagar	I-LOC
+van	O
+de	O
+india	B-LOC
+staat	B-LOC
+haryana	B-LOC
+.	O
+
+
+ook	O
+in	O
+2007	O
+had	O
+hij	O
+een	O
+hoofdrol	O
+in	O
+films	B-CW
+met	O
+mila	B-PER
+kunis	I-PER
+als	O
+tegenspeelster	O
+.	O
+
+
+ook	O
+in	O
+2007	O
+had	O
+hij	O
+een	O
+hoofdrol	O
+in	O
+thriller	B-CW
+met	O
+mila	B-PER
+kunis	I-PER
+als	O
+tegenspeelster	O
+.	O
+
+
+ook	O
+in	O
+2007	O
+had	O
+hij	O
+een	O
+hoofdrol	O
+in	O
+boot	B-CW
+camp	I-CW
+met	O
+mila	B-PER
+kunis	I-PER
+als	O
+tegenspeelster	O
+.	O
+
+
+ook	O
+in	O
+2007	O
+had	O
+hij	O
+een	O
+hoofdrol	O
+in	O
+boot	B-CW
+camp	I-CW
+met	O
+mila	B-PER
+kunis	I-PER
+als	O
+tegenspeelster	O
+.	O
+
+
+ook	O
+in	O
+2007	O
+had	O
+hij	O
+een	O
+hoofdrol	O
+in	O
+boot	B-CW
+camp	I-CW
+met	O
+mila	B-PER
+kunis	I-PER
+als	O
+tegenspeelster	O
+.	O
+
+
+ab	B-PER
+klink	I-PER
+werkte	O
+voor	O
+het	O
+wetenschappelijk	O
+bureau	O
+van	O
+het	O
+fisa	B-GRP
+,	O
+tyrone	B-PER
+power	I-PER
+was	O
+er	O
+directeur	O
+.	O
+
+
+jan	B-PER
+peter	I-PER
+balkenende	I-PER
+werkte	O
+voor	O
+het	O
+wetenschappelijk	O
+bureau	O
+van	O
+het	O
+cda	B-GRP
+,	O
+ab	B-PER
+klink	I-PER
+was	O
+er	O
+directeur	O
+.	O
+
+
+johann	B-PER
+friedrich	I-PER
+gmelin	I-PER
+werkte	O
+voor	O
+het	O
+wetenschappelijk	O
+bureau	O
+van	O
+het	O
+cda	B-GRP
+,	O
+ab	B-PER
+klink	I-PER
+was	O
+er	O
+directeur	O
+.	O
+
+
+jan	B-PER
+peter	I-PER
+balkenende	I-PER
+werkte	O
+voor	O
+het	O
+wetenschappelijk	O
+bureau	O
+van	O
+het	O
+cda	B-GRP
+,	O
+ab	B-PER
+klink	I-PER
+was	O
+er	O
+directeur	O
+.	O
+
+
+jan	B-PER
+peter	I-PER
+balkenende	I-PER
+werkte	O
+voor	O
+het	O
+wetenschappelijk	O
+bureau	O
+van	O
+het	O
+cda	B-GRP
+,	O
+ab	B-PER
+klink	I-PER
+was	O
+er	O
+directeur	O
+.	O
+
+
+jacks	O
+dood	O
+aan	O
+het	O
+eind	O
+van	O
+de	O
+film	O
+titanic	B-CW
+had	O
+voorkomen	O
+kunnen	O
+worden	O
+.	O
+
+
+jacks	O
+dood	O
+aan	O
+het	O
+eind	O
+van	O
+de	O
+film	O
+titanic	B-CW
+had	O
+voorkomen	O
+kunnen	O
+worden	O
+.	O
+
+
+jacks	O
+dood	O
+aan	O
+het	O
+eind	O
+van	O
+de	O
+film	O
+titanic	B-CW
+had	O
+voorkomen	O
+kunnen	O
+worden	O
+.	O
+
+
+jacks	O
+dood	O
+aan	O
+het	O
+eind	O
+van	O
+de	O
+film	O
+titanic	B-CW
+had	O
+voorkomen	O
+kunnen	O
+worden	O
+.	O
+
+
+jacks	O
+dood	O
+aan	O
+het	O
+eind	O
+van	O
+de	O
+film	O
+titanic	B-CW
+had	O
+voorkomen	O
+kunnen	O
+worden	O
+.	O
+
+
+hij	O
+bereikte	O
+de	O
+finale	O
+en	O
+werd	O
+tweede	O
+,	O
+waarbij	O
+hij	O
+een	O
+lied	O
+van	O
+willy	B-PER
+alberti	I-PER
+uitvoerde	O
+.	O
+
+
+hij	O
+bereikte	O
+de	O
+finale	O
+en	O
+werd	O
+tweede	O
+,	O
+waarbij	O
+hij	O
+een	O
+lied	O
+van	O
+willy	B-PER
+alberti	I-PER
+uitvoerde	O
+.	O
+
+
+hij	O
+bereikte	O
+de	O
+finale	O
+en	O
+werd	O
+tweede	O
+,	O
+waarbij	O
+hij	O
+een	O
+lied	O
+van	O
+tyrone	B-PER
+power	I-PER
+uitvoerde	O
+.	O
+
+
+hij	O
+bereikte	O
+de	O
+finale	O
+en	O
+werd	O
+tweede	O
+,	O
+waarbij	O
+hij	O
+een	O
+lied	O
+van	O
+willy	B-PER
+alberti	I-PER
+uitvoerde	O
+.	O
+
+
+hij	O
+bereikte	O
+de	O
+finale	O
+en	O
+werd	O
+tweede	O
+,	O
+waarbij	O
+hij	O
+een	O
+lied	O
+van	O
+willy	B-PER
+alberti	I-PER
+uitvoerde	O
+.	O
+
+
+rousseloy	O
+is	O
+een	O
+gemeente	O
+in	O
+het	O
+mont-de-marsan	B-LOC
+departement	O
+oise	B-LOC
+(	O
+regio	O
+tsjechische	B-LOC
+)	O
+en	O
+telt	O
+312	O
+inwoners	O
+.	O
+
+
+rousseloy	O
+is	O
+een	O
+gemeente	O
+in	O
+het	O
+hauts-de-france	B-LOC
+departement	O
+praag	B-LOC
+(	O
+regio	O
+hauts-de-france	B-LOC
+)	O
+en	O
+telt	O
+312	O
+inwoners	O
+.	O
+
+
+rousseloy	O
+is	O
+een	O
+gemeente	O
+in	O
+het	O
+franse	B-LOC
+departement	O
+hollywood	B-LOC
+(	O
+regio	O
+hauts-de-france	B-LOC
+)	O
+en	O
+telt	O
+312	O
+inwoners	O
+.	O
+
+
+rousseloy	O
+is	O
+een	O
+gemeente	O
+in	O
+het	O
+franse	B-LOC
+departement	O
+oise	B-LOC
+(	O
+regio	O
+census	B-LOC
+town	I-LOC
+)	O
+en	O
+telt	O
+312	O
+inwoners	O
+.	O
+
+
+rousseloy	O
+is	O
+een	O
+gemeente	O
+in	O
+het	O
+franse	B-LOC
+departement	O
+oise	B-LOC
+(	O
+regio	O
+hauts-de-france	B-LOC
+)	O
+en	O
+telt	O
+312	O
+inwoners	O
+.	O
+
+
+daarbij	O
+slechts	O
+één	O
+afgestreken	O
+eetlepel	O
+museumtrams	B-PROD
+,	O
+die	O
+men	O
+12	O
+uur	O
+had	O
+voorgeweekt	O
+in	O
+3	O
+eetlepels	O
+water	O
+,	O
+en	O
+het	O
+sap	O
+van	O
+een	O
+halve	O
+citroen	O
+en	O
+1	O
+eetlepel	O
+gecondenseerde	O
+melk	O
+.	O
+
+
+daarbij	O
+slechts	O
+één	O
+afgestreken	O
+eetlepel	O
+apple	B-PROD
+macintosh	I-PROD
+,	O
+die	O
+men	O
+12	O
+uur	O
+had	O
+voorgeweekt	O
+in	O
+3	O
+eetlepels	O
+water	O
+,	O
+en	O
+het	O
+sap	O
+van	O
+een	O
+halve	O
+citroen	O
+en	O
+1	O
+eetlepel	O
+gecondenseerde	O
+melk	O
+.	O
+
+
+daarbij	O
+slechts	O
+één	O
+afgestreken	O
+eetlepel	O
+webcam	B-PROD
+,	O
+die	O
+men	O
+12	O
+uur	O
+had	O
+voorgeweekt	O
+in	O
+3	O
+eetlepels	O
+water	O
+,	O
+en	O
+het	O
+sap	O
+van	O
+een	O
+halve	O
+citroen	O
+en	O
+1	O
+eetlepel	O
+gecondenseerde	O
+melk	O
+.	O
+
+
+daarbij	O
+slechts	O
+één	O
+afgestreken	O
+eetlepel	O
+havermout	B-PROD
+,	O
+die	O
+men	O
+12	O
+uur	O
+had	O
+voorgeweekt	O
+in	O
+3	O
+eetlepels	O
+water	O
+,	O
+en	O
+het	O
+sap	O
+van	O
+een	O
+halve	O
+citroen	O
+en	O
+1	O
+eetlepel	O
+gecondenseerde	O
+melk	O
+.	O
+
+
+daarbij	O
+slechts	O
+één	O
+afgestreken	O
+eetlepel	O
+havermout	B-PROD
+,	O
+die	O
+men	O
+12	O
+uur	O
+had	O
+voorgeweekt	O
+in	O
+3	O
+eetlepels	O
+water	O
+,	O
+en	O
+het	O
+sap	O
+van	O
+een	O
+halve	O
+citroen	O
+en	O
+1	O
+eetlepel	O
+gecondenseerde	O
+melk	O
+.	O
+
+
+de	O
+wereldgezondheidsorganisatie	B-GRP
+publiceerde	O
+in	O
+2005	O
+richtlijnen	O
+op	O
+betreffende	O
+de	O
+inhoud	O
+van	O
+de	O
+basisopleiding	O
+chiropraxie	O
+en	O
+veiligheidsvoorschriften	O
+voor	O
+de	O
+praktijk	O
+.	O
+
+
+de	O
+wereldgezondheidsorganisatie	B-GRP
+publiceerde	O
+in	O
+2005	O
+richtlijnen	O
+op	O
+betreffende	O
+de	O
+inhoud	O
+van	O
+de	O
+basisopleiding	O
+chiropraxie	O
+en	O
+veiligheidsvoorschriften	O
+voor	O
+de	O
+praktijk	O
+.	O
+
+
+de	O
+wereldgezondheidsorganisatie	B-GRP
+publiceerde	O
+in	O
+2005	O
+richtlijnen	O
+op	O
+betreffende	O
+de	O
+inhoud	O
+van	O
+de	O
+basisopleiding	O
+chiropraxie	O
+en	O
+veiligheidsvoorschriften	O
+voor	O
+de	O
+praktijk	O
+.	O
+
+
+de	O
+wereldgezondheidsorganisatie	B-GRP
+publiceerde	O
+in	O
+2005	O
+richtlijnen	O
+op	O
+betreffende	O
+de	O
+inhoud	O
+van	O
+de	O
+basisopleiding	O
+chiropraxie	O
+en	O
+veiligheidsvoorschriften	O
+voor	O
+de	O
+praktijk	O
+.	O
+
+
+de	O
+wereldgezondheidsorganisatie	B-GRP
+publiceerde	O
+in	O
+2005	O
+richtlijnen	O
+op	O
+betreffende	O
+de	O
+inhoud	O
+van	O
+de	O
+basisopleiding	O
+chiropraxie	O
+en	O
+veiligheidsvoorschriften	O
+voor	O
+de	O
+praktijk	O
+.	O
+
+
+#	O
+35	O
+bij	O
+pcgg	B-CORP
+song	O
+van	O
+het	O
+jaar	O
+
+
+#	O
+35	O
+bij	O
+vpro	B-CORP
+'s	I-CORP
+song	O
+van	O
+het	O
+jaar	O
+
+
+#	O
+35	O
+bij	O
+vpro	B-CORP
+'s	I-CORP
+song	O
+van	O
+het	O
+jaar	O
+
+
+#	O
+35	O
+bij	O
+vpro	B-CORP
+'s	I-CORP
+song	O
+van	O
+het	O
+jaar	O
+
+
+#	O
+35	O
+bij	O
+vpro	B-CORP
+'s	I-CORP
+song	O
+van	O
+het	O
+jaar	O
+
+
+1997	O
+1998	O
+studioalbum	B-CW
+–	O
+als	O
+diverse	O
+stemmen	O
+–	O
+3	O
+afl	O
+.	O
+
+
+1997	O
+1998	O
+the	B-CW
+new	I-CW
+batman	I-CW
+adventures	I-CW
+–	O
+als	O
+diverse	O
+stemmen	O
+–	O
+3	O
+afl	O
+.	O
+
+
+1997	O
+1998	O
+harry,	B-CW
+un	I-CW
+ami	I-CW
+qui	I-CW
+vous	I-CW
+veut	I-CW
+du	I-CW
+bien	I-CW
+–	O
+als	O
+diverse	O
+stemmen	O
+–	O
+3	O
+afl	O
+.	O
+
+
+1997	O
+1998	O
+the	B-CW
+new	I-CW
+batman	I-CW
+adventures	I-CW
+–	O
+als	O
+diverse	O
+stemmen	O
+–	O
+3	O
+afl	O
+.	O
+
+
+1997	O
+1998	O
+the	B-CW
+new	I-CW
+batman	I-CW
+adventures	I-CW
+–	O
+als	O
+diverse	O
+stemmen	O
+–	O
+3	O
+afl	O
+.	O
+
+
+ginger	O
+ale	O
+(	O
+niet	O
+te	O
+verwarren	O
+met	O
+gemberbier	B-PROD
+)	O
+is	O
+een	O
+koolzuurhoudende	O
+frisdrank	B-PROD
+op	O
+smaak	O
+gebracht	O
+met	O
+altaren	B-PROD
+.	O
+
+
+ginger	O
+ale	O
+(	O
+niet	O
+te	O
+verwarren	O
+met	O
+gemberbier	B-PROD
+)	O
+is	O
+een	O
+koolzuurhoudende	O
+handvat	B-PROD
+op	O
+smaak	O
+gebracht	O
+met	O
+altaren	B-PROD
+.	O
+
+
+ginger	O
+ale	O
+(	O
+niet	O
+te	O
+verwarren	O
+met	O
+gemberbier	B-PROD
+)	O
+is	O
+een	O
+koolzuurhoudende	O
+frisdrank	B-PROD
+op	O
+smaak	O
+gebracht	O
+met	O
+frisdrank	B-PROD
+.	O
+
+
+ginger	O
+ale	O
+(	O
+niet	O
+te	O
+verwarren	O
+met	O
+gemberbier	B-PROD
+)	O
+is	O
+een	O
+koolzuurhoudende	O
+frisdrank	B-PROD
+op	O
+smaak	O
+gebracht	O
+met	O
+gember	B-PROD
+.	O
+
+
+ginger	O
+ale	O
+(	O
+niet	O
+te	O
+verwarren	O
+met	O
+gemberbier	B-PROD
+)	O
+is	O
+een	O
+koolzuurhoudende	O
+frisdrank	B-PROD
+op	O
+smaak	O
+gebracht	O
+met	O
+gember	B-PROD
+.	O
+
+
+het	O
+spel	O
+is	O
+uitgebracht	O
+voor	O
+windows	B-CW
+,	O
+playstation	B-PROD
+3	I-PROD
+,	O
+xbox	B-PROD
+360	I-PROD
+en	O
+android	B-CW
+/	O
+ios	B-CW
+.	O
+
+
+het	O
+spel	O
+is	O
+uitgebracht	O
+voor	O
+boot	B-CW
+camp	I-CW
+,	O
+playstation	B-PROD
+3	I-PROD
+,	O
+meubelontwerper	B-PROD
+en	O
+het	B-CW
+proces	I-CW
+/	O
+ios	B-CW
+.	O
+
+
+het	O
+spel	O
+is	O
+uitgebracht	O
+voor	O
+windows	B-CW
+,	O
+ford	B-PROD
+escort	I-PROD
+,	O
+apple	B-PROD
+macintosh	I-PROD
+en	O
+android	B-CW
+/	O
+ios	B-CW
+.	O
+
+
+het	O
+spel	O
+is	O
+uitgebracht	O
+voor	O
+windows	B-CW
+,	O
+playstation	B-PROD
+3	I-PROD
+,	O
+xbox	B-PROD
+360	I-PROD
+en	O
+single	B-CW
+/	O
+stomme	B-CW
+.	O
+
+
+het	O
+spel	O
+is	O
+uitgebracht	O
+voor	O
+windows	B-CW
+,	O
+handvat	B-PROD
+,	O
+xbox	B-PROD
+360	I-PROD
+en	O
+windows	B-CW
+/	O
+ios	B-CW
+.	O
+
+
+the	B-CW
+luck	I-CW
+of	I-CW
+the	I-CW
+irish	I-CW
+,	O
+een	O
+filmwestern	O
+uit	O
+1950	O
+
+
+branded	B-CW
+,	O
+een	O
+filmwestern	O
+uit	O
+1950	O
+
+
+branded	B-CW
+,	O
+een	O
+filmwestern	O
+uit	O
+1950	O
+
+
+branded	B-CW
+,	O
+een	O
+filmwestern	O
+uit	O
+1950	O
+
+
+android	B-CW
+,	O
+een	O
+filmwestern	O
+uit	O
+1950	O
+
+
+in	O
+1858	O
+beschreef	O
+johann	B-PER
+andreas	I-PER
+wagner	I-PER
+een	O
+tweede	O
+exemplaar	O
+,	O
+bestaande	O
+uit	O
+skeletdelen	O
+.	O
+
+
+in	O
+1858	O
+beschreef	O
+johann	B-PER
+andreas	I-PER
+wagner	I-PER
+een	O
+tweede	O
+exemplaar	O
+,	O
+bestaande	O
+uit	O
+skeletdelen	O
+.	O
+
+
+in	O
+1858	O
+beschreef	O
+johann	B-PER
+andreas	I-PER
+wagner	I-PER
+een	O
+tweede	O
+exemplaar	O
+,	O
+bestaande	O
+uit	O
+skeletdelen	O
+.	O
+
+
+in	O
+1858	O
+beschreef	O
+margaretha	B-PER
+van	I-PER
+brabant	I-PER
+een	O
+tweede	O
+exemplaar	O
+,	O
+bestaande	O
+uit	O
+skeletdelen	O
+.	O
+
+
+in	O
+1858	O
+beschreef	O
+johann	B-PER
+andreas	I-PER
+wagner	I-PER
+een	O
+tweede	O
+exemplaar	O
+,	O
+bestaande	O
+uit	O
+skeletdelen	O
+.	O
+
+
+de	O
+plaats	O
+maakt	O
+deel	O
+uit	O
+van	O
+het	O
+arrondissement	O
+mont-de-marsan	B-LOC
+.	O
+
+
+de	O
+plaats	O
+maakt	O
+deel	O
+uit	O
+van	O
+het	O
+arrondissement	O
+oise	B-LOC
+.	O
+
+
+de	O
+plaats	O
+maakt	O
+deel	O
+uit	O
+van	O
+het	O
+arrondissement	O
+mont-de-marsan	B-LOC
+.	O
+
+
+de	O
+plaats	O
+maakt	O
+deel	O
+uit	O
+van	O
+het	O
+arrondissement	O
+mont-de-marsan	B-LOC
+.	O
+
+
+de	O
+plaats	O
+maakt	O
+deel	O
+uit	O
+van	O
+het	O
+arrondissement	O
+mont-de-marsan	B-LOC
+.	O
+
+
+amstel	O
+is	O
+een	O
+biermerk	O
+van	O
+heineken	B-CORP
+.	O
+
+
+amstel	O
+is	O
+een	O
+biermerk	O
+van	O
+spoorwegen	B-CORP
+.	O
+
+
+amstel	O
+is	O
+een	O
+biermerk	O
+van	O
+heineken	B-CORP
+.	O
+
+
+amstel	O
+is	O
+een	O
+biermerk	O
+van	O
+heineken	B-CORP
+.	O
+
+
+amstel	O
+is	O
+een	O
+biermerk	O
+van	O
+heineken	B-CORP
+.	O
+
+
+roger	B-PER
+van	I-PER
+boxtel	I-PER
+,	O
+bestuurder	O
+en	O
+voormalig	O
+politicus	O
+
+
+roger	B-PER
+van	I-PER
+boxtel	I-PER
+,	O
+bestuurder	O
+en	O
+voormalig	O
+politicus	O
+
+
+jan	B-PER
+peter	I-PER
+balkenende	I-PER
+,	O
+bestuurder	O
+en	O
+voormalig	O
+politicus	O
+
+
+roger	B-PER
+van	I-PER
+boxtel	I-PER
+,	O
+bestuurder	O
+en	O
+voormalig	O
+politicus	O
+
+
+roger	B-PER
+van	I-PER
+boxtel	I-PER
+,	O
+bestuurder	O
+en	O
+voormalig	O
+politicus	O
+
+
+even	B-CW
+better	I-CW
+than	I-CW
+the	I-CW
+real	I-CW
+thing	I-CW
+is	O
+het	O
+tweede	O
+nummer	O
+op	O
+het	O
+album	O
+achtung	B-CW
+baby	I-CW
+en	O
+werd	O
+in	O
+1992	O
+als	O
+vierde	O
+single	O
+van	O
+dit	O
+album	O
+uitgebracht	O
+.	O
+
+
+even	B-CW
+better	I-CW
+than	I-CW
+the	I-CW
+real	I-CW
+thing	I-CW
+is	O
+het	O
+tweede	O
+nummer	O
+op	O
+het	O
+album	O
+the	B-CW
+lost	I-CW
+world:	I-CW
+jurassic	I-CW
+park	I-CW
+en	O
+werd	O
+in	O
+1992	O
+als	O
+vierde	O
+single	O
+van	O
+dit	O
+album	O
+uitgebracht	O
+.	O
+
+
+ios	B-CW
+is	O
+het	O
+tweede	O
+nummer	O
+op	O
+het	O
+album	O
+achtung	B-CW
+baby	I-CW
+en	O
+werd	O
+in	O
+1992	O
+als	O
+vierde	O
+single	O
+van	O
+dit	O
+album	O
+uitgebracht	O
+.	O
+
+
+margaret	B-CW
+is	O
+het	O
+tweede	O
+nummer	O
+op	O
+het	O
+album	O
+margaret	B-CW
+en	O
+werd	O
+in	O
+1992	O
+als	O
+vierde	O
+single	O
+van	O
+dit	O
+album	O
+uitgebracht	O
+.	O
+
+
+even	B-CW
+better	I-CW
+than	I-CW
+the	I-CW
+real	I-CW
+thing	I-CW
+is	O
+het	O
+tweede	O
+nummer	O
+op	O
+het	O
+album	O
+achtung	B-CW
+baby	I-CW
+en	O
+werd	O
+in	O
+1992	O
+als	O
+vierde	O
+single	O
+van	O
+dit	O
+album	O
+uitgebracht	O
+.	O
+
+
+de	O
+motorwagens	O
+210	O
+en	O
+220	O
+zijn	O
+als	O
+museumtrams	B-PROD
+bewaard	O
+gebleven	O
+,	O
+alleen	O
+de	O
+220	O
+is	O
+rijvaardig	O
+.	O
+
+
+de	O
+motorwagens	O
+210	O
+en	O
+220	O
+zijn	O
+als	O
+museumtrams	B-PROD
+bewaard	O
+gebleven	O
+,	O
+alleen	O
+de	O
+220	O
+is	O
+rijvaardig	O
+.	O
+
+
+de	O
+motorwagens	O
+210	O
+en	O
+220	O
+zijn	O
+als	O
+museumtrams	B-PROD
+bewaard	O
+gebleven	O
+,	O
+alleen	O
+de	O
+220	O
+is	O
+rijvaardig	O
+.	O
+
+
+de	O
+motorwagens	O
+210	O
+en	O
+220	O
+zijn	O
+als	O
+museumtrams	B-PROD
+bewaard	O
+gebleven	O
+,	O
+alleen	O
+de	O
+220	O
+is	O
+rijvaardig	O
+.	O
+
+
+de	O
+motorwagens	O
+210	O
+en	O
+220	O
+zijn	O
+als	O
+kebab	B-PROD
+bewaard	O
+gebleven	O
+,	O
+alleen	O
+de	O
+220	O
+is	O
+rijvaardig	O
+.	O
+
+
+ondervoorzitter	O
+van	O
+het	O
+agentschap	O
+rdm	B-CORP
+;	O
+
+
+ondervoorzitter	O
+van	O
+het	O
+agentschap	O
+belga	B-CORP
+;	O
+
+
+ondervoorzitter	O
+van	O
+het	O
+agentschap	O
+belga	B-CORP
+;	O
+
+
+ondervoorzitter	O
+van	O
+het	O
+agentschap	O
+belga	B-CORP
+;	O
+
+
+ondervoorzitter	O
+van	O
+het	O
+agentschap	O
+belga	B-CORP
+;	O
+
+
+in	O
+2006	O
+is	O
+het	O
+aantal	O
+inwoners	O
+door	O
+het	O
+lille	B-GRP
+osc	I-GRP
+geschat	O
+op	O
+831	O
+,	O
+een	O
+daling	O
+van	O
+95	O
+(	O
+10	O
+,	O
+3	O
+%	O
+)	O
+.	O
+
+
+in	O
+2006	O
+is	O
+het	O
+aantal	O
+inwoners	O
+door	O
+het	O
+centraal	B-GRP
+bureau	I-GRP
+voor	I-GRP
+de	I-GRP
+statistiek	I-GRP
+geschat	O
+op	O
+831	O
+,	O
+een	O
+daling	O
+van	O
+95	O
+(	O
+10	O
+,	O
+3	O
+%	O
+)	O
+.	O
+
+
+in	O
+2006	O
+is	O
+het	O
+aantal	O
+inwoners	O
+door	O
+het	O
+united	B-GRP
+states	I-GRP
+census	I-GRP
+bureau	I-GRP
+geschat	O
+op	O
+831	O
+,	O
+een	O
+daling	O
+van	O
+95	O
+(	O
+10	O
+,	O
+3	O
+%	O
+)	O
+.	O
+
+
+in	O
+2006	O
+is	O
+het	O
+aantal	O
+inwoners	O
+door	O
+het	O
+united	B-GRP
+states	I-GRP
+census	I-GRP
+bureau	I-GRP
+geschat	O
+op	O
+831	O
+,	O
+een	O
+daling	O
+van	O
+95	O
+(	O
+10	O
+,	O
+3	O
+%	O
+)	O
+.	O
+
+
+in	O
+2006	O
+is	O
+het	O
+aantal	O
+inwoners	O
+door	O
+het	O
+united	B-GRP
+states	I-GRP
+census	I-GRP
+bureau	I-GRP
+geschat	O
+op	O
+831	O
+,	O
+een	O
+daling	O
+van	O
+95	O
+(	O
+10	O
+,	O
+3	O
+%	O
+)	O
+.	O
+
+
+verdachte	O
+brengt	O
+op	O
+21	O
+mei	O
+1983	O
+te	O
+braziliaanse	B-LOC
+met	O
+een	O
+mes	O
+een	O
+aantal	O
+steekwonden	O
+toe	O
+in	O
+het	O
+hoofd	O
+en	O
+het	O
+lichaam	O
+van	O
+het	O
+slachtoffer	O
+.	O
+
+
+verdachte	O
+brengt	O
+op	O
+21	O
+mei	O
+1983	O
+te	O
+haarlem	B-LOC
+met	O
+een	O
+mes	O
+een	O
+aantal	O
+steekwonden	O
+toe	O
+in	O
+het	O
+hoofd	O
+en	O
+het	O
+lichaam	O
+van	O
+het	O
+slachtoffer	O
+.	O
+
+
+verdachte	O
+brengt	O
+op	O
+21	O
+mei	O
+1983	O
+te	O
+haarlem	B-LOC
+met	O
+een	O
+mes	O
+een	O
+aantal	O
+steekwonden	O
+toe	O
+in	O
+het	O
+hoofd	O
+en	O
+het	O
+lichaam	O
+van	O
+het	O
+slachtoffer	O
+.	O
+
+
+verdachte	O
+brengt	O
+op	O
+21	O
+mei	O
+1983	O
+te	O
+haarlem	B-LOC
+met	O
+een	O
+mes	O
+een	O
+aantal	O
+steekwonden	O
+toe	O
+in	O
+het	O
+hoofd	O
+en	O
+het	O
+lichaam	O
+van	O
+het	O
+slachtoffer	O
+.	O
+
+
+verdachte	O
+brengt	O
+op	O
+21	O
+mei	O
+1983	O
+te	O
+haarlem	B-LOC
+met	O
+een	O
+mes	O
+een	O
+aantal	O
+steekwonden	O
+toe	O
+in	O
+het	O
+hoofd	O
+en	O
+het	O
+lichaam	O
+van	O
+het	O
+slachtoffer	O
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+werd	O
+voor	O
+het	O
+eerst	O
+voorgesteld	O
+door	O
+horst	B-PER
+schumann	I-PER
+in	O
+1876	O
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+werd	O
+voor	O
+het	O
+eerst	O
+voorgesteld	O
+door	O
+franz	B-PER
+steindachner	I-PER
+in	O
+1876	O
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+werd	O
+voor	O
+het	O
+eerst	O
+voorgesteld	O
+door	O
+constantin	B-PER
+brâncuși	I-PER
+in	O
+1876	O
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+werd	O
+voor	O
+het	O
+eerst	O
+voorgesteld	O
+door	O
+franz	B-PER
+steindachner	I-PER
+in	O
+1876	O
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+werd	O
+voor	O
+het	O
+eerst	O
+voorgesteld	O
+door	O
+tyrone	B-PER
+power	I-PER
+in	O
+1876	O
+.	O
+
+
+nightwork	O
+was	O
+een	O
+tsjechische	B-LOC
+band	B-CORP
+uit	O
+praag	B-LOC
+.	O
+
+
+nightwork	O
+was	O
+een	O
+tsjechische	B-LOC
+band	B-CORP
+uit	O
+praag	B-LOC
+.	O
+
+
+nightwork	O
+was	O
+een	O
+tsjechische	B-LOC
+band	B-CORP
+uit	O
+praag	B-LOC
+.	O
+
+
+nightwork	O
+was	O
+een	O
+franse	B-LOC
+band	B-CORP
+uit	O
+praag	B-LOC
+.	O
+
+
+nightwork	O
+was	O
+een	O
+tsjechische	B-LOC
+band	B-CORP
+uit	O
+praag	B-LOC
+.	O
+
+
+het	O
+tweede	O
+nummer	O
+op	O
+de	O
+margaret	B-CW
+was	O
+een	O
+versie	O
+van	O
+het	O
+nummer	O
+.	O
+
+
+het	O
+tweede	O
+nummer	O
+op	O
+de	O
+single	B-CW
+was	O
+een	O
+versie	O
+van	O
+het	O
+nummer	O
+.	O
+
+
+het	O
+tweede	O
+nummer	O
+op	O
+de	O
+single	B-CW
+was	O
+een	O
+versie	O
+van	O
+het	O
+nummer	O
+.	O
+
+
+het	O
+tweede	O
+nummer	O
+op	O
+de	O
+single	B-CW
+was	O
+een	O
+versie	O
+van	O
+het	O
+nummer	O
+.	O
+
+
+het	O
+tweede	O
+nummer	O
+op	O
+de	O
+single	B-CW
+was	O
+een	O
+versie	O
+van	O
+het	O
+nummer	O
+.	O
+
+
+tussen	O
+1914	O
+en	O
+1933	O
+acteerde	O
+ze	O
+in	O
+238	O
+films	B-CW
+,	O
+vooral	O
+stomme	B-CW
+titanic	B-CW
+komedies	B-CW
+.	O
+
+
+tussen	O
+1914	O
+en	O
+1933	O
+acteerde	O
+ze	O
+in	O
+238	O
+films	B-CW
+,	O
+vooral	O
+stomme	B-CW
+gelijknamige	B-CW
+album	I-CW
+komedies	B-CW
+.	O
+
+
+tussen	O
+1914	O
+en	O
+1933	O
+acteerde	O
+ze	O
+in	O
+238	O
+toneelstuk	B-CW
+,	O
+vooral	O
+stomme	B-CW
+slapstick	B-CW
+the	B-CW
+new	I-CW
+batman	I-CW
+adventures	I-CW
+.	O
+
+
+tussen	O
+1914	O
+en	O
+1933	O
+acteerde	O
+ze	O
+in	O
+238	O
+stomme	B-CW
+,	O
+vooral	O
+stomme	B-CW
+slapstick	B-CW
+komedies	B-CW
+.	O
+
+
+tussen	O
+1914	O
+en	O
+1933	O
+acteerde	O
+ze	O
+in	O
+238	O
+films	B-CW
+,	O
+vooral	O
+single	B-CW
+slapstick	B-CW
+harry,	B-CW
+un	I-CW
+ami	I-CW
+qui	I-CW
+vous	I-CW
+veut	I-CW
+du	I-CW
+bien	I-CW
+.	O
+
+
+in	O
+zijn	O
+vroege	O
+werk	O
+citeerde	O
+hij	O
+naar	O
+constantin	B-PER
+brâncuși	I-PER
+in	O
+grotendeels	O
+houten	O
+,	O
+verticale	O
+werken	O
+.	O
+
+
+in	O
+zijn	O
+vroege	O
+werk	O
+citeerde	O
+hij	O
+naar	O
+mila	B-PER
+kunis	I-PER
+in	O
+grotendeels	O
+houten	O
+,	O
+verticale	O
+werken	O
+.	O
+
+
+in	O
+zijn	O
+vroege	O
+werk	O
+citeerde	O
+hij	O
+naar	O
+constantin	B-PER
+brâncuși	I-PER
+in	O
+grotendeels	O
+houten	O
+,	O
+verticale	O
+werken	O
+.	O
+
+
+in	O
+zijn	O
+vroege	O
+werk	O
+citeerde	O
+hij	O
+naar	O
+constantin	B-PER
+brâncuși	I-PER
+in	O
+grotendeels	O
+houten	O
+,	O
+verticale	O
+werken	O
+.	O
+
+
+in	O
+zijn	O
+vroege	O
+werk	O
+citeerde	O
+hij	O
+naar	O
+karel	B-PER
+de	I-PER
+kale	I-PER
+in	O
+grotendeels	O
+houten	O
+,	O
+verticale	O
+werken	O
+.	O
+
+
+tocantínia	O
+is	O
+een	O
+gemeente	B-LOC
+in	O
+de	O
+braziliaanse	B-LOC
+deelstaat	O
+zweden	B-LOC
+.	O
+
+
+tocantínia	O
+is	O
+een	O
+gemeente	B-LOC
+in	O
+de	O
+braziliaanse	B-LOC
+deelstaat	O
+tocantins	B-LOC
+.	O
+
+
+tocantínia	O
+is	O
+een	O
+gemeente	B-LOC
+in	O
+de	O
+chicago	B-LOC
+deelstaat	O
+graaf	B-LOC
+van	I-LOC
+vlaanderen	I-LOC
+.	O
+
+
+tocantínia	O
+is	O
+een	O
+gemeente	B-LOC
+in	O
+de	O
+braziliaanse	B-LOC
+deelstaat	O
+tocantins	B-LOC
+.	O
+
+
+tocantínia	O
+is	O
+een	O
+gemeente	B-LOC
+in	O
+de	O
+braziliaanse	B-LOC
+deelstaat	O
+tocantins	B-LOC
+.	O
+
+
+ze	O
+werd	O
+daarmee	O
+1e	O
+opvolger	O
+voor	O
+de	O
+gemeenteraad	B-GRP
+in	O
+de	O
+periode	O
+2000	O
+2006	O
+.	O
+
+
+ze	O
+werd	O
+daarmee	O
+1e	O
+opvolger	O
+voor	O
+de	O
+gemeenteraad	B-GRP
+in	O
+de	O
+periode	O
+2000	O
+2006	O
+.	O
+
+
+ze	O
+werd	O
+daarmee	O
+1e	O
+opvolger	O
+voor	O
+de	O
+gemeenteraad	B-GRP
+in	O
+de	O
+periode	O
+2000	O
+2006	O
+.	O
+
+
+ze	O
+werd	O
+daarmee	O
+1e	O
+opvolger	O
+voor	O
+de	O
+gemeenteraad	B-GRP
+in	O
+de	O
+periode	O
+2000	O
+2006	O
+.	O
+
+
+ze	O
+werd	O
+daarmee	O
+1e	O
+opvolger	O
+voor	O
+de	O
+gemeenteraad	B-GRP
+in	O
+de	O
+periode	O
+2000	O
+2006	O
+.	O
+
+
+rijlaars	B-PROD
+hoge	O
+nauwsluitende	O
+laarzen	O
+van	O
+leer	O
+of	O
+van	O
+rubber	O
+/	O
+vinyl	O
+
+
+rijlaars	B-PROD
+hoge	O
+nauwsluitende	O
+laarzen	O
+van	O
+leer	O
+of	O
+van	O
+rubber	O
+/	O
+vinyl	O
+
+
+rijlaars	B-PROD
+hoge	O
+nauwsluitende	O
+laarzen	O
+van	O
+leer	O
+of	O
+van	O
+rubber	O
+/	O
+vinyl	O
+
+
+rijlaars	B-PROD
+hoge	O
+nauwsluitende	O
+laarzen	O
+van	O
+leer	O
+of	O
+van	O
+rubber	O
+/	O
+vinyl	O
+
+
+rijlaars	B-PROD
+hoge	O
+nauwsluitende	O
+laarzen	O
+van	O
+leer	O
+of	O
+van	O
+rubber	O
+/	O
+vinyl	O
+
+
+daarna	O
+(	O
+h	O
+.	O
+3	O
+5	O
+)	O
+geeft	O
+hij	O
+een	O
+samenvatting	O
+van	O
+de	O
+geschiedenis	O
+van	O
+het	O
+management	O
+bij	O
+de	O
+shueisha	B-CORP
+'s	I-CORP
+in	O
+de	O
+loop	O
+van	O
+de	O
+19e	O
+en	O
+begin	O
+20e	O
+eeuw	O
+.	O
+
+
+daarna	O
+(	O
+h	O
+.	O
+3	O
+5	O
+)	O
+geeft	O
+hij	O
+een	O
+samenvatting	O
+van	O
+de	O
+geschiedenis	O
+van	O
+het	O
+management	O
+bij	O
+de	O
+spoorwegen	B-CORP
+in	O
+de	O
+loop	O
+van	O
+de	O
+19e	O
+en	O
+begin	O
+20e	O
+eeuw	O
+.	O
+
+
+daarna	O
+(	O
+h	O
+.	O
+3	O
+5	O
+)	O
+geeft	O
+hij	O
+een	O
+samenvatting	O
+van	O
+de	O
+geschiedenis	O
+van	O
+het	O
+management	O
+bij	O
+de	O
+spoorwegen	B-CORP
+in	O
+de	O
+loop	O
+van	O
+de	O
+19e	O
+en	O
+begin	O
+20e	O
+eeuw	O
+.	O
+
+
+daarna	O
+(	O
+h	O
+.	O
+3	O
+5	O
+)	O
+geeft	O
+hij	O
+een	O
+samenvatting	O
+van	O
+de	O
+geschiedenis	O
+van	O
+het	O
+management	O
+bij	O
+de	O
+spoorwegen	B-CORP
+in	O
+de	O
+loop	O
+van	O
+de	O
+19e	O
+en	O
+begin	O
+20e	O
+eeuw	O
+.	O
+
+
+daarna	O
+(	O
+h	O
+.	O
+3	O
+5	O
+)	O
+geeft	O
+hij	O
+een	O
+samenvatting	O
+van	O
+de	O
+geschiedenis	O
+van	O
+het	O
+management	O
+bij	O
+de	O
+spoorwegen	B-CORP
+in	O
+de	O
+loop	O
+van	O
+de	O
+19e	O
+en	O
+begin	O
+20e	O
+eeuw	O
+.	O
+
+
+voor	O
+haar	O
+tegenspeler	O
+tyrone	B-PER
+power	I-PER
+was	O
+het	O
+de	O
+laatste	O
+komediefilm	O
+die	O
+hij	O
+maakte	O
+tot	O
+en	O
+met	O
+zijn	O
+rol	O
+in	O
+the	B-CW
+luck	I-CW
+of	I-CW
+the	I-CW
+irish	I-CW
+.	O
+
+
+voor	O
+haar	O
+tegenspeler	O
+paredis	B-PER
+was	O
+het	O
+de	O
+laatste	O
+komediefilm	O
+die	O
+hij	O
+maakte	O
+tot	O
+en	O
+met	O
+zijn	O
+rol	O
+in	O
+the	B-CW
+luck	I-CW
+of	I-CW
+the	I-CW
+irish	I-CW
+.	O
+
+
+voor	O
+haar	O
+tegenspeler	O
+tyrone	B-PER
+power	I-PER
+was	O
+het	O
+de	O
+laatste	O
+komediefilm	O
+die	O
+hij	O
+maakte	O
+tot	O
+en	O
+met	O
+zijn	O
+rol	O
+in	O
+the	B-CW
+luck	I-CW
+of	I-CW
+the	I-CW
+irish	I-CW
+.	O
+
+
+voor	O
+haar	O
+tegenspeler	O
+tyrone	B-PER
+power	I-PER
+was	O
+het	O
+de	O
+laatste	O
+komediefilm	O
+die	O
+hij	O
+maakte	O
+tot	O
+en	O
+met	O
+zijn	O
+rol	O
+in	O
+thriller	B-CW
+.	O
+
+
+voor	O
+haar	O
+tegenspeler	O
+beethoven	B-PER
+was	O
+het	O
+de	O
+laatste	O
+komediefilm	O
+die	O
+hij	O
+maakte	O
+tot	O
+en	O
+met	O
+zijn	O
+rol	O
+in	O
+the	B-CW
+luck	I-CW
+of	I-CW
+the	I-CW
+irish	I-CW
+.	O
+
+
+ook	O
+te	O
+zien	O
+in	O
+toneelstuk	B-CW
+
+
+ook	O
+te	O
+zien	O
+in	O
+the	B-CW
+lost	I-CW
+world:	I-CW
+jurassic	I-CW
+park	I-CW
+
+
+ook	O
+te	O
+zien	O
+in	O
+the	B-CW
+lost	I-CW
+world:	I-CW
+jurassic	I-CW
+park	I-CW
+
+
+ook	O
+te	O
+zien	O
+in	O
+the	B-CW
+lost	I-CW
+world:	I-CW
+jurassic	I-CW
+park	I-CW
+
+
+ook	O
+te	O
+zien	O
+in	O
+the	B-CW
+lost	I-CW
+world:	I-CW
+jurassic	I-CW
+park	I-CW
+
+
+ballast	B-CORP
+nedam	I-CORP
+had	O
+nog	O
+250.000	O
+gulden	O
+betaald	O
+om	O
+het	O
+achterstallige	O
+onderhoud	O
+aan	O
+de	O
+brug	O
+en	O
+sluis	O
+weg	O
+te	O
+werken	O
+.	O
+
+
+belga	B-CORP
+had	O
+nog	O
+250.000	O
+gulden	O
+betaald	O
+om	O
+het	O
+achterstallige	O
+onderhoud	O
+aan	O
+de	O
+brug	O
+en	O
+sluis	O
+weg	O
+te	O
+werken	O
+.	O
+
+
+ballast	B-CORP
+nedam	I-CORP
+had	O
+nog	O
+250.000	O
+gulden	O
+betaald	O
+om	O
+het	O
+achterstallige	O
+onderhoud	O
+aan	O
+de	O
+brug	O
+en	O
+sluis	O
+weg	O
+te	O
+werken	O
+.	O
+
+
+ballast	B-CORP
+nedam	I-CORP
+had	O
+nog	O
+250.000	O
+gulden	O
+betaald	O
+om	O
+het	O
+achterstallige	O
+onderhoud	O
+aan	O
+de	O
+brug	O
+en	O
+sluis	O
+weg	O
+te	O
+werken	O
+.	O
+
+
+abc	B-CORP
+had	O
+nog	O
+250.000	O
+gulden	O
+betaald	O
+om	O
+het	O
+achterstallige	O
+onderhoud	O
+aan	O
+de	O
+brug	O
+en	O
+sluis	O
+weg	O
+te	O
+werken	O
+.	O
+
+
+een	O
+hert	O
+met	O
+een	O
+kruis	O
+tussen	O
+het	O
+gewei	O
+is	O
+het	O
+attribuut	O
+van	O
+jan	B-PER
+peter	I-PER
+balkenende	I-PER
+.	O
+
+
+een	O
+hert	O
+met	O
+een	O
+kruis	O
+tussen	O
+het	O
+gewei	O
+is	O
+het	O
+attribuut	O
+van	O
+sint	B-PER
+eustachius	I-PER
+.	O
+
+
+een	O
+hert	O
+met	O
+een	O
+kruis	O
+tussen	O
+het	O
+gewei	O
+is	O
+het	O
+attribuut	O
+van	O
+sint	B-PER
+eustachius	I-PER
+.	O
+
+
+een	O
+hert	O
+met	O
+een	O
+kruis	O
+tussen	O
+het	O
+gewei	O
+is	O
+het	O
+attribuut	O
+van	O
+sint	B-PER
+eustachius	I-PER
+.	O
+
+
+een	O
+hert	O
+met	O
+een	O
+kruis	O
+tussen	O
+het	O
+gewei	O
+is	O
+het	O
+attribuut	O
+van	O
+roger	B-PER
+van	I-PER
+boxtel	I-PER
+.	O
+
+
+marel	O
+startte	O
+zijn	O
+carrière	O
+bij	O
+breiðablik	B-GRP
+kópavogur	I-GRP
+,	O
+maar	O
+maakte	O
+al	O
+snel	O
+de	O
+overstap	O
+naar	O
+het	O
+buitenland	O
+.	O
+
+
+marel	O
+startte	O
+zijn	O
+carrière	O
+bij	O
+northampton	B-GRP
+town	I-GRP
+,	O
+maar	O
+maakte	O
+al	O
+snel	O
+de	O
+overstap	O
+naar	O
+het	O
+buitenland	O
+.	O
+
+
+marel	O
+startte	O
+zijn	O
+carrière	O
+bij	O
+plaats	B-GRP
+,	O
+maar	O
+maakte	O
+al	O
+snel	O
+de	O
+overstap	O
+naar	O
+het	O
+buitenland	O
+.	O
+
+
+marel	O
+startte	O
+zijn	O
+carrière	O
+bij	O
+breiðablik	B-GRP
+kópavogur	I-GRP
+,	O
+maar	O
+maakte	O
+al	O
+snel	O
+de	O
+overstap	O
+naar	O
+het	O
+buitenland	O
+.	O
+
+
+marel	O
+startte	O
+zijn	O
+carrière	O
+bij	O
+breiðablik	B-GRP
+kópavogur	I-GRP
+,	O
+maar	O
+maakte	O
+al	O
+snel	O
+de	O
+overstap	O
+naar	O
+het	O
+buitenland	O
+.	O
+
+
+foxpro	O
+2.6	O
+voor	O
+apple	B-PROD
+macintosh	I-PROD
+is	O
+uitgebracht	O
+.	O
+
+
+foxpro	O
+2.6	O
+voor	O
+apple	B-PROD
+macintosh	I-PROD
+is	O
+uitgebracht	O
+.	O
+
+
+foxpro	O
+2.6	O
+voor	O
+apple	B-PROD
+macintosh	I-PROD
+is	O
+uitgebracht	O
+.	O
+
+
+foxpro	O
+2.6	O
+voor	O
+bromfiets	B-PROD
+is	O
+uitgebracht	O
+.	O
+
+
+foxpro	O
+2.6	O
+voor	O
+apple	B-PROD
+macintosh	I-PROD
+is	O
+uitgebracht	O
+.	O
+
+
+in	O
+de	O
+laatste	O
+jaren	O
+maakte	O
+men	O
+voornamelijk	O
+gemotoriseerde	O
+fietsen	O
+en	O
+bromfiets	B-PROD
+.	O
+
+
+in	O
+de	O
+laatste	O
+jaren	O
+maakte	O
+men	O
+voornamelijk	O
+gemotoriseerde	O
+fietsen	O
+en	O
+rijlaars	B-PROD
+.	O
+
+
+in	O
+de	O
+laatste	O
+jaren	O
+maakte	O
+men	O
+voornamelijk	O
+gemotoriseerde	O
+fietsen	O
+en	O
+bromfiets	B-PROD
+.	O
+
+
+in	O
+de	O
+laatste	O
+jaren	O
+maakte	O
+men	O
+voornamelijk	O
+gemotoriseerde	O
+fietsen	O
+en	O
+bromfiets	B-PROD
+.	O
+
+
+in	O
+de	O
+laatste	O
+jaren	O
+maakte	O
+men	O
+voornamelijk	O
+gemotoriseerde	O
+fietsen	O
+en	O
+bromfiets	B-PROD
+.	O
+
+
+zijn	O
+familie	O
+viel	O
+in	O
+844	O
+in	O
+ongenade	O
+bij	O
+koning	O
+karel	B-PER
+de	I-PER
+kale	I-PER
+van	O
+west-francië	B-LOC
+en	O
+verloor	O
+hierdoor	O
+haar	O
+bezittingen	O
+.	O
+
+
+zijn	O
+familie	O
+viel	O
+in	O
+844	O
+in	O
+ongenade	O
+bij	O
+koning	O
+karel	B-PER
+de	I-PER
+kale	I-PER
+van	O
+west-francië	B-LOC
+en	O
+verloor	O
+hierdoor	O
+haar	O
+bezittingen	O
+.	O
+
+
+zijn	O
+familie	O
+viel	O
+in	O
+844	O
+in	O
+ongenade	O
+bij	O
+koning	O
+karel	B-PER
+de	I-PER
+kale	I-PER
+van	O
+west-francië	B-LOC
+en	O
+verloor	O
+hierdoor	O
+haar	O
+bezittingen	O
+.	O
+
+
+zijn	O
+familie	O
+viel	O
+in	O
+844	O
+in	O
+ongenade	O
+bij	O
+koning	O
+karel	B-PER
+de	I-PER
+kale	I-PER
+van	O
+nederland	B-LOC
+en	O
+verloor	O
+hierdoor	O
+haar	O
+bezittingen	O
+.	O
+
+
+zijn	O
+familie	O
+viel	O
+in	O
+844	O
+in	O
+ongenade	O
+bij	O
+koning	O
+karel	B-PER
+de	I-PER
+kale	I-PER
+van	O
+west-francië	B-LOC
+en	O
+verloor	O
+hierdoor	O
+haar	O
+bezittingen	O
+.	O
+
+
+ook	O
+peter	B-PER
+frampton	I-PER
+werd	O
+genoemd	O
+op	O
+het	O
+album	O
+,	O
+maar	O
+het	O
+is	O
+onbekend	O
+wat	O
+precies	O
+zijn	O
+bijdrage	O
+was	O
+.	O
+
+
+ook	O
+beethoven	B-PER
+werd	O
+genoemd	O
+op	O
+het	O
+album	O
+,	O
+maar	O
+het	O
+is	O
+onbekend	O
+wat	O
+precies	O
+zijn	O
+bijdrage	O
+was	O
+.	O
+
+
+ook	O
+peter	B-PER
+frampton	I-PER
+werd	O
+genoemd	O
+op	O
+het	O
+album	O
+,	O
+maar	O
+het	O
+is	O
+onbekend	O
+wat	O
+precies	O
+zijn	O
+bijdrage	O
+was	O
+.	O
+
+
+ook	O
+johann	B-PER
+andreas	I-PER
+wagner	I-PER
+werd	O
+genoemd	O
+op	O
+het	O
+album	O
+,	O
+maar	O
+het	O
+is	O
+onbekend	O
+wat	O
+precies	O
+zijn	O
+bijdrage	O
+was	O
+.	O
+
+
+ook	O
+peter	B-PER
+frampton	I-PER
+werd	O
+genoemd	O
+op	O
+het	O
+album	O
+,	O
+maar	O
+het	O
+is	O
+onbekend	O
+wat	O
+precies	O
+zijn	O
+bijdrage	O
+was	O
+.	O
+
+
+via	O
+de	O
+eindronde	O
+en	O
+strafschoppen	O
+tegen	O
+gemeenteraad	B-GRP
+kan	O
+de	O
+club	O
+na	O
+één	O
+jaar	O
+terugkeren	O
+en	O
+wordt	O
+dertiende	O
+.	O
+
+
+via	O
+de	O
+eindronde	O
+en	O
+strafschoppen	O
+tegen	O
+fc	B-GRP
+rouen	I-GRP
+kan	O
+de	O
+club	O
+na	O
+één	O
+jaar	O
+terugkeren	O
+en	O
+wordt	O
+dertiende	O
+.	O
+
+
+via	O
+de	O
+eindronde	O
+en	O
+strafschoppen	O
+tegen	O
+cda	B-GRP
+kan	O
+de	O
+club	O
+na	O
+één	O
+jaar	O
+terugkeren	O
+en	O
+wordt	O
+dertiende	O
+.	O
+
+
+via	O
+de	O
+eindronde	O
+en	O
+strafschoppen	O
+tegen	O
+fc	B-GRP
+rouen	I-GRP
+kan	O
+de	O
+club	O
+na	O
+één	O
+jaar	O
+terugkeren	O
+en	O
+wordt	O
+dertiende	O
+.	O
+
+
+via	O
+de	O
+eindronde	O
+en	O
+strafschoppen	O
+tegen	O
+pretoriaanse	B-GRP
+garde	I-GRP
+kan	O
+de	O
+club	O
+na	O
+één	O
+jaar	O
+terugkeren	O
+en	O
+wordt	O
+dertiende	O
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+werd	O
+voor	O
+het	O
+eerst	O
+geldig	O
+gepubliceerd	O
+in	O
+1943	O
+door	O
+johann	B-PER
+andreas	I-PER
+wagner	I-PER
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+werd	O
+voor	O
+het	O
+eerst	O
+geldig	O
+gepubliceerd	O
+in	O
+1943	O
+door	O
+cândido	B-PER
+firmino	I-PER
+de	I-PER
+mello-leitão	I-PER
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+werd	O
+voor	O
+het	O
+eerst	O
+geldig	O
+gepubliceerd	O
+in	O
+1943	O
+door	O
+sint	B-PER
+eustachius	I-PER
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+werd	O
+voor	O
+het	O
+eerst	O
+geldig	O
+gepubliceerd	O
+in	O
+1943	O
+door	O
+cândido	B-PER
+firmino	I-PER
+de	I-PER
+mello-leitão	I-PER
+.	O
+
+
+de	O
+wetenschappelijke	O
+naam	O
+van	O
+de	O
+soort	O
+werd	O
+voor	O
+het	O
+eerst	O
+geldig	O
+gepubliceerd	O
+in	O
+1943	O
+door	O
+cândido	B-PER
+firmino	I-PER
+de	I-PER
+mello-leitão	I-PER
+.	O
+
+
+het	O
+werd	O
+in	O
+1965	O
+bij	O
+de	O
+rdm	B-CORP
+gebouwd	O
+.	O
+
+
+het	O
+werd	O
+in	O
+1965	O
+bij	O
+de	O
+rdm	B-CORP
+gebouwd	O
+.	O
+
+
+het	O
+werd	O
+in	O
+1965	O
+bij	O
+de	O
+rdm	B-CORP
+gebouwd	O
+.	O
+
+
+het	O
+werd	O
+in	O
+1965	O
+bij	O
+de	O
+rdm	B-CORP
+gebouwd	O
+.	O
+
+
+het	O
+werd	O
+in	O
+1965	O
+bij	O
+de	O
+aerobratsk	B-CORP
+gebouwd	O
+.	O
+
+
+hij	O
+belandde	O
+uiteindelijk	O
+bij	O
+de	O
+jeugdopleiding	O
+van	O
+lille	B-GRP
+osc	I-GRP
+.	O
+
+
+hij	O
+belandde	O
+uiteindelijk	O
+bij	O
+de	O
+jeugdopleiding	O
+van	O
+lille	B-GRP
+osc	I-GRP
+.	O
+
+
+hij	O
+belandde	O
+uiteindelijk	O
+bij	O
+de	O
+jeugdopleiding	O
+van	O
+lille	B-GRP
+osc	I-GRP
+.	O
+
+
+hij	O
+belandde	O
+uiteindelijk	O
+bij	O
+de	O
+jeugdopleiding	O
+van	O
+pretoriaanse	B-GRP
+garde	I-GRP
+.	O
+
+
+hij	O
+belandde	O
+uiteindelijk	O
+bij	O
+de	O
+jeugdopleiding	O
+van	O
+united	B-GRP
+states	I-GRP
+census	I-GRP
+bureau	I-GRP
+.	O
+
+
+wat	O
+wel	O
+bekend	O
+is	O
+dat	O
+hij	O
+overleed	O
+in	O
+1936	O
+in	O
+chicago	B-LOC
+.	O
+
+
+wat	O
+wel	O
+bekend	O
+is	O
+dat	O
+hij	O
+overleed	O
+in	O
+1936	O
+in	O
+chicago	B-LOC
+.	O
+
+
+wat	O
+wel	O
+bekend	O
+is	O
+dat	O
+hij	O
+overleed	O
+in	O
+1936	O
+in	O
+chicago	B-LOC
+.	O
+
+
+wat	O
+wel	O
+bekend	O
+is	O
+dat	O
+hij	O
+overleed	O
+in	O
+1936	O
+in	O
+nederland	B-LOC
+.	O
+
+
+wat	O
+wel	O
+bekend	O
+is	O
+dat	O
+hij	O
+overleed	O
+in	O
+1936	O
+in	O
+west-francië	B-LOC
+.	O
+
+
+de	O
+villa	O
+'s	O
+,	O
+in	O
+dit	O
+geval	O
+landhuizen	O
+,	O
+werden	O
+gebouwd	O
+voor	O
+welvarende	O
+families	O
+die	O
+veelal	O
+een	O
+haryana	B-LOC
+in	O
+een	O
+stad	O
+hadden	O
+.	O
+
+
+de	O
+villa	O
+'s	O
+,	O
+in	O
+dit	O
+geval	O
+landhuizen	O
+,	O
+werden	O
+gebouwd	O
+voor	O
+welvarende	O
+families	O
+die	O
+veelal	O
+een	O
+palazzo	B-LOC
+in	O
+een	O
+stad	O
+hadden	O
+.	O
+
+
+de	O
+villa	O
+'s	O
+,	O
+in	O
+dit	O
+geval	O
+landhuizen	O
+,	O
+werden	O
+gebouwd	O
+voor	O
+welvarende	O
+families	O
+die	O
+veelal	O
+een	O
+palazzo	B-LOC
+in	O
+een	O
+stad	O
+hadden	O
+.	O
+
+
+de	O
+villa	O
+'s	O
+,	O
+in	O
+dit	O
+geval	O
+landhuizen	O
+,	O
+werden	O
+gebouwd	O
+voor	O
+welvarende	O
+families	O
+die	O
+veelal	O
+een	O
+zaragoza	B-LOC
+in	O
+een	O
+stad	O
+hadden	O
+.	O
+
+
+de	O
+villa	O
+'s	O
+,	O
+in	O
+dit	O
+geval	O
+landhuizen	O
+,	O
+werden	O
+gebouwd	O
+voor	O
+welvarende	O
+families	O
+die	O
+veelal	O
+een	O
+palazzo	B-LOC
+in	O
+een	O
+stad	O
+hadden	O
+.	O
+
+
+sinds	O
+augustus	O
+2011	O
+is	O
+ze	O
+voorzitter	O
+van	O
+de	O
+european	B-GRP
+hockey	I-GRP
+federation	I-GRP
+(	O
+ehf	O
+)	O
+.	O
+
+
+sinds	O
+augustus	O
+2011	O
+is	O
+ze	O
+voorzitter	O
+van	O
+de	O
+unión	B-GRP
+magdalena	I-GRP
+(	O
+ehf	O
+)	O
+.	O
+
+
+sinds	O
+augustus	O
+2011	O
+is	O
+ze	O
+voorzitter	O
+van	O
+de	O
+european	B-GRP
+hockey	I-GRP
+federation	I-GRP
+(	O
+ehf	O
+)	O
+.	O
+
+
+sinds	O
+augustus	O
+2011	O
+is	O
+ze	O
+voorzitter	O
+van	O
+de	O
+unión	B-GRP
+magdalena	I-GRP
+(	O
+ehf	O
+)	O
+.	O
+
+
+sinds	O
+augustus	O
+2011	O
+is	O
+ze	O
+voorzitter	O
+van	O
+de	O
+centraal	B-GRP
+bureau	I-GRP
+voor	I-GRP
+de	I-GRP
+statistiek	I-GRP
+(	O
+ehf	O
+)	O
+.	O
+
+
+behalve	O
+naar	O
+de	O
+klassieke	O
+componisten	O
+beethoven	B-PER
+en	O
+tsjaikovski	B-PER
+verwijst	O
+de	O
+tekst	O
+naar	O
+verschillende	O
+andere	O
+popmuzikanten	O
+.	O
+
+
+behalve	O
+naar	O
+de	O
+klassieke	O
+componisten	O
+beethoven	B-PER
+en	O
+tsjaikovski	B-PER
+verwijst	O
+de	O
+tekst	O
+naar	O
+verschillende	O
+andere	O
+popmuzikanten	O
+.	O
+
+
+behalve	O
+naar	O
+de	O
+klassieke	O
+componisten	O
+beethoven	B-PER
+en	O
+tsjaikovski	B-PER
+verwijst	O
+de	O
+tekst	O
+naar	O
+verschillende	O
+andere	O
+popmuzikanten	O
+.	O
+
+
+behalve	O
+naar	O
+de	O
+klassieke	O
+componisten	O
+beethoven	B-PER
+en	O
+horst	B-PER
+schumann	I-PER
+verwijst	O
+de	O
+tekst	O
+naar	O
+verschillende	O
+andere	O
+popmuzikanten	O
+.	O
+
+
+behalve	O
+naar	O
+de	O
+klassieke	O
+componisten	O
+beethoven	B-PER
+en	O
+tsjaikovski	B-PER
+verwijst	O
+de	O
+tekst	O
+naar	O
+verschillende	O
+andere	O
+popmuzikanten	O
+.	O
+
+
+2001	O
+:	O
+sergi	B-PER
+lópez	I-PER
+voor	O
+harry,	B-CW
+un	I-CW
+ami	I-CW
+qui	I-CW
+vous	I-CW
+veut	I-CW
+du	I-CW
+bien	I-CW
+
+
+2001	O
+:	O
+beethoven	B-PER
+voor	O
+windows	B-CW
+
+
+2001	O
+:	O
+jake	B-PER
+holmes	I-PER
+voor	O
+harry,	B-CW
+un	I-CW
+ami	I-CW
+qui	I-CW
+vous	I-CW
+veut	I-CW
+du	I-CW
+bien	I-CW
+
+
+2001	O
+:	O
+sergi	B-PER
+lópez	I-PER
+voor	O
+single	B-CW
+
+
+2001	O
+:	O
+sergi	B-PER
+lópez	I-PER
+voor	O
+harry,	B-CW
+un	I-CW
+ami	I-CW
+qui	I-CW
+vous	I-CW
+veut	I-CW
+du	I-CW
+bien	I-CW
+
+
+ze	O
+dwong	O
+de	O
+bemanning	O
+over	O
+colombia	B-LOC
+,	O
+haar	O
+geboortestad	O
+,	O
+te	O
+vliegen	O
+met	O
+als	O
+doel	O
+om	O
+in	O
+tel	B-LOC
+aviv	I-LOC
+te	O
+landen	O
+.	O
+
+
+ze	O
+dwong	O
+de	O
+bemanning	O
+over	O
+haifa	B-LOC
+,	O
+haar	O
+geboortestad	O
+,	O
+te	O
+vliegen	O
+met	O
+als	O
+doel	O
+om	O
+in	O
+tel	B-LOC
+aviv	I-LOC
+te	O
+landen	O
+.	O
+
+
+ze	O
+dwong	O
+de	O
+bemanning	O
+over	O
+nederland	B-LOC
+,	O
+haar	O
+geboortestad	O
+,	O
+te	O
+vliegen	O
+met	O
+als	O
+doel	O
+om	O
+in	O
+palazzo	B-LOC
+te	O
+landen	O
+.	O
+
+
+ze	O
+dwong	O
+de	O
+bemanning	O
+over	O
+haifa	B-LOC
+,	O
+haar	O
+geboortestad	O
+,	O
+te	O
+vliegen	O
+met	O
+als	O
+doel	O
+om	O
+in	O
+colombia	B-LOC
+te	O
+landen	O
+.	O
+
+
+ze	O
+dwong	O
+de	O
+bemanning	O
+over	O
+haifa	B-LOC
+,	O
+haar	O
+geboortestad	O
+,	O
+te	O
+vliegen	O
+met	O
+als	O
+doel	O
+om	O
+in	O
+hautes-pyrénées	B-LOC
+te	O
+landen	O
+.	O
+
+
+astra	B-CORP
+weet	O
+voor	O
+het	O
+eerst	O
+een	O
+van	O
+hun	O
+raketten	O
+in	O
+de	O
+ruimte	O
+te	O
+krijgen	O
+.	O
+
+
+hermes	B-CORP
+weet	O
+voor	O
+het	O
+eerst	O
+een	O
+van	O
+hun	O
+raketten	O
+in	O
+de	O
+ruimte	O
+te	O
+krijgen	O
+.	O
+
+
+astra	B-CORP
+weet	O
+voor	O
+het	O
+eerst	O
+een	O
+van	O
+hun	O
+raketten	O
+in	O
+de	O
+ruimte	O
+te	O
+krijgen	O
+.	O
+
+
+astra	B-CORP
+weet	O
+voor	O
+het	O
+eerst	O
+een	O
+van	O
+hun	O
+raketten	O
+in	O
+de	O
+ruimte	O
+te	O
+krijgen	O
+.	O
+
+
+band	B-CORP
+weet	O
+voor	O
+het	O
+eerst	O
+een	O
+van	O
+hun	O
+raketten	O
+in	O
+de	O
+ruimte	O
+te	O
+krijgen	O
+.	O
+
+
+amage	O
+is	O
+een	O
+gemeente	O
+in	O
+het	O
+franse	B-LOC
+departement	O
+haute-saône	B-LOC
+(	O
+regio	O
+bourgogne-franche-comté	B-LOC
+)	O
+en	O
+telt	O
+330	O
+inwoners	O
+.	O
+
+
+amage	O
+is	O
+een	O
+gemeente	O
+in	O
+het	O
+franse	B-LOC
+departement	O
+haute-saône	B-LOC
+(	O
+regio	O
+bourgogne-franche-comté	B-LOC
+)	O
+en	O
+telt	O
+330	O
+inwoners	O
+.	O
+
+
+amage	O
+is	O
+een	O
+gemeente	O
+in	O
+het	O
+franse	B-LOC
+departement	O
+haute-saône	B-LOC
+(	O
+regio	O
+staat	B-LOC
+)	O
+en	O
+telt	O
+330	O
+inwoners	O
+.	O
+
+
+amage	O
+is	O
+een	O
+gemeente	O
+in	O
+het	O
+franse	B-LOC
+departement	O
+haute-saône	B-LOC
+(	O
+regio	O
+bourgogne-franche-comté	B-LOC
+)	O
+en	O
+telt	O
+330	O
+inwoners	O
+.	O
+
+
+amage	O
+is	O
+een	O
+gemeente	O
+in	O
+het	O
+staat	B-LOC
+departement	O
+haute-saône	B-LOC
+(	O
+regio	O
+bourgogne-franche-comté	B-LOC
+)	O
+en	O
+telt	O
+330	O
+inwoners	O
+.	O
+
+
+;	O
+hi	O
+tech	O
+:	O
+hi	O
+tech	O
+is	O
+de	O
+naam	O
+van	O
+een	O
+progressief	O
+werkend	O
+motorfiets	B-PROD
+veersysteem	O
+,	O
+met	O
+twee	O
+hefboompjes	O
+.	O
+
+
+;	O
+hi	O
+tech	O
+:	O
+hi	O
+tech	O
+is	O
+de	O
+naam	O
+van	O
+een	O
+progressief	O
+werkend	O
+frisdrank	B-PROD
+veersysteem	O
+,	O
+met	O
+twee	O
+hefboompjes	O
+.	O
+
+
+;	O
+hi	O
+tech	O
+:	O
+hi	O
+tech	O
+is	O
+de	O
+naam	O
+van	O
+een	O
+progressief	O
+werkend	O
+motorfiets	B-PROD
+veersysteem	O
+,	O
+met	O
+twee	O
+hefboompjes	O
+.	O
+
+
+;	O
+hi	O
+tech	O
+:	O
+hi	O
+tech	O
+is	O
+de	O
+naam	O
+van	O
+een	O
+progressief	O
+werkend	O
+motorfiets	B-PROD
+veersysteem	O
+,	O
+met	O
+twee	O
+hefboompjes	O
+.	O
+
+
+;	O
+hi	O
+tech	O
+:	O
+hi	O
+tech	O
+is	O
+de	O
+naam	O
+van	O
+een	O
+progressief	O
+werkend	O
+motorfiets	B-PROD
+veersysteem	O
+,	O
+met	O
+twee	O
+hefboompjes	O
+.	O
+
+
+ze	O
+was	O
+de	O
+enige	O
+dochter	O
+en	O
+erfgename	O
+van	O
+beethoven	B-PER
+,	O
+hautes-pyrénées	B-LOC
+,	O
+en	O
+margaretha	B-PER
+van	I-PER
+brabant	I-PER
+.	O
+
+
+ze	O
+was	O
+de	O
+enige	O
+dochter	O
+en	O
+erfgename	O
+van	O
+lodewijk	B-PER
+van	I-PER
+male	I-PER
+,	O
+graaf	B-LOC
+van	I-LOC
+vlaanderen	I-LOC
+,	O
+en	O
+margaretha	B-PER
+van	I-PER
+brabant	I-PER
+.	O
+
+
+ze	O
+was	O
+de	O
+enige	O
+dochter	O
+en	O
+erfgename	O
+van	O
+lodewijk	B-PER
+van	I-PER
+male	I-PER
+,	O
+graaf	B-LOC
+van	I-LOC
+vlaanderen	I-LOC
+,	O
+en	O
+margaretha	B-PER
+van	I-PER
+brabant	I-PER
+.	O
+
+
+ze	O
+was	O
+de	O
+enige	O
+dochter	O
+en	O
+erfgename	O
+van	O
+lodewijk	B-PER
+van	I-PER
+male	I-PER
+,	O
+graaf	B-LOC
+van	I-LOC
+vlaanderen	I-LOC
+,	O
+en	O
+constantin	B-PER
+brâncuși	I-PER
+.	O
+
+
+ze	O
+was	O
+de	O
+enige	O
+dochter	O
+en	O
+erfgename	O
+van	O
+lodewijk	B-PER
+van	I-PER
+male	I-PER
+,	O
+graaf	B-LOC
+van	I-LOC
+vlaanderen	I-LOC
+,	O
+en	O
+margaretha	B-PER
+van	I-PER
+brabant	I-PER
+.	O
+
+
+op	O
+6	O
+september	O
+1880	O
+werd	O
+de	O
+kerk	O
+door	O
+bisschop	O
+paredis	B-PER
+ingewijd	O
+.	O
+
+
+op	O
+6	O
+september	O
+1880	O
+werd	O
+de	O
+kerk	O
+door	O
+bisschop	O
+paredis	B-PER
+ingewijd	O
+.	O
+
+
+op	O
+6	O
+september	O
+1880	O
+werd	O
+de	O
+kerk	O
+door	O
+bisschop	O
+paredis	B-PER
+ingewijd	O
+.	O
+
+
+op	O
+6	O
+september	O
+1880	O
+werd	O
+de	O
+kerk	O
+door	O
+bisschop	O
+tsjaikovski	B-PER
+ingewijd	O
+.	O
+
+
+op	O
+6	O
+september	O
+1880	O
+werd	O
+de	O
+kerk	O
+door	O
+bisschop	O
+paredis	B-PER
+ingewijd	O
+.	O
+
+
+togrenda	O
+is	O
+een	O
+plaats	B-GRP
+in	O
+de	O
+occitanie	B-LOC
+gemeente	O
+ås	B-LOC
+,	O
+provincie	B-LOC
+viken	B-LOC
+.	O
+
+
+togrenda	O
+is	O
+een	O
+plaats	B-GRP
+in	O
+de	O
+noorse	B-LOC
+gemeente	O
+ås	B-LOC
+,	O
+provincie	B-LOC
+torre	B-LOC
+de	I-LOC
+dona	I-LOC
+chama	I-LOC
+.	O
+
+
+togrenda	O
+is	O
+een	O
+plaats	B-GRP
+in	O
+de	O
+praag	B-LOC
+gemeente	O
+praag	B-LOC
+,	O
+braziliaanse	B-LOC
+viken	B-LOC
+.	O
+
+
+togrenda	O
+is	O
+een	O
+plaats	B-GRP
+in	O
+de	O
+costa	B-LOC
+rica	I-LOC
+gemeente	O
+noorse	B-LOC
+,	O
+costa	B-LOC
+rica	I-LOC
+viken	B-LOC
+.	O
+
+
+togrenda	O
+is	O
+een	O
+kaa	B-GRP
+gent	I-GRP
+in	O
+de	O
+noorse	B-LOC
+gemeente	O
+haryana	B-LOC
+,	O
+provincie	B-LOC
+gemeente	B-LOC
+.	O
+
+
+lodewijkx	O
+scoorde	O
+het	O
+eerste	O
+punt	O
+voor	O
+jamathi	B-CORP
+.	O
+
+
+lodewijkx	O
+scoorde	O
+het	O
+eerste	O
+punt	O
+voor	O
+jamathi	B-CORP
+.	O
+
+
+lodewijkx	O
+scoorde	O
+het	O
+eerste	O
+punt	O
+voor	O
+bultaco	B-CORP
+.	O
+
+
+lodewijkx	O
+scoorde	O
+het	O
+eerste	O
+punt	O
+voor	O
+jamathi	B-CORP
+.	O
+
+
+lodewijkx	O
+scoorde	O
+het	O
+eerste	O
+punt	O
+voor	O
+band	B-CORP
+.	O
+
+
+onderstaande	O
+tabel	O
+geeft	O
+de	O
+buurtindeling	O
+met	O
+kentallen	O
+volgens	O
+het	O
+centraal	B-GRP
+bureau	I-GRP
+voor	I-GRP
+de	I-GRP
+statistiek	I-GRP
+:	O
+
+
+onderstaande	O
+tabel	O
+geeft	O
+de	O
+buurtindeling	O
+met	O
+kentallen	O
+volgens	O
+het	O
+unión	B-GRP
+magdalena	I-GRP
+:	O
+
+
+onderstaande	O
+tabel	O
+geeft	O
+de	O
+buurtindeling	O
+met	O
+kentallen	O
+volgens	O
+het	O
+centraal	B-GRP
+bureau	I-GRP
+voor	I-GRP
+de	I-GRP
+statistiek	I-GRP
+:	O
+
+
+onderstaande	O
+tabel	O
+geeft	O
+de	O
+buurtindeling	O
+met	O
+kentallen	O
+volgens	O
+het	O
+centraal	B-GRP
+bureau	I-GRP
+voor	I-GRP
+de	I-GRP
+statistiek	I-GRP
+:	O
+
+
+onderstaande	O
+tabel	O
+geeft	O
+de	O
+buurtindeling	O
+met	O
+kentallen	O
+volgens	O
+het	O
+fc	B-GRP
+rouen	I-GRP
+:	O
+
+
+hij	O
+was	O
+een	O
+van	O
+de	O
+oprichters	O
+van	O
+de	O
+plaatselijke	O
+landelijke	B-GRP
+organisatie	I-GRP
+voor	I-GRP
+hulp	I-GRP
+aan	I-GRP
+onderduikers	I-GRP
+.	O
+
+
+hij	O
+was	O
+een	O
+van	O
+de	O
+oprichters	O
+van	O
+de	O
+plaatselijke	O
+landelijke	B-GRP
+organisatie	I-GRP
+voor	I-GRP
+hulp	I-GRP
+aan	I-GRP
+onderduikers	I-GRP
+.	O
+
+
+hij	O
+was	O
+een	O
+van	O
+de	O
+oprichters	O
+van	O
+de	O
+plaatselijke	O
+northampton	B-GRP
+town	I-GRP
+.	O
+
+
+hij	O
+was	O
+een	O
+van	O
+de	O
+oprichters	O
+van	O
+de	O
+plaatselijke	O
+landelijke	B-GRP
+organisatie	I-GRP
+voor	I-GRP
+hulp	I-GRP
+aan	I-GRP
+onderduikers	I-GRP
+.	O
+
+
+hij	O
+was	O
+een	O
+van	O
+de	O
+oprichters	O
+van	O
+de	O
+plaatselijke	O
+pretoriaanse	B-GRP
+garde	I-GRP
+.	O
+
+
+de	O
+dom	O
+heeft	O
+meer	O
+dan	O
+20	O
+altaren	B-PROD
+.	O
+
+
+de	O
+dom	O
+heeft	O
+meer	O
+dan	O
+20	O
+altaren	B-PROD
+.	O
+
+
+de	O
+dom	O
+heeft	O
+meer	O
+dan	O
+20	O
+altaren	B-PROD
+.	O
+
+
+de	O
+dom	O
+heeft	O
+meer	O
+dan	O
+20	O
+altaren	B-PROD
+.	O
+
+
+de	O
+dom	O
+heeft	O
+meer	O
+dan	O
+20	O
+altaren	B-PROD
+.	O
+
+
+rough	O
+diamonds	O
+is	O
+het	O
+derde	O
+slapstick	B-CW
+van	O
+jack	B-GRP
+the	I-GRP
+lad	I-GRP
+.	O
+
+
+rough	O
+diamonds	O
+is	O
+het	O
+derde	O
+studioalbum	B-CW
+van	O
+jack	B-GRP
+the	I-GRP
+lad	I-GRP
+.	O
+
+
+rough	O
+diamonds	O
+is	O
+het	O
+derde	O
+the	B-CW
+man	I-CW
+who	I-CW
+laughs	I-CW
+van	O
+jack	B-GRP
+the	I-GRP
+lad	I-GRP
+.	O
+
+
+rough	O
+diamonds	O
+is	O
+het	O
+derde	O
+studioalbum	B-CW
+van	O
+jack	B-GRP
+the	I-GRP
+lad	I-GRP
+.	O
+
+
+rough	O
+diamonds	O
+is	O
+het	O
+derde	O
+studioalbum	B-CW
+van	O
+jack	B-GRP
+the	I-GRP
+lad	I-GRP
+.	O
+
+
+tot	O
+in	O
+1945	O
+was	O
+hij	O
+vooral	O
+actief	O
+als	O
+meubelontwerper	B-PROD
+.	O
+
+
+tot	O
+in	O
+1945	O
+was	O
+hij	O
+vooral	O
+actief	O
+als	O
+meubelontwerper	B-PROD
+.	O
+
+
+tot	O
+in	O
+1945	O
+was	O
+hij	O
+vooral	O
+actief	O
+als	O
+meubelontwerper	B-PROD
+.	O
+
+
+tot	O
+in	O
+1945	O
+was	O
+hij	O
+vooral	O
+actief	O
+als	O
+meubelontwerper	B-PROD
+.	O
+
+
+tot	O
+in	O
+1945	O
+was	O
+hij	O
+vooral	O
+actief	O
+als	O
+meubelontwerper	B-PROD
+.	O
+
+
+de	O
+stad	O
+heeft	O
+een	O
+spoorwegstation	O
+en	O
+een	O
+luchthaven	O
+met	O
+een	O
+eigen	O
+luchtvaartmaatschappij	O
+:	O
+pcgg	B-CORP
+.	O
+
+
+de	O
+stad	O
+heeft	O
+een	O
+spoorwegstation	O
+en	O
+een	O
+luchthaven	O
+met	O
+een	O
+eigen	O
+luchtvaartmaatschappij	O
+:	O
+aerobratsk	B-CORP
+.	O
+
+
+de	O
+stad	O
+heeft	O
+een	O
+spoorwegstation	O
+en	O
+een	O
+luchthaven	O
+met	O
+een	O
+eigen	O
+luchtvaartmaatschappij	O
+:	O
+aerobratsk	B-CORP
+.	O
+
+
+de	O
+stad	O
+heeft	O
+een	O
+spoorwegstation	O
+en	O
+een	O
+luchthaven	O
+met	O
+een	O
+eigen	O
+luchtvaartmaatschappij	O
+:	O
+aerobratsk	B-CORP
+.	O
+
+
+de	O
+stad	O
+heeft	O
+een	O
+spoorwegstation	O
+en	O
+een	O
+luchthaven	O
+met	O
+een	O
+eigen	O
+luchtvaartmaatschappij	O
+:	O
+netflix	B-CORP
+.	O
+
+
+hier	O
+kwam	O
+hij	O
+in	O
+contact	O
+met	O
+de	O
+producer	O
+tyrone	B-PER
+power	I-PER
+die	O
+hem	O
+onder	O
+meer	O
+het	O
+geld	O
+voorschoot	O
+om	O
+een	O
+demo	O
+te	O
+maken	O
+.	O
+
+
+hier	O
+kwam	O
+hij	O
+in	O
+contact	O
+met	O
+de	O
+producer	O
+jan	B-PER
+peter	I-PER
+balkenende	I-PER
+die	O
+hem	O
+onder	O
+meer	O
+het	O
+geld	O
+voorschoot	O
+om	O
+een	O
+demo	O
+te	O
+maken	O
+.	O
+
+
+hier	O
+kwam	O
+hij	O
+in	O
+contact	O
+met	O
+de	O
+producer	O
+jack	B-PER
+clement	I-PER
+die	O
+hem	O
+onder	O
+meer	O
+het	O
+geld	O
+voorschoot	O
+om	O
+een	O
+demo	O
+te	O
+maken	O
+.	O
+
+
+hier	O
+kwam	O
+hij	O
+in	O
+contact	O
+met	O
+de	O
+producer	O
+jack	B-PER
+clement	I-PER
+die	O
+hem	O
+onder	O
+meer	O
+het	O
+geld	O
+voorschoot	O
+om	O
+een	O
+demo	O
+te	O
+maken	O
+.	O
+
+
+hier	O
+kwam	O
+hij	O
+in	O
+contact	O
+met	O
+de	O
+producer	O
+jack	B-PER
+clement	I-PER
+die	O
+hem	O
+onder	O
+meer	O
+het	O
+geld	O
+voorschoot	O
+om	O
+een	O
+demo	O
+te	O
+maken	O
+.	O
+
+
+de	O
+manga	O
+werd	O
+uitgegeven	O
+in	O
+shueisha	B-CORP
+'s	I-CORP
+tijdschrift	O
+margaret	B-CW
+en	O
+kende	O
+van	O
+diens	O
+begin	O
+al	O
+succes	O
+.	O
+
+
+de	O
+manga	O
+werd	O
+uitgegeven	O
+in	O
+pcgg	B-CORP
+tijdschrift	O
+even	B-CW
+better	I-CW
+than	I-CW
+the	I-CW
+real	I-CW
+thing	I-CW
+en	O
+kende	O
+van	O
+diens	O
+begin	O
+al	O
+succes	O
+.	O
+
+
+de	O
+manga	O
+werd	O
+uitgegeven	O
+in	O
+bultaco	B-CORP
+tijdschrift	O
+margaret	B-CW
+en	O
+kende	O
+van	O
+diens	O
+begin	O
+al	O
+succes	O
+.	O
+
+
+de	O
+manga	O
+werd	O
+uitgegeven	O
+in	O
+shueisha	B-CORP
+'s	I-CORP
+tijdschrift	O
+harry,	B-CW
+un	I-CW
+ami	I-CW
+qui	I-CW
+vous	I-CW
+veut	I-CW
+du	I-CW
+bien	I-CW
+en	O
+kende	O
+van	O
+diens	O
+begin	O
+al	O
+succes	O
+.	O
+
+
+de	O
+manga	O
+werd	O
+uitgegeven	O
+in	O
+astra	B-CORP
+tijdschrift	O
+margaret	B-CW
+en	O
+kende	O
+van	O
+diens	O
+begin	O
+al	O
+succes	O
+.	O
+
+
+in	O
+de	O
+jaren	O
+twintig	O
+verhuisde	O
+hij	O
+naar	O
+hollywood	B-LOC
+en	O
+speelde	O
+daar	O
+onder	O
+meer	O
+in	O
+the	B-CW
+man	I-CW
+who	I-CW
+laughs	I-CW
+.	O
+
+
+in	O
+de	O
+jaren	O
+twintig	O
+verhuisde	O
+hij	O
+naar	O
+hollywood	B-LOC
+en	O
+speelde	O
+daar	O
+onder	O
+meer	O
+in	O
+the	B-CW
+man	I-CW
+who	I-CW
+laughs	I-CW
+.	O
+
+
+in	O
+de	O
+jaren	O
+twintig	O
+verhuisde	O
+hij	O
+naar	O
+hollywood	B-LOC
+en	O
+speelde	O
+daar	O
+onder	O
+meer	O
+in	O
+the	B-CW
+man	I-CW
+who	I-CW
+laughs	I-CW
+.	O
+
+
+in	O
+de	O
+jaren	O
+twintig	O
+verhuisde	O
+hij	O
+naar	O
+hollywood	B-LOC
+en	O
+speelde	O
+daar	O
+onder	O
+meer	O
+in	O
+even	B-CW
+better	I-CW
+than	I-CW
+the	I-CW
+real	I-CW
+thing	I-CW
+.	O
+
+
+in	O
+de	O
+jaren	O
+twintig	O
+verhuisde	O
+hij	O
+naar	O
+hollywood	B-LOC
+en	O
+speelde	O
+daar	O
+onder	O
+meer	O
+in	O
+the	B-CW
+man	I-CW
+who	I-CW
+laughs	I-CW
+.	O
+
+
+de	O
+achteras	O
+kwam	O
+uit	O
+een	O
+rijlaars	B-PROD
+.	O
+
+
+de	O
+achteras	O
+kwam	O
+uit	O
+een	O
+ford	B-PROD
+escort	I-PROD
+.	O
+
+
+de	O
+achteras	O
+kwam	O
+uit	O
+een	O
+handvat	B-PROD
+.	O
+
+
+de	O
+achteras	O
+kwam	O
+uit	O
+een	O
+ford	B-PROD
+escort	I-PROD
+.	O
+
+
+de	O
+achteras	O
+kwam	O
+uit	O
+een	O
+ford	B-PROD
+escort	I-PROD
+.	O
+
+
+danaë	O
+bestaat	O
+uit	O
+webcam	B-PROD
+van	O
+vrouwen	O
+.	O
+
+
+danaë	O
+bestaat	O
+uit	O
+webcam	B-PROD
+van	O
+vrouwen	O
+.	O
+
+
+danaë	O
+bestaat	O
+uit	O
+webcam	B-PROD
+van	O
+vrouwen	O
+.	O
+
+
+danaë	O
+bestaat	O
+uit	O
+webcam	B-PROD
+van	O
+vrouwen	O
+.	O
+
+
+danaë	O
+bestaat	O
+uit	O
+webcam	B-PROD
+van	O
+vrouwen	O
+.	O
+
+
+uit	O
+deze	O
+soort	O
+wordt	O
+een	O
+intens	O
+geurige	O
+olie	O
+gewonnen	O
+,	O
+nardus	B-PROD
+geheten	O
+.	O
+
+
+uit	O
+deze	O
+soort	O
+wordt	O
+een	O
+intens	O
+geurige	O
+olie	O
+gewonnen	O
+,	O
+nardus	B-PROD
+geheten	O
+.	O
+
+
+uit	O
+deze	O
+soort	O
+wordt	O
+een	O
+intens	O
+geurige	O
+olie	O
+gewonnen	O
+,	O
+blu-ray	B-PROD
+geheten	O
+.	O
+
+
+uit	O
+deze	O
+soort	O
+wordt	O
+een	O
+intens	O
+geurige	O
+olie	O
+gewonnen	O
+,	O
+nardus	B-PROD
+geheten	O
+.	O
+
+
+uit	O
+deze	O
+soort	O
+wordt	O
+een	O
+intens	O
+geurige	O
+olie	O
+gewonnen	O
+,	O
+nardus	B-PROD
+geheten	O
+.	O
+
+
+#	O
+dazed	B-CW
+and	I-CW
+confused	I-CW
+(	O
+page	O
+,	O
+gebaseerd	O
+op	O
+“	O
+dazed	O
+and	O
+confused	O
+”	O
+van	O
+ab	B-PER
+klink	I-PER
+uit	O
+1967	O
+)	O
+
+
+#	O
+dazed	B-CW
+and	I-CW
+confused	I-CW
+(	O
+page	O
+,	O
+gebaseerd	O
+op	O
+“	O
+dazed	O
+and	O
+confused	O
+”	O
+van	O
+jake	B-PER
+holmes	I-PER
+uit	O
+1967	O
+)	O
+
+
+#	O
+dazed	B-CW
+and	I-CW
+confused	I-CW
+(	O
+page	O
+,	O
+gebaseerd	O
+op	O
+“	O
+dazed	O
+and	O
+confused	O
+”	O
+van	O
+jake	B-PER
+holmes	I-PER
+uit	O
+1967	O
+)	O
+
+
+#	O
+dazed	B-CW
+and	I-CW
+confused	I-CW
+(	O
+page	O
+,	O
+gebaseerd	O
+op	O
+“	O
+dazed	O
+and	O
+confused	O
+”	O
+van	O
+jake	B-PER
+holmes	I-PER
+uit	O
+1967	O
+)	O
+
+
+#	O
+boot	B-CW
+camp	I-CW
+(	O
+page	O
+,	O
+gebaseerd	O
+op	O
+“	O
+dazed	O
+and	O
+confused	O
+”	O
+van	O
+jake	B-PER
+holmes	I-PER
+uit	O
+1967	O
+)	O
+
+
+het	O
+treinverkeer	O
+wordt	O
+verzorgd	O
+door	O
+de	O
+jack	B-GRP
+the	I-GRP
+lad	I-GRP
+,	O
+het	O
+busvervoer	O
+door	O
+jamathi	B-CORP
+.	O
+
+
+het	O
+treinverkeer	O
+wordt	O
+verzorgd	O
+door	O
+de	O
+ns	B-GRP
+,	O
+het	O
+busvervoer	O
+door	O
+hermes	B-CORP
+.	O
+
+
+het	O
+treinverkeer	O
+wordt	O
+verzorgd	O
+door	O
+de	O
+synodes	B-GRP
+,	O
+het	O
+busvervoer	O
+door	O
+hermes	B-CORP
+.	O
+
+
+het	O
+treinverkeer	O
+wordt	O
+verzorgd	O
+door	O
+de	O
+ns	B-GRP
+,	O
+het	O
+busvervoer	O
+door	O
+shueisha	B-CORP
+'s	I-CORP
+.	O
+
+
+het	O
+treinverkeer	O
+wordt	O
+verzorgd	O
+door	O
+de	O
+ns	B-GRP
+,	O
+het	O
+busvervoer	O
+door	O
+netflix	B-CORP
+.	O
+
+

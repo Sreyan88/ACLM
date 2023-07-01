@@ -1,0 +1,19406 @@
+sinan	B-PER
+akçıl	I-PER
+tarafından	O
+yazılmış	O
+,	O
+emrah	B-PER
+karaduman	I-PER
+tarafından	O
+bestelenmiş	O
+ve	O
+düzenlenmiştir	O
+.	O
+
+
+fifa	O
+merkezi	O
+i̇sviçre	B-LOC
+nin	O
+en	O
+büyük	O
+şehri	O
+zürih	B-LOC
+te	O
+yer	O
+alır	O
+.	O
+
+
+gaga	O
+nın	O
+ppl	B-CORP
+tarafından	O
+birleşik	O
+krallık	O
+ta	O
+2011	O
+in	O
+en	O
+çok	O
+çalınan	O
+ikinci	O
+sanatçısı	O
+olduğu	O
+açıklandı	O
+.	O
+
+
+seicento	O
+ilk	O
+kez	O
+satışa	O
+sunulduğunda	O
+michael	B-PER
+schumacher	I-PER
+de	O
+reklamında	O
+oynamıştır	O
+.	O
+
+
+1996	O
+da	O
+şirket	O
+,	O
+nintendo	B-PROD
+64	I-PROD
+ü	O
+piyasaya	O
+sürdü	O
+.	O
+
+
+i̇slam	O
+peygamberi	O
+muhammed	B-PER
+bu	O
+olaydan	O
+az	O
+bir	O
+zaman	O
+sonra	O
+571	O
+yılında	O
+doğmuştur	O
+.	O
+
+
+britanya	O
+ve	O
+i̇rlanda	O
+nın	O
+çoğu	O
+bölgesindeki	O
+patates	O
+kızartması	O
+dükkanlarında	O
+,	O
+servis	O
+sırasında	O
+geleneksel	O
+olarak	O
+fish	O
+and	O
+chips	O
+üzerine	O
+tuz	B-PROD
+ve	O
+sirke	B-PROD
+serpilir	O
+.	O
+
+
+yani	O
+arkadaşı	O
+marcel	B-PER
+pagnol	I-PER
+un	O
+deyimiyle	O
+«	O
+kendi	O
+şöhretini	O
+başkaları	O
+için	O
+»	O
+feda	O
+etti	O
+.	O
+
+
+2010	O
+:	O
+bafta	B-GRP
+ödüllerinde	O
+en	O
+iyi	O
+yönetmen	O
+ödülünü	O
+kazanan	O
+ilk	O
+kadın	O
+kathryn	B-PER
+bigelow	I-PER
+(	O
+ölümcül	B-CW
+tuzak	I-CW
+)	O
+.	O
+
+
+avustralya	O
+millî	O
+futbol	O
+takımı	O
+;	O
+avustralya	B-LOC
+yı	O
+uluslararası	O
+organizasyonlarda	O
+temsil	O
+eden	O
+ve	O
+kaptanlığını	O
+mile	B-PER
+jedinak	I-PER
+ın	O
+üstlendiği	O
+futbol	O
+takımıdır	O
+.	O
+
+
+aleksey	O
+,	O
+2011	B-CW
+eurovision	I-CW
+şarkı	I-CW
+yarışması	I-CW
+nın	O
+ilk	O
+yarıfinalinde	O
+yarışmış	O
+ve	O
+finalde	O
+16	O
+.	O
+olmuştur	O
+.	O
+
+
+almanya	B-LOC
+ise	O
+basf	B-CORP
+şirketi	O
+tarafından	O
+üretiliyor	O
+.	O
+
+
+i̇kinci	O
+alınan	O
+beş	O
+otomat	O
+ise	O
+1994	O
+yılının	O
+ilk	O
+aylarında	O
+aydın	B-LOC
+,	O
+antalya	B-LOC
+ve	O
+bursa	B-LOC
+da	O
+hizmete	O
+alındı	O
+.	O
+
+
+bu	O
+bağlamda	O
+birleşmiş	B-GRP
+milletler	I-GRP
+0	O
+18	O
+yaşlarındaki	O
+insanları	O
+çocuk	O
+kabul	O
+eder	O
+.	O
+
+
+gıda	O
+dışı	O
+ürünler	O
+insani	O
+krizlerde	O
+birincil	O
+öneme	O
+sahip	O
+battaniye	B-PROD
+ve	O
+hijyen	O
+kitleri	O
+gibi	O
+malzemelerden	O
+oluşmaktadır	O
+.	O
+
+
+şarkı	O
+11	O
+şubat	O
+2020	O
+de	O
+fnc	B-CORP
+entertainment	I-CORP
+tarafından	O
+dijital	O
+olarak	O
+yayınlandı	O
+.	O
+
+
+learnalilgivinanlovin	O
+,	O
+şarkıcı	O
+gotye	B-PER
+nin	O
+like	B-CW
+drawing	I-CW
+blood	I-CW
+albümünden	O
+bir	O
+şarkı	O
+.	O
+
+
+korkaktır	O
+ve	O
+aynı	O
+babası	O
+ve	O
+ablası	O
+onun	O
+gibidir	O
+yani	O
+gözlük	B-PROD
+takar	O
+.	O
+
+
+#	O
+bring	B-CW
+your	I-CW
+daughter...	I-CW
+to	I-CW
+the	I-CW
+slaughter	I-CW
+(	O
+konser	O
+kaydı	O
+)	O
+(	O
+dickinson	B-PER
+)	O
+–	O
+5	O
+:	O
+17	O
+
+
+bu	O
+inanış	O
+,	O
+homeros	B-PER
+görüşlerine	O
+karşılık	O
+tam	O
+bir	O
+zıtlık	O
+oluşturur	O
+.	O
+
+
+ama	O
+1995	O
+tarihli	O
+batman	B-CW
+daima	I-CW
+(	O
+batman	O
+forever	O
+)	O
+filminin	O
+kadrosunda	O
+bu	O
+rol	O
+ile	O
+tommy	B-PER
+lee	I-PER
+jones	I-PER
+yer	O
+aldı	O
+.	O
+
+
+bu	O
+sırada	O
+edindiği	O
+tarih	O
+öğreticiliği	O
+şöhreti	O
+sayesinde	O
+askeri	O
+akademiye	O
+tarih	O
+profesörü	O
+oldu	O
+.	O
+1793	O
+te	O
+i̇sviçre	B-LOC
+yi	O
+ziyaret	O
+etti	O
+.	O
+1796	O
+da	O
+fransa	O
+yı	O
+ziyaret	O
+etti	O
+.	O
+
+
+bu	O
+paketle	O
+microsoft	B-CORP
+temel	O
+çokluortam	O
+araçlarını	O
+ilk	O
+kez	O
+windows	B-CW
+dahil	O
+etmiş	O
+oldu	O
+.	O
+
+
+aalborg	B-GRP
+bk	I-GRP
+,	O
+brøndby	B-GRP
+if	I-GRP
+,	O
+fenerbahçe	B-GRP
+ve	O
+chelsea	B-GRP
+fc	I-GRP
+formalarını	O
+giymiştir	O
+.	O
+
+
+daha	O
+sonraları	O
+,	O
+cam	B-PROD
+ve	O
+metal	B-PROD
+şırıngalar	O
+yapıldı	O
+.	O
+
+
+lance	O
+in	O
+kardeşinin	O
+öldürülme	O
+senaryosu	O
+da	O
+yine	O
+k	O
+anun	B-CW
+namına	I-CW
+dizisinden	O
+alınmıştır	O
+.	O
+
+
+warp	O
+motoru	O
+ve	O
+solucandeliği	O
+denklemleri	O
+çoğu	O
+alanda	O
+sorun	O
+çıkarmaz	O
+,	O
+ancak	O
+egzotik	B-PROD
+madde	I-PROD
+alanı	O
+gereklidir	O
+.	O
+
+
+remedy	O
+,	O
+2002	O
+yılında	O
+max	O
+payne	O
+in	O
+tüm	O
+haklarını	O
+take-two	B-CORP
+interactive	I-CORP
+firmasına	O
+10	O
+milyon	O
+dolar	O
+ve	O
+969.932	O
+hisse	O
+senedi	O
+karşılığında	O
+sattı	O
+.	O
+
+
+ntu	O
+kanalı	O
+2015	B-CW
+eurovision	I-CW
+şarkı	I-CW
+yarışması	I-CW
+na	O
+ukrayna	O
+da	O
+yaşanan	O
+siyasi	O
+kriz	O
+ve	O
+ekonomik	O
+kriz	O
+nedeniyle	O
+katılmayacaklarını	O
+açıklamıştır	O
+.	O
+
+
+önemli	O
+konserlerden	O
+sonra	O
+konser	O
+salonu	O
+ya	O
+da	O
+kaldığı	O
+otel	B-CORP
+yakınlarında	O
+özel	O
+davetlilere	O
+yemek	B-PROD
+verirdi	O
+.	O
+
+
+son	O
+yıllarda	O
+,	O
+i̇srail	B-LOC
+hükûmetinin	O
+gazze	B-LOC
+ye	O
+yönelik	O
+politikasını	O
+özellikle	O
+de	O
+deniz	O
+ablukasını	O
+eleştirdi	O
+.	O
+
+
+kocasının	O
+taç	O
+giyme	O
+töreninden	O
+sadece	O
+bir	O
+gün	O
+sonra	O
+suikaste	O
+uğramasının	O
+ardından	O
+,	O
+oğlu	O
+xiii.	B-PER
+louis	I-PER
+taht	O
+için	O
+uygun	O
+yaşa	O
+gelene	O
+kadar	O
+kral	O
+naibliğini	O
+yapmıştır	O
+.	O
+
+
+yasa	O
+,	O
+sovyetler	B-LOC
+birliği	I-LOC
+nin	O
+bir	O
+parçası	O
+haline	O
+gelen	O
+litvanya	B-LOC
+sovyet	I-LOC
+sosyalist	I-LOC
+cumhuriyeti	I-LOC
+nin	O
+yerine	O
+bağımsız	O
+litvanya	O
+nın	O
+kurulduğunu	O
+açıkladı	O
+.	O
+
+
+hayatta	O
+kalma	O
+modu	O
+,	O
+çok	O
+oyunculu	O
+modda	O
+oyuncuya	B-CW
+karşı	I-CW
+oyuncu	I-CW
+mücadelesine	O
+izin	O
+verir	O
+.	O
+
+
+bitki	O
+diplerine	O
+ya	O
+da	O
+çalılara	O
+yaptıkları	O
+yuvalarına	O
+2	O
+ila	O
+3	O
+yumurta	B-PROD
+bırakırlar	O
+.	O
+
+
+beşpeşe	O
+,	O
+beş	O
+yazarın	O
+kendi	O
+sıraları	O
+geldiğinde	O
+,	O
+daha	O
+önce	O
+yazılmış	O
+olanları	O
+okuyarak	O
+devamını	O
+getirmek	O
+suretiyle	O
+oluşturdukları	O
+bir	O
+roman	B-CW
+.	O
+
+
+shakespeare	O
+in	O
+soneleri	O
+,	O
+william	B-PER
+shakespeare'in	I-PER
+çeşitli	O
+temalar	O
+üzerine	O
+yazdığı	O
+şiirlerdir	O
+.	O
+
+
+i̇lkokulu	O
+ve	O
+ortaokulu	O
+kayseri	O
+de	O
+,	O
+liseyi	O
+i̇stanbul	B-LOC
+da	O
+bitirdi	O
+.	O
+
+
+hashino	O
+demir	O
+madenciliği	O
+ve	O
+eritme	O
+bölgesi	O
+;	O
+kamaishi	B-LOC
+,	O
+iwate	B-LOC
+:	O
+
+
+gaga	O
+,	O
+bir	O
+süre	O
+sonra	O
+erkek	O
+dansçıların	O
+yardımıyla	O
+limuzin	B-PROD
+indirilip	O
+tekerlerkli	O
+sandalyeye	O
+oturtulur	O
+.	O
+
+
+airbus	B-CORP
+firmasının	O
+son	O
+montaj	O
+hatlarının	O
+büyük	O
+bir	O
+kısmı	O
+bu	O
+şehirdedir	O
+.	O
+
+
+fransa	B-LOC
+da	O
+ise	O
+diğer	O
+soylular	O
+da	O
+şövalye	O
+istihdam	O
+edebiliyordu	O
+.	O
+
+
+discovery	B-CORP
+channel	I-CORP
+da	O
+bir	O
+kadın	O
+,	O
+üç	O
+defa	O
+morgda	O
+uyandığını	O
+anlatmıştır	O
+.	O
+
+
+yarışmanın	O
+kazananı	O
+ı	O
+temsil	O
+eden	O
+ein	B-CW
+bißchen	I-CW
+frieden	I-CW
+adlı	O
+şarkısıyla	O
+nicole	B-PER
+olmuştur	O
+.	O
+
+
+wall	B-GRP
+street	I-GRP
+journal	I-GRP
+,	O
+putin	O
+in	O
+taktiği	O
+nbc	B-CORP
+news	I-CORP
+gazetecisi	O
+megyn	B-PER
+kelly	I-PER
+ile	O
+2017	O
+röportajında	O
+kullandığını	O
+belirtti	O
+.	O
+
+
+finnair	B-CORP
+havayolu	O
+şirketi	O
+için	O
+iç	O
+ve	O
+uluslararası	O
+merkezdir	O
+.	O
+
+
+fabliau	O
+(	O
+çoğulu	O
+:	O
+fabliaux	O
+)	O
+fransa	B-LOC
+nın	O
+kuzeydoğusunda	O
+1150	O
+ile	O
+1400	O
+yılları	O
+arasında	O
+halk	O
+şairleri	O
+tarafından	O
+yazılan	O
+,	O
+komik	O
+ve	O
+çoğu	O
+zaman	O
+anonim	O
+hikâye	B-CW
+.	O
+
+
+2010	O
+yılında	O
+deniz	B-PER
+baykal	I-PER
+ın	O
+genel	O
+başkanlık	O
+görevinden	O
+istifa	O
+etmesinin	O
+ardından	O
+yapılan	O
+33	O
+.	O
+
+
+rolling	B-CW
+stone	I-CW
+,	O
+del	O
+rey	O
+in	O
+versiyonuna	O
+kederli	O
+adını	O
+verdi	O
+.	O
+
+
+yani	O
+,	O
+orijinal	O
+htc	B-PROD
+touch	I-PROD
+ın	O
+güncellenmesi	O
+gibidir	O
+.	O
+
+
+motor	O
+olarak	O
+911	B-PROD
+modelinden	O
+alışılagelen	O
+2000	O
+cm3	O
+hacminde	O
+6	O
+silindirli	O
+gücünde	O
+veya	O
+2200	O
+cm3	O
+hacminde	O
+8	O
+silindirli	O
+gücünde	O
+üniteler	O
+kullanıldı	O
+.	O
+
+
+mayıs	O
+2006	O
+da	O
+cnn	B-CORP
+türk	I-CORP
+e	O
+geçip	O
+kanalın	O
+spor	O
+servisinde	O
+çalıştı	O
+ve	O
+hafta	O
+sonu	O
+spor	O
+haberlerini	O
+sundu	O
+.	O
+
+
+ağustos	O
+(	O
+menenh	O
+nok	O
+’	O
+et	O
+’on	O
+’	O
+dedaaghee	O
+)	O
+ayında	O
+ördek	B-PROD
+ve	O
+diğer	O
+göçmen	O
+sukuşlarının	O
+güneye	O
+göç	O
+hareketi	O
+başlar	O
+.	O
+
+
+bademli	O
+,	O
+isparta	B-LOC
+ilinin	O
+eğirdir	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köy	B-LOC
+.	O
+
+
+1944	O
+yılında	O
+i̇stanbul	B-GRP
+teknik	I-GRP
+üniversitesi	I-GRP
+mimarlık	O
+bölümü	O
+’	O
+nden	O
+mimar	O
+olarak	O
+mezun	O
+oldu	O
+.	O
+
+
+klip	O
+ise	O
+ilk	O
+kez	O
+,	O
+kanal	B-CORP
+d	I-CORP
+ana	O
+haber	O
+bülteninde	O
+gösterildi	O
+.	O
+
+
+ayrıca	O
+bu	O
+yeni	O
+gelecekteki	O
+ortam	O
+philip	B-PER
+k.	I-PER
+dick	I-PER
+e	O
+ait	O
+android'ler	B-CW
+elektrikli	I-CW
+koyun	I-CW
+düşler	I-CW
+mi?	I-CW
+kitabında	O
+geçen	O
+havaya	O
+uymaktadır	O
+.	O
+
+
+kürkçü	O
+,	O
+çorum	B-LOC
+ilinin	O
+alaca	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köy	B-LOC
+.	O
+
+
+danimarka	B-LOC
+ekonomisi	O
+,	O
+rahat	O
+yaşam	O
+ölçünlerine	O
+,	O
+yüksek	O
+düzeyde	O
+devlet	O
+hizmetleri	O
+ve	O
+aktarımları	O
+ve	O
+dış	O
+ticarete	O
+yüksek	O
+bağımlılığa	O
+sahip	O
+çağdaş	O
+bir	O
+piyasa	O
+ekonomisidir	O
+.	O
+
+
+kızı	O
+samira	B-PER
+mahmelbaf	I-PER
+da	O
+kendisi	O
+gibi	O
+bir	O
+sinema	O
+yönetmeni	O
+ve	O
+senaristtir	O
+.	O
+
+
+1917	O
+amerika	B-LOC
+birleşik	I-LOC
+devletleri	I-LOC
+nin	O
+savaşa	O
+iştiraki	O
+ve	O
+almanya	B-LOC
+ya	O
+savaş	O
+ilanı	O
+(	O
+25	O
+mart	O
+)	O
+
+
+vice	B-CORP
+ise	O
+şarkıcıdan	O
+ciddi	O
+pop	O
+yıldızı	O
+/	O
+kadın	O
+/	O
+seks	O
+sembolü	O
+şeklinde	O
+bahsetti	O
+.	O
+
+
+benim	O
+adım	O
+kerim	O
+;	O
+yılmaz	B-PER
+güney	I-PER
+in	O
+1967	O
+yılında	O
+yönettiği	O
+macera	O
+türünde	O
+filmdir	O
+.	O
+
+
+film	O
+,	O
+empire	B-CW
+dergisi	O
+tarafından	O
+2008	O
+yılında	O
+hazırlanan	O
+gelmiş	O
+geçmiş	O
+en	O
+iyi	O
+500	O
+film	O
+listesine	O
+de	O
+girmiştir	O
+.	O
+
+
+esence	O
+,	O
+erzincan	B-LOC
+ilinin	O
+kemaliye	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köy	B-LOC
+.	O
+
+
+olcay	B-PER
+şahan	I-PER
+1.	B-GRP
+fc	I-GRP
+kaiserslautern	I-GRP
+2011	O
+12	O
+
+
+1955	O
+yılında	O
+ted	B-GRP
+ankara	I-GRP
+kolejliler	I-GRP
+takımında	O
+basketbola	O
+başladı	O
+.	O
+
+
+örneğin	O
+,	O
+ses	O
+cd	B-PROD
+lerinin	O
+örnekleme	O
+hızı	O
+44100	O
+mwua	O
+örnek	O
+sayısı	O
+/	O
+sn	O
+.	O
+
+
+martin	B-PER
+gore	I-PER
+backing	O
+vocals	O
+,	O
+keyboard	O
+,	O
+sampler	O
+
+
+kahve	O
+üreticilerinin	O
+ilk	O
+olarak	O
+kahve	O
+çekirdeklerindeki	O
+şeker	B-PROD
+ayrıştırabilecekleri	O
+bir	O
+yıkama	O
+santrali	O
+kurmaları	O
+gerekiyordu	O
+.	O
+
+
+mısır	O
+ordusu	O
+asi	B-LOC
+nehri	I-LOC
+vadisine	O
+girdi	O
+ve	O
+hızlı	O
+yürüyüşle	O
+14	O
+mayıs	O
+ta	O
+antakya	B-LOC
+kalesi	O
+önüne	O
+geldi	O
+.	O
+
+
+minucciano	O
+,	O
+i̇talya	B-LOC
+nın	O
+toskana	B-GRP
+bölgesine	O
+bağlı	O
+lucca	B-LOC
+ili	I-LOC
+bulunan	O
+bir	O
+komündür	O
+.	O
+
+
+playofflarda	O
+ilk	O
+turda	O
+san	B-GRP
+antonio	I-GRP
+spurs	I-GRP
+ü	O
+4	O
+1	O
+mağlup	O
+etti	O
+.	O
+
+
+woodbury	O
+sakinlerinin	O
+hapishanedeki	O
+gruba	O
+katıldığı	O
+bir	B-CW
+önceki	I-CW
+bölümdeki	I-CW
+olayların	I-CW
+üzerinden	O
+birkaç	O
+ay	O
+geçmiştir	O
+.	O
+
+
+1185	O
+:	O
+ii.	B-PER
+i̇saakios	I-PER
+un	O
+isyanı	O
+ve	O
+başarılı	O
+gaspı	O
+.	O
+
+
+birimler	O
+,	O
+son	O
+dönemlerinde	O
+fazlaca	O
+eskimeye	O
+başlaması	O
+ve	O
+kapılarının	O
+kapanmaması	O
+gibi	O
+sorunları	O
+nedeniyle	O
+marmaray	B-LOC
+hattının	O
+açılmasıyla	O
+birlikte	O
+hizmet	O
+dışına	O
+çıkarıldılar	O
+.	O
+
+
+darbe	O
+sonrası	O
+kapatılan	O
+demokrat	B-GRP
+parti	I-GRP
+siyasetçiler	O
+,	O
+siyasi	O
+çizgilerinin	O
+devamını	O
+belirtmek	O
+için	O
+dava	O
+adamı	O
+ifadesini	O
+kullanmıştır	O
+.	O
+
+
+vcr	B-PROD
+lar	O
+ticari	O
+kullanılabilir	O
+hale	O
+geldi	O
+.	O
+
+
+tek	O
+kişilik	O
+,	O
+çift	O
+motorlu	O
+ve	O
+çok	O
+amaçlı	O
+(	O
+multi	O
+role	O
+)	O
+olması	O
+planlanan	O
+uçağın	O
+ana	O
+yüklenicisi	O
+hindustan	B-CORP
+aeronautics	I-CORP
+limited	I-CORP
+dir	O
+.	O
+
+
+bulunan	O
+mozaik	B-PROD
+çoğu	O
+büyük	B-LOC
+saray	I-LOC
+mozaikleri	I-LOC
+müzesi	I-LOC
+nde	O
+sergilenmektedir	O
+.	O
+
+
+bir	O
+sit	O
+com	O
+sırasında	O
+michael	B-PER
+richards	I-PER
+ile	O
+aralarında	O
+kavga	O
+çıktı	O
+.	O
+
+
+los	B-LOC
+angeles	I-LOC
+,	O
+kaliforniya	B-LOC
+da	O
+doğup	O
+büyüyen	O
+sanatçı	O
+,	O
+2007	O
+yılında	O
+jive	B-CORP
+records	I-CORP
+plak	O
+şirketi	O
+ile	O
+sözleşme	O
+yaptı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2003	O
+yılında	O
+quevilly	B-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+ermenistan	O
+,	O
+bakü	B-LOC
+de	O
+gerçekleştirilen	O
+2012	B-CW
+eurovision	I-CW
+şarkı	I-CW
+yarışması	I-CW
+na	O
+katılmamıştır	O
+.	O
+
+
+etkinlikte	O
+yer	O
+alan	O
+maçlar	O
+,	O
+raw	B-CW
+ve	O
+smackdown	B-CW
+brand	O
+lerinde	O
+sonucu	O
+önceden	O
+wwe	B-CORP
+tarafından	O
+belirlenen	O
+maçlar	O
+ve	O
+senaryolarla	O
+oluşturulmaktadır	O
+.	O
+
+
+alıcı	O
+cihazda	O
+uygulaması	O
+yoksa	O
+,	O
+google	B-CW
+play	I-CW
+store	O
+da	O
+uygulama	O
+sayfası	O
+açılacaktır	O
+.	O
+
+
+günümüzde	O
+galatasaray	B-GRP
+kadın	O
+basketbol	O
+takımı	O
+forması	O
+giymektedir	O
+.	O
+
+
+kariyer	O
+yönlendirmesi	O
+için	O
+kendisini	O
+8	O
+yaşında	O
+keşfeden	O
+ve	O
+öven	O
+gloria	B-PER
+estefan	I-PER
+ı	O
+gösterdi	O
+.	O
+
+
+bu	O
+cumhuriyet	O
+,	O
+1922	O
+yılında	O
+sovyetler	B-LOC
+birliği	I-LOC
+ne	O
+katıldı	O
+.	O
+
+
+en	O
+önemli	O
+özelliği	O
+horoz	B-PROD
+çok	O
+uzun	O
+kuyruklara	O
+sahip	O
+olmasıdır	O
+.	O
+
+
+microsoft	B-PROD
+lumia	I-PROD
+540	I-PROD
+modelin	O
+yerine	O
+geldi	O
+ve	O
+139	O
+dolara	O
+satışa	O
+sunuldu	O
+.	O
+
+
+bliss	O
+,	O
+ilk	O
+kez	O
+wwe	B-CW
+2k17	I-CW
+oyununda	O
+görünmüştür	O
+.	O
+
+
+microsoft	B-CORP
+şirketinin	O
+microsoft	B-CORP
+mobile	I-CORP
+bölümü	O
+tarafından	O
+nokia	B-CORP
+olarak	O
+markalandı	O
+.	O
+
+
+2006	O
+new	B-GRP
+jersey	I-GRP
+devils	I-GRP
+(	O
+46	O
+–	O
+27	O
+–	O
+9	O
+,	O
+101	O
+puan	O
+)	O
+
+
+yumurta	B-PROD
+oval	O
+şeklinde	O
+0.3	O
+mm	O
+boyda	O
+ve	O
+beyaz	O
+renktedir	O
+.	O
+
+
+gülnihâl	O
+,	O
+namık	B-PER
+kemal	I-PER
+tarafından	O
+1875	O
+te	O
+yazılmış	O
+olan	O
+tiyatro	O
+oyunu	O
+,	O
+kitap	O
+.	O
+144	O
+sayfadan	O
+oluşur	O
+.	O
+
+
+fethi	B-PER
+gürcan	I-PER
+kendisine	O
+bağlı	O
+birliklerle	O
+radyonun	O
+etimesgut	B-LOC
+’	O
+taki	O
+verici	O
+istasyonunu	O
+ele	O
+geçirince	O
+yayın	O
+durdu	O
+.	O
+
+
+from	O
+:	O
+1880	O
+till	O
+:	O
+1954	O
+text	O
+:	O
+charles	B-PER
+ives	I-PER
+$	O
+bold	O
+#	O
+from	O
+1874	O
+
+
+aşağıözdek	O
+,	O
+ağrı	B-LOC
+ilinin	O
+tutak	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köydür	B-LOC
+.	O
+
+
+cassandra	B-PER
+clare	I-PER
+cehennem	O
+makineleri	O
+nin	O
+,	O
+ölümcül	B-CW
+oyuncaklar	I-CW
+serisini	O
+film	O
+çekme	O
+projesine	O
+başlayan	O
+kişiler	O
+tarafından	O
+filme	O
+uyarlanacağını	O
+söylemiştir	O
+.	O
+
+
+aynı	O
+zamanda	O
+çin	O
+ve	O
+orta	O
+asya	O
+da	O
+tüketilen	O
+lagman	B-PROD
+aşına	O
+benzerlik	O
+gösterir	O
+.	O
+
+
+dizinin	O
+ilk	O
+11	O
+sezonu	O
+fox	B-CORP
+ta	O
+yayınlandı	O
+.	O
+
+
+günümüzde	O
+ise	O
+manga	B-CW
+,	O
+pachinko	B-CW
+dergisi	O
+,	O
+gravür	O
+dergisi	O
+,	O
+kısa	O
+öyküler	O
+ve	O
+yetişkin	O
+edebiyatı	O
+roman	B-CW
+yayını	O
+yapmaktadır	O
+.	O
+
+
+avrupa	O
+da	O
+geçirdiği	O
+bir	O
+yılın	O
+ardından	O
+abd	O
+ye	O
+dönerek	O
+harvard	B-GRP
+üniversitesi	I-GRP
+nin	O
+doktora	O
+programına	O
+kabul	O
+edildi	O
+.	O
+2002	O
+yılında	O
+astrofizik	O
+üzerine	O
+doktorasını	O
+tamamladı	O
+.	O
+
+
+v	B-PER
+güney	B-LOC
+kore	I-LOC
+lı	O
+bts	B-GRP
+grubunun	O
+bir	O
+üyesi	O
+
+
+frohburg	O
+,	O
+almanya	B-LOC
+da	O
+saksonya	B-LOC
+eyaletinde	O
+yer	O
+alan	O
+bir	O
+kasabadır	O
+.	O
+
+
+çinko	O
+nitrat	O
+formülü	O
+zn	O
+(	O
+no3	O
+)	O
+2	O
+olan	O
+bir	O
+çinko	B-PROD
+bileşiğidir	O
+.	O
+
+
+#	O
+nothing	B-CW
+else	I-CW
+matters	I-CW
+(	O
+hetfield	O
+,	O
+ulrich	O
+)	O
+–	O
+6	O
+:	O
+47	O
+
+
+volvo	B-CORP
+trucks	I-CORP
+,	O
+küresel	O
+bir	O
+kamyon	O
+üreticisi	O
+
+
+oyunda	O
+tek	B-CW
+oyunculu	I-CW
+ve	O
+çok	B-CW
+oyunculu	I-CW
+modları	O
+yer	O
+almakta	O
+olup	O
+oyuna	O
+girebilmek	O
+için	O
+internet	O
+bağlantısı	O
+şarttır	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+1973	O
+yılında	O
+lecce	B-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+i̇lçenin	O
+nüfusu	O
+2010	O
+sayımına	O
+göre	O
+21.378	O
+dir	O
+.	O
+i̇lçenin	O
+merkezi	O
+worthington	B-LOC
+şehridir	O
+.	O
+
+
+web	O
+sitesi	O
+,	O
+eklentiler	O
+için	O
+harici	O
+kurulum	O
+gerektirmeden	O
+web	O
+tarayıcı	O
+içinde	O
+3b	O
+görüntüler	O
+görüntülemek	O
+için	O
+webgl	B-CW
+teknolojisi	O
+kullanır	O
+.	O
+
+
+ramazan	O
+el	O
+suwayhili	O
+(	O
+1918	O
+yılında	O
+kısa	O
+süren	O
+trablusgarp	B-LOC
+cumhuriyeti'nin	I-LOC
+kurucu	O
+ortağı	O
+)	O
+
+
+2019	O
+yılında	O
+riccardo	O
+donna	O
+nın	O
+yönettiği	O
+io	B-CW
+sono	I-CW
+mia	I-CW
+biyografik	O
+filmi	O
+yayınlandı	O
+.	O
+
+
+gerilim	B-CW
+romanları	O
+arasında	O
+en	O
+çok	O
+bilinen	O
+hannibal	B-PER
+lecter	I-PER
+karakterinin	O
+yaratıcısıdır	O
+.	O
+
+
+karşıt	O
+madde	O
+tarihi	O
+paul	B-PER
+dirac	I-PER
+adlı	O
+genç	O
+bir	O
+fizikçinin	O
+matematiksel	O
+denkleminin	O
+garip	O
+çıkarımıyla	O
+başlar	O
+.	O
+
+
+daha	O
+sonra	O
+sırasıyla	O
+vegalta	B-GRP
+sendai	I-GRP
+,	O
+mito	B-GRP
+hollyhock	I-GRP
+,	O
+matsumoto	B-GRP
+yamaga	I-GRP
+fc	I-GRP
+kulüplerinde	O
+oynadı	O
+.	O
+
+
+1823	O
+te	O
+bu	O
+valilik	O
+görevinden	O
+de	O
+azledildi	O
+;	O
+vezirliği	O
+geri	O
+alındı	O
+ve	O
+i̇stanköy	B-LOC
+de	O
+ikamete	O
+memur	O
+edildi	O
+.	O
+
+
+maniago	O
+,	O
+i̇talya	B-LOC
+nın	O
+pordenone	B-LOC
+ilinde	O
+bulunan	O
+bir	O
+komündür	O
+.	O
+
+
+sicilya	O
+asıllı	O
+vincenzo	B-PER
+bellini	I-PER
+ve	O
+ünlü	O
+giuseppe	B-PER
+verdi	I-PER
+nin	O
+ilk	O
+eserleri	O
+bu	O
+opera	O
+evinde	O
+ilk	O
+defa	O
+sahnelenmişlerdir	O
+.	O
+
+
+new	O
+super	O
+mario	O
+bros	O
+.	O
+(	O
+nyū	O
+sūpā	O
+mario	O
+burazāzu	O
+)	O
+,	O
+2006	O
+yılında	O
+nintendo	B-CORP
+tarafından	O
+geliştirilen	O
+platform	B-CW
+video	B-CW
+oyunu	I-CW
+.	O
+
+
+amerikan	O
+oyuncak	O
+ve	O
+multimedya	O
+şirketi	O
+hasbro	B-CORP
+nun	O
+yüzde	O
+yüz	O
+iştirakidir	O
+.	O
+
+
+orlando	B-GRP
+magic	I-GRP
+chicago	B-GRP
+bulls	I-GRP
+:	O
+
+
+daha	O
+liseyi	O
+öğretmen	O
+okulunda	O
+yatılı	O
+okuyup	O
+;	O
+gazi	B-GRP
+beden	I-GRP
+eğitimi	I-GRP
+bölümü	I-GRP
+nden	O
+mezun	O
+oldu	O
+.	O
+
+
+tohum	B-PROD
+üç	O
+köşeli	O
+parlak	O
+ve	O
+siyahtır	O
+.	O
+
+
+yarışma	O
+,	O
+işitme	O
+engelliler	O
+yararına	O
+yapılmıştır	O
+.	O
+2011	O
+yılında	O
+yapılan	O
+survivor	B-CW
+ünlüler	I-CW
+-	I-CW
+gönüllüler	I-CW
+yarışmasında	O
+birinci	O
+olmuştur	O
+.	O
+
+
+i̇kinci	O
+tur	O
+seçimlerde	O
+komünist	B-GRP
+parti	I-GRP
+adayı	O
+bazı	O
+sağcı	O
+güçlerin	O
+de	O
+desteğini	O
+almış	O
+fakat	O
+%	O
+40	O
+oy	O
+alabilmiştir	O
+.	O
+
+
+ardından	O
+sevgili	B-CW
+geçmiş	I-CW
+dizisinde	O
+de	O
+başrolü	O
+üstlendi	O
+.	O
+
+
+a	B-CORP
+haber	I-CORP
+de	O
+daha	O
+önce	O
+yayınlanmış	O
+veya	O
+günümüzde	O
+yayınlanacak	O
+olan	O
+televizyon	O
+programlarının	O
+bir	O
+listesidir	O
+.	O
+
+
+futbolu	O
+bırakmasının	O
+ardından	O
+sky	B-CORP
+sports	I-CORP
+ta	O
+maç	O
+yorumculuğu	O
+yapmaya	O
+başladı	O
+.	O
+
+
+dolby	B-CORP
+laboratories	I-CORP
+–	O
+şirket	O
+tarihçesi	O
+ve	O
+teknoloji	O
+gelişimi	O
+
+
+ardından	O
+marmara	B-GRP
+üniversitesi	I-GRP
+nde	O
+ekonomi	O
+üzerine	O
+yüksek	O
+lisans	O
+ve	O
+doktora	O
+yaptı	O
+.	O
+
+
+yura	O
+ayrıca	O
+to	B-CW
+the	I-CW
+beautiful	I-CW
+you	I-CW
+dizinde	O
+de	O
+yer	O
+almıştır	O
+.	O
+
+
+2011	O
+yılı	O
+başlarında	O
+kars	O
+ı	O
+ziyaret	O
+eden	O
+dönemin	O
+başbakanı	O
+recep	B-PER
+tayyip	I-PER
+erdoğan	I-PER
+bu	O
+heykeli	O
+ucube	O
+diye	O
+nitelendirdi	O
+ve	O
+şunları	O
+söyledi	O
+.	O
+
+
+şehirde	O
+tramvay	B-PROD
+hattı	O
+inşa	O
+edilmesi	O
+planlanmaktadır	O
+.	O
+
+
+roy	B-PER
+carroll	I-PER
+odense	B-GRP
+2009	O
+10	O
+(	O
+28	O
+/	O
+0	O
+)	O
+
+
+las	B-CW
+vegas	I-CW
+,	O
+2003	O
+2008	O
+yılları	O
+arasında	O
+yayınlanmış	O
+dizi	O
+
+
+şiirlerle	O
+şarkılarla	O
+,	O
+bülent	B-PER
+ersoy	I-PER
+un	O
+1993	O
+yılında	O
+yayınladığı	O
+albümü	O
+.	O
+
+
+karakeçili	O
+,	O
+çorum	B-LOC
+ilinin	O
+boğazkale	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köy	B-LOC
+.	O
+
+
+normal	O
+süresi	O
+1	O
+1	O
+biten	O
+maçta	O
+bayern	B-GRP
+in	O
+golünü	O
+penaltıdan	O
+attı	O
+.	O
+
+
+bazı	O
+akıllı	O
+gözlük	O
+modelleri	O
+aynı	O
+zamanda	O
+lifelog	O
+ve	O
+aktivite	B-PROD
+takipçisi	I-PROD
+özelliğine	O
+sahiptir	O
+.	O
+
+
+daha	O
+sonra	O
+kuzey	B-LOC
+kore'de	I-LOC
+kore	I-LOC
+i̇şçi	B-GRP
+partisi'ne	I-GRP
+bağlı	O
+bir	O
+politikacı	O
+haline	O
+geldi	O
+.	O
+
+
+aklı	B-CW
+havada	I-CW
+(	O
+up	O
+in	O
+the	O
+air	O
+)	O
+
+
+yapımını	O
+bbc	O
+nin	O
+yaptığı	O
+13	O
+bölümden	O
+oluşan	O
+diziyi	O
+jacob	B-PER
+bronowski	I-PER
+yazmış	O
+ve	O
+sunmuştur	O
+.	O
+
+
+başta	O
+türk	B-CORP
+hava	I-CORP
+yolları	I-CORP
+olmak	O
+üzere	O
+bütün	O
+havayolu	O
+şirketleri	O
+tüm	O
+yurt	O
+dışı	O
+ve	O
+yurt	O
+içi	O
+uçuşlarını	O
+ikinci	O
+bir	O
+duyuruya	O
+kadar	O
+sonlandırdığını	O
+duyurdu	O
+.	O
+
+
+bazı	O
+temeller	O
+ayrıca	O
+daha	O
+karmaşık	O
+kozmetik	B-PROD
+için	O
+nemlendirici	O
+,	O
+güneş	O
+koruyucu	O
+,	O
+sıkılaştırıcı	O
+veya	O
+baz	O
+katman	O
+olarak	O
+da	O
+işlev	O
+görür	O
+.	O
+
+
+film	O
+35	O
+mm	O
+formatında	O
+çekildi	O
+.	O
+çekimler	O
+,	O
+i̇zlanda	B-LOC
+da	O
+bulunan	O
+vatnajokull	O
+daki	O
+buzullarda	O
+başladı	O
+(	O
+bhutan	B-LOC
+çekimleri	O
+)	O
+.	O
+
+
+2012	O
+2013	O
+:	O
+adını	B-CW
+feriha	I-CW
+koydum	I-CW
+(	O
+orijinal	O
+yayın	O
+:	O
+show	B-CORP
+tv	I-CORP
+2011	O
+2012	O
+)	O
+
+
+rotten	B-CORP
+tomatoes'te	I-CORP
+,	O
+film	O
+146	O
+yoruma	O
+göre	O
+%	O
+82	O
+puan	O
+aldı	O
+,	O
+ortalama	O
+puanı	O
+10	O
+üzerinden	O
+7	O
+,	O
+35	O
+tir	O
+.	O
+
+
+bireyler	O
+hazır	B-PROD
+yemek	I-PROD
+de	O
+fayda	O
+görebilirler	O
+ancak	O
+evde	O
+yemek	O
+yapımına	O
+kıyasla	O
+işlenmiş	O
+gıdaların	O
+kullanımında	O
+nadiren	O
+doğrudan	O
+finansal	O
+maliyet	O
+avantajı	O
+görürler	O
+.	O
+
+
+porthcawl	O
+,	O
+galler	B-LOC
+de	O
+bulunan	O
+tarihi	O
+turistik	O
+bir	O
+yerleşim	O
+yeridir	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+1928	O
+yılında	O
+tranmere	B-GRP
+rovers	I-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+eymir	O
+,	O
+yozgat	B-LOC
+ın	O
+sorgun	B-LOC
+ilçesine	O
+bağlı	O
+köy	O
+.	O
+
+
+hannibal	B-PER
+lecter	I-PER
+roman	O
+ve	O
+filmlerde	O
+gözüken	O
+,	O
+insan	O
+eti	O
+yiyen	O
+hayalî	O
+karakter	O
+.	O
+
+
+fakat	O
+everybody's	B-CW
+fool	I-CW
+parçasının	O
+klibinde	O
+dekolteli	O
+kıyafetler	O
+giymiştir	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2007	O
+yılında	O
+aston	B-GRP
+villa	I-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+babadere	O
+,	O
+çanakkale	B-LOC
+ilinin	O
+ayvacık	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köy	B-LOC
+.	O
+
+
+alias	B-CW
+(	O
+2001	O
+2006	O
+)	O
+,	O
+baş	O
+yapımcı	O
+/	O
+yazar	O
+/	O
+besteci	O
+/	O
+yönetmen	O
+(	O
+5	O
+bölüm	O
+)	O
+/	O
+oyuncu	O
+(	O
+1	O
+bölüm	O
+)	O
+
+
+plati	O
+(	O
+)	O
+,	O
+yunanistan	B-LOC
+ın	O
+orta	B-LOC
+makedonya	I-LOC
+bölgesi	I-LOC
+ne	O
+bağlı	O
+aleksandreya	B-LOC
+belediyesi	I-LOC
+bulunan	O
+bir	O
+köy	B-LOC
+ve	O
+belediye	B-LOC
+birimidir	O
+.	O
+
+
+i.	B-PER
+mustafa	I-PER
+nın	O
+tahta	O
+çıkarılmasında	O
+ve	O
+tahttan	O
+indirilmesinde	O
+etkili	O
+oldu	O
+.	O
+
+
+abd	O
+de	O
+cuma	O
+akşamı	O
+fox	B-CORP
+kanalında	O
+yayınlanmaktadır	O
+.	O
+
+
+710	O
+km	O
+(	O
+444	O
+mil	O
+)	O
+:	O
+derry	B-LOC
+belfast	B-LOC
+…	O
+
+
+yazıları	O
+1960	O
+ların	O
+sonlarından	O
+itibaren	O
+edebiyat	B-CW
+dergilerinde	O
+yer	O
+almaya	O
+başladı	O
+.	O
+
+
+tart	O
+,	O
+börek	B-PROD
+,	O
+kiş	B-PROD
+hamuru	I-PROD
+ve	O
+pasta	B-PROD
+kategorilerinde	O
+yer	O
+alabilir	O
+.	O
+
+
+şarkı	O
+,	O
+where	B-CW
+is	I-CW
+the	I-CW
+love?	I-CW
+adlı	O
+şarkının	O
+elde	O
+ettiği	O
+başarının	O
+hemen	O
+ardından	O
+ikinci	O
+tekli	O
+olarak	O
+satışa	O
+sunuldu	O
+.	O
+
+
+mesleki	O
+kariyerine	O
+ek	O
+olarak	O
+,	O
+el	O
+şerif	O
+suudi	B-LOC
+arabistan	I-LOC
+da	O
+uzun	O
+yıllardır	O
+kadınların	O
+hakları	O
+için	O
+kampanya	O
+yürüttü	O
+.	O
+
+
+1965	O
+yılında	O
+miami	B-GRP
+üniversitesi	I-GRP
+ndeki	O
+teorik	O
+araştırmalar	O
+merkezi	O
+nin	O
+kurulmasında	O
+rol	O
+almıştır	O
+.	O
+
+
+ayrıca	O
+azizler	O
+yorgi	B-PER
+,	O
+dimitrios	B-PER
+,	O
+ve	O
+theodore	O
+un	O
+freskleri	O
+de	O
+bulunmaktadır	O
+.	O
+
+
+milliyet	O
+’	O
+ten	O
+hasan	B-PER
+cemal	I-PER
+’	O
+e	O
+verdiği	O
+röportajda	O
+,	O
+etnik	O
+partilerden	O
+şöyle	O
+bahsemişti	O
+:	O
+“	O
+bugüne	O
+kadar	O
+kurduğumuz	O
+bütün	O
+partilerde	O
+,	O
+inandırıcılık	O
+eksiği	O
+vardı	O
+.	O
+
+
+cumhurbaşkanı	O
+turgut	B-PER
+özal	I-PER
+ın	O
+ölümünün	O
+ardından	O
+yas	O
+yayını	O
+yapmıştır	O
+.	O
+
+
+google	O
+şakaları	O
+,	O
+google	B-CORP
+firmasının	O
+kullanıcılarına	O
+hazırladığı	O
+şakalar	O
+.	O
+
+
+bangladeş	B-LOC
+in	O
+bağımsızlığından	O
+sonra	O
+bangladeş	B-LOC
+hükümeti	I-LOC
+planlama	I-LOC
+komisyonu	I-LOC
+üyeliği	I-LOC
+ve	O
+bangladeş	B-LOC
+millî	I-LOC
+eğitim	I-LOC
+komisyonu	I-LOC
+üyeliği	I-LOC
+görevlerinde	O
+bulundu	O
+.	O
+
+
+hayalperest	O
+,	O
+başrollerini	O
+kurt	B-PER
+russell	I-PER
+ve	O
+dakota	B-PER
+fanning	I-PER
+in	O
+paylaştığı	O
+2005	O
+yapımı	O
+abd	B-LOC
+filmi	O
+.	O
+
+
+i̇simcilik	O
+fazla	O
+yayılamamıştır	O
+.	O
+çünkü	O
+kilise'	B-LOC
+direnmesi	O
+ve	O
+düşmanlığı	O
+hız	O
+karşılaşmıştır	O
+.	O
+
+
+galatasaray	O
+da	O
+teknik	O
+direktör	O
+olduğu	O
+dönemde	O
+frank	B-PER
+rijkaard	I-PER
+ın	O
+tercümanlığını	O
+yapmıştır	O
+.	O
+
+
+mac	B-CW
+os	I-CW
+x	I-CW
+leopard	I-CW
+da	O
+,	O
+kenetlenme	O
+yerleri	O
+yığınlar	B-CW
+ile	O
+değiştirildi	O
+.	O
+
+
+keşkeği	B-PROD
+de	O
+unutmamak	O
+gerekir	O
+özellikle	O
+düğün	O
+yemeğidir	O
+onsuz	O
+yemek	O
+olmaz	O
+.	O
+
+
+i̇lk	O
+kez	O
+1991	O
+yılında	O
+cambridge	B-GRP
+üniversitesi	I-GRP
+bilgisayar	O
+bilimleri	O
+bölümü	O
+nde	O
+geliştirilmiştir	O
+.	O
+
+
+rolls	O
+,	O
+henry	B-PER
+royce	I-PER
+ile	O
+birlikte	O
+rolls-royce	B-CORP
+otomobil	O
+şirketinin	O
+kurucularından	O
+biridir	O
+.	O
+
+
+firma	O
+1982	O
+yılında	O
+general	B-CORP
+dynamics	I-CORP
+tarafından	O
+satın	O
+alındığında	O
+firma	O
+küçük	O
+uçak	O
+üretimini	O
+durdurdu	O
+.	O
+
+
+tornavida	B-PROD
+veya	O
+başka	O
+bir	O
+kuvvetin	O
+,	O
+vidayı	O
+bir	O
+tur	O
+döndürmesi	O
+ile	O
+vidanın	O
+içine	O
+gömülme	O
+miktarına	O
+bir	O
+vida	O
+adımı	O
+denir	O
+ve	O
+a	O
+harfi	O
+ile	O
+gösterilir	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2002	O
+yılında	O
+yokohama	B-GRP
+fc	I-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+#	O
+le	B-PER
+corbusier'in	I-PER
+mimari	I-PER
+çalışmaları,	I-PER
+modern	I-PER
+hareket'a	I-PER
+üstün	I-PER
+bir	I-PER
+katkı	I-PER
+(	O
+6	O
+ülke	O
+ile	O
+paylaşılmaktadır	O
+.	O
+)	O
+
+
+ağustos	O
+2013	O
+te	O
+s.m.	O
+entertainment	O
+a	O
+bağlı	O
+olan	O
+s.m.	O
+c&c	O
+,	O
+woollim	B-CORP
+entertainment	I-CORP
+ile	O
+birleşti	O
+.	O
+
+
+formatlar	O
+:	O
+cd	B-PROD
+,	O
+dvd	B-PROD
+,	O
+dijital	O
+indirme	O
+
+
+profesyonel	O
+kariyerine	O
+1973	O
+yılında	O
+taj	B-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+bunun	O
+yanı	O
+sıra	O
+,	O
+baharat	B-PROD
+ise	O
+tohum	O
+,	O
+üzüm	O
+cinsinden	O
+meyve	O
+tanesi	O
+,	O
+ağaç	O
+kabuğu	O
+,	O
+kök	O
+,	O
+meyve	O
+veya	O
+bitkinin	O
+başka	O
+bir	O
+kısmı	O
+olabilir	O
+.	O
+
+
+fantagio	B-CORP
+entertainment	I-CORP
+in	O
+oluşturduğu	O
+5	O
+üyeli	O
+erkek	O
+grubudur	O
+.	O
+
+
+ligi	O
+nde	O
+mücadele	O
+eden	O
+borussia	B-GRP
+dortmund	I-GRP
+ii	I-GRP
+kadrosuna	O
+dahil	O
+edilse	O
+de	O
+forma	O
+şansı	O
+bulamadı	O
+.	O
+
+
+from	O
+:	O
+11	O
+/	O
+01	O
+/	O
+1999	O
+till	O
+:	O
+18	O
+/	O
+11	O
+/	O
+2002	O
+color	O
+:	O
+ind	O
+text	O
+:	O
+ecevit	B-PER
+fontsize	O
+:	O
+10	O
+
+
+s360	O
+gibi	O
+s500	O
+de	O
+honda	O
+nın	O
+güçlü	O
+motosiklet	B-PROD
+geçmişinden	O
+payını	O
+almıştır	O
+.	O
+
+
+kukla	O
+türk	B-PER
+yazar	O
+ahmet	B-PER
+ümit	I-PER
+tarafından	O
+yazılıp	O
+2002	O
+de	O
+basılan	O
+bir	O
+gerilim	O
+romanıdır	O
+.	O
+
+
+rothen	O
+in	O
+bu	O
+dönemlerde	O
+valenciennes	O
+e	O
+ya	O
+da	O
+strasbourg	B-GRP
+a	O
+gideceği	O
+konuşuldu	O
+.	O
+
+
+küçük	O
+siyah	O
+topaklar	O
+,	O
+özellikle	O
+sesin	O
+netliği	O
+için	O
+sloganını	O
+kullanarak	O
+,	O
+şarkıcılar	O
+için	O
+balgam	O
+söktürücü	O
+bir	O
+pastil	B-PROD
+olarak	O
+pazarlandı	O
+.	O
+
+
+bir	O
+sezon	O
+burada	O
+oynadıktan	O
+sonra	O
+gaziantepspor	B-GRP
+altyapısına	O
+transfer	O
+oldu	O
+.	O
+
+
+lig	O
+takımlarından	O
+i̇stanbul	B-GRP
+güngörenspor	I-GRP
+un	O
+başına	O
+geçti	O
+.	O
+
+
+fakat	O
+annesi	O
+,	O
+sm	O
+’	O
+nin	O
+ünlü	O
+gruplarından	O
+h.o.t’	B-GRP
+hayranı	O
+olduğu	O
+ve	O
+kızını	O
+onlarla	O
+görmek	O
+istediği	O
+için	O
+onu	O
+seçmelere	O
+getirdi	O
+.	O
+
+
+covidien	O
+,	O
+merkezi	O
+i̇rlanda	B-LOC
+olan	O
+küresel	O
+bir	O
+sağlık	O
+ürünleri	O
+şirketi	O
+ve	O
+tıbbi	B-PROD
+cihaz	I-PROD
+ve	O
+malzeme	O
+üreticisiydi	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2013	O
+yılında	O
+espanyol	B-GRP
+b	I-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+daha	O
+sonra	O
+fagiano	B-GRP
+okayama	I-GRP
+kulübüne	O
+transfer	O
+oldu	O
+.	O
+
+
+gurgen	O
+18	O
+yaşında	O
+moskova	B-GRP
+devlet	I-GRP
+üniversitesi	I-GRP
+,	O
+fizik	O
+bölümüne	O
+girdi	O
+.	O
+
+
+bu	O
+durumdaki	O
+bir	O
+sistemin	O
+tamamı	O
+donanım	B-PROD
+ya	O
+da	O
+yazılım	B-CW
+sorunlar	O
+sebebiyle	O
+durmayacaktır	O
+.	O
+
+
+sinan	B-PER
+akçıl	I-PER
+tarafından	O
+yazılmış	O
+,	O
+emrah	B-PER
+karaduman	I-PER
+tarafından	O
+bestelenmiş	O
+ve	O
+düzenlenmiştir	O
+.	O
+
+
+olcay	B-PER
+şahan	I-PER
+tarafından	O
+yazılmış	O
+,	O
+emrah	B-PER
+karaduman	I-PER
+tarafından	O
+bestelenmiş	O
+ve	O
+düzenlenmiştir	O
+.	O
+
+
+sinan	B-PER
+akçıl	I-PER
+tarafından	O
+yazılmış	O
+,	O
+emrah	B-PER
+karaduman	I-PER
+tarafından	O
+bestelenmiş	O
+ve	O
+düzenlenmiştir	O
+.	O
+
+
+fethi	B-PER
+gürcan	I-PER
+tarafından	O
+yazılmış	O
+,	O
+emrah	B-PER
+karaduman	I-PER
+tarafından	O
+bestelenmiş	O
+ve	O
+düzenlenmiştir	O
+.	O
+
+
+sinan	B-PER
+akçıl	I-PER
+tarafından	O
+yazılmış	O
+,	O
+emrah	B-PER
+karaduman	I-PER
+tarafından	O
+bestelenmiş	O
+ve	O
+düzenlenmiştir	O
+.	O
+
+
+fifa	O
+merkezi	O
+i̇sviçre	B-LOC
+nin	O
+en	O
+büyük	O
+şehri	O
+galler	B-LOC
+te	O
+yer	O
+alır	O
+.	O
+
+
+fifa	O
+merkezi	O
+galler	B-LOC
+nin	O
+en	O
+büyük	O
+şehri	O
+zürih	B-LOC
+te	O
+yer	O
+alır	O
+.	O
+
+
+fifa	O
+merkezi	O
+i̇sviçre	B-LOC
+nin	O
+en	O
+büyük	O
+şehri	O
+bangladeş	B-LOC
+hükümeti	I-LOC
+planlama	I-LOC
+komisyonu	I-LOC
+üyeliği	I-LOC
+te	O
+yer	O
+alır	O
+.	O
+
+
+fifa	O
+merkezi	O
+i̇sviçre	B-LOC
+nin	O
+en	O
+büyük	O
+şehri	O
+zürih	B-LOC
+te	O
+yer	O
+alır	O
+.	O
+
+
+fifa	O
+merkezi	O
+marmaray	B-LOC
+nin	O
+en	O
+büyük	O
+şehri	O
+köy	B-LOC
+te	O
+yer	O
+alır	O
+.	O
+
+
+gaga	O
+nın	O
+ppl	B-CORP
+tarafından	O
+birleşik	O
+krallık	O
+ta	O
+2011	O
+in	O
+en	O
+çok	O
+çalınan	O
+ikinci	O
+sanatçısı	O
+olduğu	O
+açıklandı	O
+.	O
+
+
+gaga	O
+nın	O
+ppl	B-CORP
+tarafından	O
+birleşik	O
+krallık	O
+ta	O
+2011	O
+in	O
+en	O
+çok	O
+çalınan	O
+ikinci	O
+sanatçısı	O
+olduğu	O
+açıklandı	O
+.	O
+
+
+gaga	O
+nın	O
+rotten	B-CORP
+tomatoes'te	I-CORP
+tarafından	O
+birleşik	O
+krallık	O
+ta	O
+2011	O
+in	O
+en	O
+çok	O
+çalınan	O
+ikinci	O
+sanatçısı	O
+olduğu	O
+açıklandı	O
+.	O
+
+
+gaga	O
+nın	O
+wwe	B-CORP
+tarafından	O
+birleşik	O
+krallık	O
+ta	O
+2011	O
+in	O
+en	O
+çok	O
+çalınan	O
+ikinci	O
+sanatçısı	O
+olduğu	O
+açıklandı	O
+.	O
+
+
+gaga	O
+nın	O
+google	B-CORP
+tarafından	O
+birleşik	O
+krallık	O
+ta	O
+2011	O
+in	O
+en	O
+çok	O
+çalınan	O
+ikinci	O
+sanatçısı	O
+olduğu	O
+açıklandı	O
+.	O
+
+
+seicento	O
+ilk	O
+kez	O
+satışa	O
+sunulduğunda	O
+michael	B-PER
+schumacher	I-PER
+de	O
+reklamında	O
+oynamıştır	O
+.	O
+
+
+seicento	O
+ilk	O
+kez	O
+satışa	O
+sunulduğunda	O
+michael	B-PER
+schumacher	I-PER
+de	O
+reklamında	O
+oynamıştır	O
+.	O
+
+
+seicento	O
+ilk	O
+kez	O
+satışa	O
+sunulduğunda	O
+michael	B-PER
+schumacher	I-PER
+de	O
+reklamında	O
+oynamıştır	O
+.	O
+
+
+seicento	O
+ilk	O
+kez	O
+satışa	O
+sunulduğunda	O
+tommy	B-PER
+lee	I-PER
+jones	I-PER
+de	O
+reklamında	O
+oynamıştır	O
+.	O
+
+
+seicento	O
+ilk	O
+kez	O
+satışa	O
+sunulduğunda	O
+michael	B-PER
+schumacher	I-PER
+de	O
+reklamında	O
+oynamıştır	O
+.	O
+
+
+1996	O
+da	O
+şirket	O
+,	O
+nintendo	B-PROD
+64	I-PROD
+ü	O
+piyasaya	O
+sürdü	O
+.	O
+
+
+1996	O
+da	O
+şirket	O
+,	O
+ördek	B-PROD
+ü	O
+piyasaya	O
+sürdü	O
+.	O
+
+
+1996	O
+da	O
+şirket	O
+,	O
+nintendo	B-PROD
+64	I-PROD
+ü	O
+piyasaya	O
+sürdü	O
+.	O
+
+
+1996	O
+da	O
+şirket	O
+,	O
+nintendo	B-PROD
+64	I-PROD
+ü	O
+piyasaya	O
+sürdü	O
+.	O
+
+
+1996	O
+da	O
+şirket	O
+,	O
+nintendo	B-PROD
+64	I-PROD
+ü	O
+piyasaya	O
+sürdü	O
+.	O
+
+
+i̇slam	O
+peygamberi	O
+sinan	B-PER
+akçıl	I-PER
+bu	O
+olaydan	O
+az	O
+bir	O
+zaman	O
+sonra	O
+571	O
+yılında	O
+doğmuştur	O
+.	O
+
+
+i̇slam	O
+peygamberi	O
+muhammed	B-PER
+bu	O
+olaydan	O
+az	O
+bir	O
+zaman	O
+sonra	O
+571	O
+yılında	O
+doğmuştur	O
+.	O
+
+
+i̇slam	O
+peygamberi	O
+olcay	B-PER
+şahan	I-PER
+bu	O
+olaydan	O
+az	O
+bir	O
+zaman	O
+sonra	O
+571	O
+yılında	O
+doğmuştur	O
+.	O
+
+
+i̇slam	O
+peygamberi	O
+muhammed	B-PER
+bu	O
+olaydan	O
+az	O
+bir	O
+zaman	O
+sonra	O
+571	O
+yılında	O
+doğmuştur	O
+.	O
+
+
+i̇slam	O
+peygamberi	O
+muhammed	B-PER
+bu	O
+olaydan	O
+az	O
+bir	O
+zaman	O
+sonra	O
+571	O
+yılında	O
+doğmuştur	O
+.	O
+
+
+britanya	O
+ve	O
+i̇rlanda	O
+nın	O
+çoğu	O
+bölgesindeki	O
+patates	O
+kızartması	O
+dükkanlarında	O
+,	O
+servis	O
+sırasında	O
+geleneksel	O
+olarak	O
+fish	O
+and	O
+chips	O
+üzerine	O
+tuz	B-PROD
+ve	O
+kiş	B-PROD
+hamuru	I-PROD
+serpilir	O
+.	O
+
+
+britanya	O
+ve	O
+i̇rlanda	O
+nın	O
+çoğu	O
+bölgesindeki	O
+patates	O
+kızartması	O
+dükkanlarında	O
+,	O
+servis	O
+sırasında	O
+geleneksel	O
+olarak	O
+fish	O
+and	O
+chips	O
+üzerine	O
+tuz	B-PROD
+ve	O
+sirke	B-PROD
+serpilir	O
+.	O
+
+
+britanya	O
+ve	O
+i̇rlanda	O
+nın	O
+çoğu	O
+bölgesindeki	O
+patates	O
+kızartması	O
+dükkanlarında	O
+,	O
+servis	O
+sırasında	O
+geleneksel	O
+olarak	O
+fish	O
+and	O
+chips	O
+üzerine	O
+tuz	B-PROD
+ve	O
+sirke	B-PROD
+serpilir	O
+.	O
+
+
+britanya	O
+ve	O
+i̇rlanda	O
+nın	O
+çoğu	O
+bölgesindeki	O
+patates	O
+kızartması	O
+dükkanlarında	O
+,	O
+servis	O
+sırasında	O
+geleneksel	O
+olarak	O
+fish	O
+and	O
+chips	O
+üzerine	O
+tuz	B-PROD
+ve	O
+metal	B-PROD
+serpilir	O
+.	O
+
+
+britanya	O
+ve	O
+i̇rlanda	O
+nın	O
+çoğu	O
+bölgesindeki	O
+patates	O
+kızartması	O
+dükkanlarında	O
+,	O
+servis	O
+sırasında	O
+geleneksel	O
+olarak	O
+fish	O
+and	O
+chips	O
+üzerine	O
+tuz	B-PROD
+ve	O
+sirke	B-PROD
+serpilir	O
+.	O
+
+
+yani	O
+arkadaşı	O
+marcel	B-PER
+pagnol	I-PER
+un	O
+deyimiyle	O
+«	O
+kendi	O
+şöhretini	O
+başkaları	O
+için	O
+»	O
+feda	O
+etti	O
+.	O
+
+
+yani	O
+arkadaşı	O
+marcel	B-PER
+pagnol	I-PER
+un	O
+deyimiyle	O
+«	O
+kendi	O
+şöhretini	O
+başkaları	O
+için	O
+»	O
+feda	O
+etti	O
+.	O
+
+
+yani	O
+arkadaşı	O
+henry	B-PER
+royce	I-PER
+un	O
+deyimiyle	O
+«	O
+kendi	O
+şöhretini	O
+başkaları	O
+için	O
+»	O
+feda	O
+etti	O
+.	O
+
+
+yani	O
+arkadaşı	O
+marcel	B-PER
+pagnol	I-PER
+un	O
+deyimiyle	O
+«	O
+kendi	O
+şöhretini	O
+başkaları	O
+için	O
+»	O
+feda	O
+etti	O
+.	O
+
+
+yani	O
+arkadaşı	O
+le	B-PER
+corbusier'in	I-PER
+mimari	I-PER
+çalışmaları,	I-PER
+modern	I-PER
+hareket'a	I-PER
+üstün	I-PER
+bir	I-PER
+katkı	I-PER
+un	O
+deyimiyle	O
+«	O
+kendi	O
+şöhretini	O
+başkaları	O
+için	O
+»	O
+feda	O
+etti	O
+.	O
+
+
+2010	O
+:	O
+bafta	B-GRP
+ödüllerinde	O
+en	O
+iyi	O
+yönetmen	O
+ödülünü	O
+kazanan	O
+ilk	O
+kadın	O
+kathryn	B-PER
+bigelow	I-PER
+(	O
+ölümcül	B-CW
+tuzak	I-CW
+)	O
+.	O
+
+
+2010	O
+:	O
+bafta	B-GRP
+ödüllerinde	O
+en	O
+iyi	O
+yönetmen	O
+ödülünü	O
+kazanan	O
+ilk	O
+kadın	O
+kathryn	B-PER
+bigelow	I-PER
+(	O
+ölümcül	B-CW
+tuzak	I-CW
+)	O
+.	O
+
+
+2010	O
+:	O
+bafta	B-GRP
+ödüllerinde	O
+en	O
+iyi	O
+yönetmen	O
+ödülünü	O
+kazanan	O
+ilk	O
+kadın	O
+gloria	B-PER
+estefan	I-PER
+(	O
+ölümcül	B-CW
+tuzak	I-CW
+)	O
+.	O
+
+
+2010	O
+:	O
+bafta	B-GRP
+ödüllerinde	O
+en	O
+iyi	O
+yönetmen	O
+ödülünü	O
+kazanan	O
+ilk	O
+kadın	O
+kathryn	B-PER
+bigelow	I-PER
+(	O
+yığınlar	B-CW
+)	O
+.	O
+
+
+2010	O
+:	O
+bafta	B-GRP
+ödüllerinde	O
+en	O
+iyi	O
+yönetmen	O
+ödülünü	O
+kazanan	O
+ilk	O
+kadın	O
+kathryn	B-PER
+bigelow	I-PER
+(	O
+windows	B-CW
+)	O
+.	O
+
+
+avustralya	O
+millî	O
+futbol	O
+takımı	O
+;	O
+suudi	B-LOC
+arabistan	I-LOC
+yı	O
+uluslararası	O
+organizasyonlarda	O
+temsil	O
+eden	O
+ve	O
+kaptanlığını	O
+mile	B-PER
+jedinak	I-PER
+ın	O
+üstlendiği	O
+futbol	O
+takımıdır	O
+.	O
+
+
+avustralya	O
+millî	O
+futbol	O
+takımı	O
+;	O
+aydın	B-LOC
+yı	O
+uluslararası	O
+organizasyonlarda	O
+temsil	O
+eden	O
+ve	O
+kaptanlığını	O
+mile	B-PER
+jedinak	I-PER
+ın	O
+üstlendiği	O
+futbol	O
+takımıdır	O
+.	O
+
+
+avustralya	O
+millî	O
+futbol	O
+takımı	O
+;	O
+avustralya	B-LOC
+yı	O
+uluslararası	O
+organizasyonlarda	O
+temsil	O
+eden	O
+ve	O
+kaptanlığını	O
+mile	B-PER
+jedinak	I-PER
+ın	O
+üstlendiği	O
+futbol	O
+takımıdır	O
+.	O
+
+
+avustralya	O
+millî	O
+futbol	O
+takımı	O
+;	O
+avustralya	B-LOC
+yı	O
+uluslararası	O
+organizasyonlarda	O
+temsil	O
+eden	O
+ve	O
+kaptanlığını	O
+mile	B-PER
+jedinak	I-PER
+ın	O
+üstlendiği	O
+futbol	O
+takımıdır	O
+.	O
+
+
+avustralya	O
+millî	O
+futbol	O
+takımı	O
+;	O
+avustralya	B-LOC
+yı	O
+uluslararası	O
+organizasyonlarda	O
+temsil	O
+eden	O
+ve	O
+kaptanlığını	O
+dakota	B-PER
+fanning	I-PER
+ın	O
+üstlendiği	O
+futbol	O
+takımıdır	O
+.	O
+
+
+aleksey	O
+,	O
+2011	B-CW
+eurovision	I-CW
+şarkı	I-CW
+yarışması	I-CW
+nın	O
+ilk	O
+yarıfinalinde	O
+yarışmış	O
+ve	O
+finalde	O
+16	O
+.	O
+olmuştur	O
+.	O
+
+
+aleksey	O
+,	O
+smackdown	B-CW
+nın	O
+ilk	O
+yarıfinalinde	O
+yarışmış	O
+ve	O
+finalde	O
+16	O
+.	O
+olmuştur	O
+.	O
+
+
+aleksey	O
+,	O
+2011	B-CW
+eurovision	I-CW
+şarkı	I-CW
+yarışması	I-CW
+nın	O
+ilk	O
+yarıfinalinde	O
+yarışmış	O
+ve	O
+finalde	O
+16	O
+.	O
+olmuştur	O
+.	O
+
+
+aleksey	O
+,	O
+2011	B-CW
+eurovision	I-CW
+şarkı	I-CW
+yarışması	I-CW
+nın	O
+ilk	O
+yarıfinalinde	O
+yarışmış	O
+ve	O
+finalde	O
+16	O
+.	O
+olmuştur	O
+.	O
+
+
+aleksey	O
+,	O
+2011	B-CW
+eurovision	I-CW
+şarkı	I-CW
+yarışması	I-CW
+nın	O
+ilk	O
+yarıfinalinde	O
+yarışmış	O
+ve	O
+finalde	O
+16	O
+.	O
+olmuştur	O
+.	O
+
+
+almanya	B-LOC
+ise	O
+basf	B-CORP
+şirketi	O
+tarafından	O
+üretiliyor	O
+.	O
+
+
+almanya	B-LOC
+ise	O
+basf	B-CORP
+şirketi	O
+tarafından	O
+üretiliyor	O
+.	O
+
+
+antalya	B-LOC
+ise	O
+basf	B-CORP
+şirketi	O
+tarafından	O
+üretiliyor	O
+.	O
+
+
+almanya	B-LOC
+ise	O
+basf	B-CORP
+şirketi	O
+tarafından	O
+üretiliyor	O
+.	O
+
+
+almanya	B-LOC
+ise	O
+fox	B-CORP
+şirketi	O
+tarafından	O
+üretiliyor	O
+.	O
+
+
+i̇kinci	O
+alınan	O
+beş	O
+otomat	O
+ise	O
+1994	O
+yılının	O
+ilk	O
+aylarında	O
+aydın	B-LOC
+,	O
+boğazkale	B-LOC
+ve	O
+bursa	B-LOC
+da	O
+hizmete	O
+alındı	O
+.	O
+
+
+i̇kinci	O
+alınan	O
+beş	O
+otomat	O
+ise	O
+1994	O
+yılının	O
+ilk	O
+aylarında	O
+aydın	B-LOC
+,	O
+belfast	B-LOC
+ve	O
+etimesgut	B-LOC
+da	O
+hizmete	O
+alındı	O
+.	O
+
+
+i̇kinci	O
+alınan	O
+beş	O
+otomat	O
+ise	O
+1994	O
+yılının	O
+ilk	O
+aylarında	O
+güney	B-LOC
+kore	I-LOC
+,	O
+antalya	B-LOC
+ve	O
+bursa	B-LOC
+da	O
+hizmete	O
+alındı	O
+.	O
+
+
+i̇kinci	O
+alınan	O
+beş	O
+otomat	O
+ise	O
+1994	O
+yılının	O
+ilk	O
+aylarında	O
+sovyetler	B-LOC
+birliği	I-LOC
+,	O
+antalya	B-LOC
+ve	O
+bursa	B-LOC
+da	O
+hizmete	O
+alındı	O
+.	O
+
+
+i̇kinci	O
+alınan	O
+beş	O
+otomat	O
+ise	O
+1994	O
+yılının	O
+ilk	O
+aylarında	O
+aydın	B-LOC
+,	O
+antalya	B-LOC
+ve	O
+bursa	B-LOC
+da	O
+hizmete	O
+alındı	O
+.	O
+
+
+bu	O
+bağlamda	O
+birleşmiş	B-GRP
+milletler	I-GRP
+0	O
+18	O
+yaşlarındaki	O
+insanları	O
+çocuk	O
+kabul	O
+eder	O
+.	O
+
+
+bu	O
+bağlamda	O
+birleşmiş	B-GRP
+milletler	I-GRP
+0	O
+18	O
+yaşlarındaki	O
+insanları	O
+çocuk	O
+kabul	O
+eder	O
+.	O
+
+
+bu	O
+bağlamda	O
+birleşmiş	B-GRP
+milletler	I-GRP
+0	O
+18	O
+yaşlarındaki	O
+insanları	O
+çocuk	O
+kabul	O
+eder	O
+.	O
+
+
+bu	O
+bağlamda	O
+birleşmiş	B-GRP
+milletler	I-GRP
+0	O
+18	O
+yaşlarındaki	O
+insanları	O
+çocuk	O
+kabul	O
+eder	O
+.	O
+
+
+bu	O
+bağlamda	O
+birleşmiş	B-GRP
+milletler	I-GRP
+0	O
+18	O
+yaşlarındaki	O
+insanları	O
+çocuk	O
+kabul	O
+eder	O
+.	O
+
+
+gıda	O
+dışı	O
+ürünler	O
+insani	O
+krizlerde	O
+birincil	O
+öneme	O
+sahip	O
+battaniye	B-PROD
+ve	O
+hijyen	O
+kitleri	O
+gibi	O
+malzemelerden	O
+oluşmaktadır	O
+.	O
+
+
+gıda	O
+dışı	O
+ürünler	O
+insani	O
+krizlerde	O
+birincil	O
+öneme	O
+sahip	O
+battaniye	B-PROD
+ve	O
+hijyen	O
+kitleri	O
+gibi	O
+malzemelerden	O
+oluşmaktadır	O
+.	O
+
+
+gıda	O
+dışı	O
+ürünler	O
+insani	O
+krizlerde	O
+birincil	O
+öneme	O
+sahip	O
+battaniye	B-PROD
+ve	O
+hijyen	O
+kitleri	O
+gibi	O
+malzemelerden	O
+oluşmaktadır	O
+.	O
+
+
+gıda	O
+dışı	O
+ürünler	O
+insani	O
+krizlerde	O
+birincil	O
+öneme	O
+sahip	O
+911	B-PROD
+ve	O
+hijyen	O
+kitleri	O
+gibi	O
+malzemelerden	O
+oluşmaktadır	O
+.	O
+
+
+gıda	O
+dışı	O
+ürünler	O
+insani	O
+krizlerde	O
+birincil	O
+öneme	O
+sahip	O
+hazır	B-PROD
+yemek	I-PROD
+ve	O
+hijyen	O
+kitleri	O
+gibi	O
+malzemelerden	O
+oluşmaktadır	O
+.	O
+
+
+şarkı	O
+11	O
+şubat	O
+2020	O
+de	O
+fnc	B-CORP
+entertainment	I-CORP
+tarafından	O
+dijital	O
+olarak	O
+yayınlandı	O
+.	O
+
+
+şarkı	O
+11	O
+şubat	O
+2020	O
+de	O
+fnc	B-CORP
+entertainment	I-CORP
+tarafından	O
+dijital	O
+olarak	O
+yayınlandı	O
+.	O
+
+
+şarkı	O
+11	O
+şubat	O
+2020	O
+de	O
+fnc	B-CORP
+entertainment	I-CORP
+tarafından	O
+dijital	O
+olarak	O
+yayınlandı	O
+.	O
+
+
+şarkı	O
+11	O
+şubat	O
+2020	O
+de	O
+fnc	B-CORP
+entertainment	I-CORP
+tarafından	O
+dijital	O
+olarak	O
+yayınlandı	O
+.	O
+
+
+şarkı	O
+11	O
+şubat	O
+2020	O
+de	O
+fnc	B-CORP
+entertainment	I-CORP
+tarafından	O
+dijital	O
+olarak	O
+yayınlandı	O
+.	O
+
+
+learnalilgivinanlovin	O
+,	O
+şarkıcı	O
+gotye	B-PER
+nin	O
+yazılım	B-CW
+albümünden	O
+bir	O
+şarkı	O
+.	O
+
+
+learnalilgivinanlovin	O
+,	O
+şarkıcı	O
+gotye	B-PER
+nin	O
+like	B-CW
+drawing	I-CW
+blood	I-CW
+albümünden	O
+bir	O
+şarkı	O
+.	O
+
+
+learnalilgivinanlovin	O
+,	O
+şarkıcı	O
+ahmet	B-PER
+ümit	I-PER
+nin	O
+aklı	B-CW
+havada	I-CW
+albümünden	O
+bir	O
+şarkı	O
+.	O
+
+
+learnalilgivinanlovin	O
+,	O
+şarkıcı	O
+gotye	B-PER
+nin	O
+google	B-CW
+play	I-CW
+albümünden	O
+bir	O
+şarkı	O
+.	O
+
+
+learnalilgivinanlovin	O
+,	O
+şarkıcı	O
+gotye	B-PER
+nin	O
+io	B-CW
+sono	I-CW
+mia	I-CW
+albümünden	O
+bir	O
+şarkı	O
+.	O
+
+
+korkaktır	O
+ve	O
+aynı	O
+babası	O
+ve	O
+ablası	O
+onun	O
+gibidir	O
+yani	O
+gözlük	B-PROD
+takar	O
+.	O
+
+
+korkaktır	O
+ve	O
+aynı	O
+babası	O
+ve	O
+ablası	O
+onun	O
+gibidir	O
+yani	O
+gözlük	B-PROD
+takar	O
+.	O
+
+
+korkaktır	O
+ve	O
+aynı	O
+babası	O
+ve	O
+ablası	O
+onun	O
+gibidir	O
+yani	O
+gözlük	B-PROD
+takar	O
+.	O
+
+
+korkaktır	O
+ve	O
+aynı	O
+babası	O
+ve	O
+ablası	O
+onun	O
+gibidir	O
+yani	O
+gözlük	B-PROD
+takar	O
+.	O
+
+
+korkaktır	O
+ve	O
+aynı	O
+babası	O
+ve	O
+ablası	O
+onun	O
+gibidir	O
+yani	O
+gözlük	B-PROD
+takar	O
+.	O
+
+
+#	O
+bring	B-CW
+your	I-CW
+daughter...	I-CW
+to	I-CW
+the	I-CW
+slaughter	I-CW
+(	O
+konser	O
+kaydı	O
+)	O
+(	O
+dickinson	B-PER
+)	O
+–	O
+5	O
+:	O
+17	O
+
+
+#	O
+bring	B-CW
+your	I-CW
+daughter...	I-CW
+to	I-CW
+the	I-CW
+slaughter	I-CW
+(	O
+konser	O
+kaydı	O
+)	O
+(	O
+roy	B-PER
+carroll	I-PER
+)	O
+–	O
+5	O
+:	O
+17	O
+
+
+#	O
+edebiyat	B-CW
+(	O
+konser	O
+kaydı	O
+)	O
+(	O
+dickinson	B-PER
+)	O
+–	O
+5	O
+:	O
+17	O
+
+
+#	O
+manga	B-CW
+(	O
+konser	O
+kaydı	O
+)	O
+(	O
+roy	B-PER
+carroll	I-PER
+)	O
+–	O
+5	O
+:	O
+17	O
+
+
+#	O
+bring	B-CW
+your	I-CW
+daughter...	I-CW
+to	I-CW
+the	I-CW
+slaughter	I-CW
+(	O
+konser	O
+kaydı	O
+)	O
+(	O
+dickinson	B-PER
+)	O
+–	O
+5	O
+:	O
+17	O
+
+
+bu	O
+inanış	O
+,	O
+homeros	B-PER
+görüşlerine	O
+karşılık	O
+tam	O
+bir	O
+zıtlık	O
+oluşturur	O
+.	O
+
+
+bu	O
+inanış	O
+,	O
+homeros	B-PER
+görüşlerine	O
+karşılık	O
+tam	O
+bir	O
+zıtlık	O
+oluşturur	O
+.	O
+
+
+bu	O
+inanış	O
+,	O
+marcel	B-PER
+pagnol	I-PER
+görüşlerine	O
+karşılık	O
+tam	O
+bir	O
+zıtlık	O
+oluşturur	O
+.	O
+
+
+bu	O
+inanış	O
+,	O
+yılmaz	B-PER
+güney	I-PER
+görüşlerine	O
+karşılık	O
+tam	O
+bir	O
+zıtlık	O
+oluşturur	O
+.	O
+
+
+bu	O
+inanış	O
+,	O
+homeros	B-PER
+görüşlerine	O
+karşılık	O
+tam	O
+bir	O
+zıtlık	O
+oluşturur	O
+.	O
+
+
+ama	O
+1995	O
+tarihli	O
+survivor	B-CW
+ünlüler	I-CW
+-	I-CW
+gönüllüler	I-CW
+(	O
+batman	O
+forever	O
+)	O
+filminin	O
+kadrosunda	O
+bu	O
+rol	O
+ile	O
+tommy	B-PER
+lee	I-PER
+jones	I-PER
+yer	O
+aldı	O
+.	O
+
+
+ama	O
+1995	O
+tarihli	O
+batman	B-CW
+daima	I-CW
+(	O
+batman	O
+forever	O
+)	O
+filminin	O
+kadrosunda	O
+bu	O
+rol	O
+ile	O
+tommy	B-PER
+lee	I-PER
+jones	I-PER
+yer	O
+aldı	O
+.	O
+
+
+ama	O
+1995	O
+tarihli	O
+batman	B-CW
+daima	I-CW
+(	O
+batman	O
+forever	O
+)	O
+filminin	O
+kadrosunda	O
+bu	O
+rol	O
+ile	O
+martin	B-PER
+gore	I-PER
+yer	O
+aldı	O
+.	O
+
+
+ama	O
+1995	O
+tarihli	O
+batman	B-CW
+daima	I-CW
+(	O
+batman	O
+forever	O
+)	O
+filminin	O
+kadrosunda	O
+bu	O
+rol	O
+ile	O
+tommy	B-PER
+lee	I-PER
+jones	I-PER
+yer	O
+aldı	O
+.	O
+
+
+ama	O
+1995	O
+tarihli	O
+batman	B-CW
+daima	I-CW
+(	O
+batman	O
+forever	O
+)	O
+filminin	O
+kadrosunda	O
+bu	O
+rol	O
+ile	O
+tommy	B-PER
+lee	I-PER
+jones	I-PER
+yer	O
+aldı	O
+.	O
+
+
+bu	O
+sırada	O
+edindiği	O
+tarih	O
+öğreticiliği	O
+şöhreti	O
+sayesinde	O
+askeri	O
+akademiye	O
+tarih	O
+profesörü	O
+oldu	O
+.	O
+1793	O
+te	O
+i̇sviçre	B-LOC
+yi	O
+ziyaret	O
+etti	O
+.	O
+1796	O
+da	O
+fransa	O
+yı	O
+ziyaret	O
+etti	O
+.	O
+
+
+bu	O
+sırada	O
+edindiği	O
+tarih	O
+öğreticiliği	O
+şöhreti	O
+sayesinde	O
+askeri	O
+akademiye	O
+tarih	O
+profesörü	O
+oldu	O
+.	O
+1793	O
+te	O
+i̇sviçre	B-LOC
+yi	O
+ziyaret	O
+etti	O
+.	O
+1796	O
+da	O
+fransa	O
+yı	O
+ziyaret	O
+etti	O
+.	O
+
+
+bu	O
+sırada	O
+edindiği	O
+tarih	O
+öğreticiliği	O
+şöhreti	O
+sayesinde	O
+askeri	O
+akademiye	O
+tarih	O
+profesörü	O
+oldu	O
+.	O
+1793	O
+te	O
+i̇sviçre	B-LOC
+yi	O
+ziyaret	O
+etti	O
+.	O
+1796	O
+da	O
+fransa	O
+yı	O
+ziyaret	O
+etti	O
+.	O
+
+
+bu	O
+sırada	O
+edindiği	O
+tarih	O
+öğreticiliği	O
+şöhreti	O
+sayesinde	O
+askeri	O
+akademiye	O
+tarih	O
+profesörü	O
+oldu	O
+.	O
+1793	O
+te	O
+çorum	B-LOC
+yi	O
+ziyaret	O
+etti	O
+.	O
+1796	O
+da	O
+fransa	O
+yı	O
+ziyaret	O
+etti	O
+.	O
+
+
+bu	O
+sırada	O
+edindiği	O
+tarih	O
+öğreticiliği	O
+şöhreti	O
+sayesinde	O
+askeri	O
+akademiye	O
+tarih	O
+profesörü	O
+oldu	O
+.	O
+1793	O
+te	O
+i̇sviçre	B-LOC
+yi	O
+ziyaret	O
+etti	O
+.	O
+1796	O
+da	O
+fransa	O
+yı	O
+ziyaret	O
+etti	O
+.	O
+
+
+bu	O
+paketle	O
+microsoft	B-CORP
+temel	O
+çokluortam	O
+araçlarını	O
+ilk	O
+kez	O
+roman	B-CW
+dahil	O
+etmiş	O
+oldu	O
+.	O
+
+
+bu	O
+paketle	O
+vice	B-CORP
+temel	O
+çokluortam	O
+araçlarını	O
+ilk	O
+kez	O
+smackdown	B-CW
+dahil	O
+etmiş	O
+oldu	O
+.	O
+
+
+bu	O
+paketle	O
+jive	B-CORP
+records	I-CORP
+temel	O
+çokluortam	O
+araçlarını	O
+ilk	O
+kez	O
+windows	B-CW
+dahil	O
+etmiş	O
+oldu	O
+.	O
+
+
+bu	O
+paketle	O
+microsoft	B-CORP
+temel	O
+çokluortam	O
+araçlarını	O
+ilk	O
+kez	O
+windows	B-CW
+dahil	O
+etmiş	O
+oldu	O
+.	O
+
+
+bu	O
+paketle	O
+jive	B-CORP
+records	I-CORP
+temel	O
+çokluortam	O
+araçlarını	O
+ilk	O
+kez	O
+windows	B-CW
+dahil	O
+etmiş	O
+oldu	O
+.	O
+
+
+aalborg	B-GRP
+bk	I-GRP
+,	O
+ted	B-GRP
+ankara	I-GRP
+kolejliler	I-GRP
+,	O
+gaziantepspor	B-GRP
+ve	O
+chelsea	B-GRP
+fc	I-GRP
+formalarını	O
+giymiştir	O
+.	O
+
+
+gazi	B-GRP
+beden	I-GRP
+eğitimi	I-GRP
+bölümü	I-GRP
+,	O
+i̇stanbul	B-GRP
+teknik	I-GRP
+üniversitesi	I-GRP
+,	O
+fenerbahçe	B-GRP
+ve	O
+chelsea	B-GRP
+fc	I-GRP
+formalarını	O
+giymiştir	O
+.	O
+
+
+aalborg	B-GRP
+bk	I-GRP
+,	O
+brøndby	B-GRP
+if	I-GRP
+,	O
+fenerbahçe	B-GRP
+ve	O
+chelsea	B-GRP
+fc	I-GRP
+formalarını	O
+giymiştir	O
+.	O
+
+
+aalborg	B-GRP
+bk	I-GRP
+,	O
+mito	B-GRP
+hollyhock	I-GRP
+,	O
+bafta	B-GRP
+ve	O
+aalborg	B-GRP
+bk	I-GRP
+formalarını	O
+giymiştir	O
+.	O
+
+
+aalborg	B-GRP
+bk	I-GRP
+,	O
+brøndby	B-GRP
+if	I-GRP
+,	O
+fenerbahçe	B-GRP
+ve	O
+chelsea	B-GRP
+fc	I-GRP
+formalarını	O
+giymiştir	O
+.	O
+
+
+daha	O
+sonraları	O
+,	O
+cam	B-PROD
+ve	O
+metal	B-PROD
+şırıngalar	O
+yapıldı	O
+.	O
+
+
+daha	O
+sonraları	O
+,	O
+cam	B-PROD
+ve	O
+tornavida	B-PROD
+şırıngalar	O
+yapıldı	O
+.	O
+
+
+daha	O
+sonraları	O
+,	O
+cam	B-PROD
+ve	O
+metal	B-PROD
+şırıngalar	O
+yapıldı	O
+.	O
+
+
+daha	O
+sonraları	O
+,	O
+cam	B-PROD
+ve	O
+vcr	B-PROD
+şırıngalar	O
+yapıldı	O
+.	O
+
+
+daha	O
+sonraları	O
+,	O
+yumurta	B-PROD
+ve	O
+metal	B-PROD
+şırıngalar	O
+yapıldı	O
+.	O
+
+
+lance	O
+in	O
+kardeşinin	O
+öldürülme	O
+senaryosu	O
+da	O
+yine	O
+k	O
+anun	B-CW
+namına	I-CW
+dizisinden	O
+alınmıştır	O
+.	O
+
+
+lance	O
+in	O
+kardeşinin	O
+öldürülme	O
+senaryosu	O
+da	O
+yine	O
+k	O
+anun	B-CW
+namına	I-CW
+dizisinden	O
+alınmıştır	O
+.	O
+
+
+lance	O
+in	O
+kardeşinin	O
+öldürülme	O
+senaryosu	O
+da	O
+yine	O
+k	O
+anun	B-CW
+namına	I-CW
+dizisinden	O
+alınmıştır	O
+.	O
+
+
+lance	O
+in	O
+kardeşinin	O
+öldürülme	O
+senaryosu	O
+da	O
+yine	O
+k	O
+anun	B-CW
+namına	I-CW
+dizisinden	O
+alınmıştır	O
+.	O
+
+
+lance	O
+in	O
+kardeşinin	O
+öldürülme	O
+senaryosu	O
+da	O
+yine	O
+k	O
+platform	B-CW
+dizisinden	O
+alınmıştır	O
+.	O
+
+
+warp	O
+motoru	O
+ve	O
+solucandeliği	O
+denklemleri	O
+çoğu	O
+alanda	O
+sorun	O
+çıkarmaz	O
+,	O
+ancak	O
+egzotik	B-PROD
+madde	I-PROD
+alanı	O
+gereklidir	O
+.	O
+
+
+warp	O
+motoru	O
+ve	O
+solucandeliği	O
+denklemleri	O
+çoğu	O
+alanda	O
+sorun	O
+çıkarmaz	O
+,	O
+ancak	O
+donanım	B-PROD
+alanı	O
+gereklidir	O
+.	O
+
+
+warp	O
+motoru	O
+ve	O
+solucandeliği	O
+denklemleri	O
+çoğu	O
+alanda	O
+sorun	O
+çıkarmaz	O
+,	O
+ancak	O
+egzotik	B-PROD
+madde	I-PROD
+alanı	O
+gereklidir	O
+.	O
+
+
+warp	O
+motoru	O
+ve	O
+solucandeliği	O
+denklemleri	O
+çoğu	O
+alanda	O
+sorun	O
+çıkarmaz	O
+,	O
+ancak	O
+egzotik	B-PROD
+madde	I-PROD
+alanı	O
+gereklidir	O
+.	O
+
+
+warp	O
+motoru	O
+ve	O
+solucandeliği	O
+denklemleri	O
+çoğu	O
+alanda	O
+sorun	O
+çıkarmaz	O
+,	O
+ancak	O
+tohum	B-PROD
+alanı	O
+gereklidir	O
+.	O
+
+
+remedy	O
+,	O
+2002	O
+yılında	O
+max	O
+payne	O
+in	O
+tüm	O
+haklarını	O
+nintendo	B-CORP
+firmasına	O
+10	O
+milyon	O
+dolar	O
+ve	O
+969.932	O
+hisse	O
+senedi	O
+karşılığında	O
+sattı	O
+.	O
+
+
+remedy	O
+,	O
+2002	O
+yılında	O
+max	O
+payne	O
+in	O
+tüm	O
+haklarını	O
+take-two	B-CORP
+interactive	I-CORP
+firmasına	O
+10	O
+milyon	O
+dolar	O
+ve	O
+969.932	O
+hisse	O
+senedi	O
+karşılığında	O
+sattı	O
+.	O
+
+
+remedy	O
+,	O
+2002	O
+yılında	O
+max	O
+payne	O
+in	O
+tüm	O
+haklarını	O
+dolby	B-CORP
+laboratories	I-CORP
+firmasına	O
+10	O
+milyon	O
+dolar	O
+ve	O
+969.932	O
+hisse	O
+senedi	O
+karşılığında	O
+sattı	O
+.	O
+
+
+remedy	O
+,	O
+2002	O
+yılında	O
+max	O
+payne	O
+in	O
+tüm	O
+haklarını	O
+take-two	B-CORP
+interactive	I-CORP
+firmasına	O
+10	O
+milyon	O
+dolar	O
+ve	O
+969.932	O
+hisse	O
+senedi	O
+karşılığında	O
+sattı	O
+.	O
+
+
+remedy	O
+,	O
+2002	O
+yılında	O
+max	O
+payne	O
+in	O
+tüm	O
+haklarını	O
+take-two	B-CORP
+interactive	I-CORP
+firmasına	O
+10	O
+milyon	O
+dolar	O
+ve	O
+969.932	O
+hisse	O
+senedi	O
+karşılığında	O
+sattı	O
+.	O
+
+
+ntu	O
+kanalı	O
+2015	B-CW
+eurovision	I-CW
+şarkı	I-CW
+yarışması	I-CW
+na	O
+ukrayna	O
+da	O
+yaşanan	O
+siyasi	O
+kriz	O
+ve	O
+ekonomik	O
+kriz	O
+nedeniyle	O
+katılmayacaklarını	O
+açıklamıştır	O
+.	O
+
+
+ntu	O
+kanalı	O
+like	B-CW
+drawing	I-CW
+blood	I-CW
+na	O
+ukrayna	O
+da	O
+yaşanan	O
+siyasi	O
+kriz	O
+ve	O
+ekonomik	O
+kriz	O
+nedeniyle	O
+katılmayacaklarını	O
+açıklamıştır	O
+.	O
+
+
+ntu	O
+kanalı	O
+2015	B-CW
+eurovision	I-CW
+şarkı	I-CW
+yarışması	I-CW
+na	O
+ukrayna	O
+da	O
+yaşanan	O
+siyasi	O
+kriz	O
+ve	O
+ekonomik	O
+kriz	O
+nedeniyle	O
+katılmayacaklarını	O
+açıklamıştır	O
+.	O
+
+
+ntu	O
+kanalı	O
+2015	B-CW
+eurovision	I-CW
+şarkı	I-CW
+yarışması	I-CW
+na	O
+ukrayna	O
+da	O
+yaşanan	O
+siyasi	O
+kriz	O
+ve	O
+ekonomik	O
+kriz	O
+nedeniyle	O
+katılmayacaklarını	O
+açıklamıştır	O
+.	O
+
+
+ntu	O
+kanalı	O
+2015	B-CW
+eurovision	I-CW
+şarkı	I-CW
+yarışması	I-CW
+na	O
+ukrayna	O
+da	O
+yaşanan	O
+siyasi	O
+kriz	O
+ve	O
+ekonomik	O
+kriz	O
+nedeniyle	O
+katılmayacaklarını	O
+açıklamıştır	O
+.	O
+
+
+önemli	O
+konserlerden	O
+sonra	O
+konser	O
+salonu	O
+ya	O
+da	O
+kaldığı	O
+a	B-CORP
+haber	I-CORP
+yakınlarında	O
+özel	O
+davetlilere	O
+yemek	B-PROD
+verirdi	O
+.	O
+
+
+önemli	O
+konserlerden	O
+sonra	O
+konser	O
+salonu	O
+ya	O
+da	O
+kaldığı	O
+otel	B-CORP
+yakınlarında	O
+özel	O
+davetlilere	O
+yemek	B-PROD
+verirdi	O
+.	O
+
+
+önemli	O
+konserlerden	O
+sonra	O
+konser	O
+salonu	O
+ya	O
+da	O
+kaldığı	O
+otel	B-CORP
+yakınlarında	O
+özel	O
+davetlilere	O
+yemek	B-PROD
+verirdi	O
+.	O
+
+
+önemli	O
+konserlerden	O
+sonra	O
+konser	O
+salonu	O
+ya	O
+da	O
+kaldığı	O
+otel	B-CORP
+yakınlarında	O
+özel	O
+davetlilere	O
+çinko	B-PROD
+verirdi	O
+.	O
+
+
+önemli	O
+konserlerden	O
+sonra	O
+konser	O
+salonu	O
+ya	O
+da	O
+kaldığı	O
+basf	B-CORP
+yakınlarında	O
+özel	O
+davetlilere	O
+yemek	B-PROD
+verirdi	O
+.	O
+
+
+son	O
+yıllarda	O
+,	O
+i̇srail	B-LOC
+hükûmetinin	O
+çanakkale	B-LOC
+ye	O
+yönelik	O
+politikasını	O
+özellikle	O
+de	O
+deniz	O
+ablukasını	O
+eleştirdi	O
+.	O
+
+
+son	O
+yıllarda	O
+,	O
+i̇srail	B-LOC
+hükûmetinin	O
+gazze	B-LOC
+ye	O
+yönelik	O
+politikasını	O
+özellikle	O
+de	O
+deniz	O
+ablukasını	O
+eleştirdi	O
+.	O
+
+
+son	O
+yıllarda	O
+,	O
+i̇srail	B-LOC
+hükûmetinin	O
+kamaishi	B-LOC
+ye	O
+yönelik	O
+politikasını	O
+özellikle	O
+de	O
+deniz	O
+ablukasını	O
+eleştirdi	O
+.	O
+
+
+son	O
+yıllarda	O
+,	O
+i̇srail	B-LOC
+hükûmetinin	O
+gazze	B-LOC
+ye	O
+yönelik	O
+politikasını	O
+özellikle	O
+de	O
+deniz	O
+ablukasını	O
+eleştirdi	O
+.	O
+
+
+son	O
+yıllarda	O
+,	O
+fransa	B-LOC
+hükûmetinin	O
+gazze	B-LOC
+ye	O
+yönelik	O
+politikasını	O
+özellikle	O
+de	O
+deniz	O
+ablukasını	O
+eleştirdi	O
+.	O
+
+
+kocasının	O
+taç	O
+giyme	O
+töreninden	O
+sadece	O
+bir	O
+gün	O
+sonra	O
+suikaste	O
+uğramasının	O
+ardından	O
+,	O
+oğlu	O
+xiii.	B-PER
+louis	I-PER
+taht	O
+için	O
+uygun	O
+yaşa	O
+gelene	O
+kadar	O
+kral	O
+naibliğini	O
+yapmıştır	O
+.	O
+
+
+kocasının	O
+taç	O
+giyme	O
+töreninden	O
+sadece	O
+bir	O
+gün	O
+sonra	O
+suikaste	O
+uğramasının	O
+ardından	O
+,	O
+oğlu	O
+xiii.	B-PER
+louis	I-PER
+taht	O
+için	O
+uygun	O
+yaşa	O
+gelene	O
+kadar	O
+kral	O
+naibliğini	O
+yapmıştır	O
+.	O
+
+
+kocasının	O
+taç	O
+giyme	O
+töreninden	O
+sadece	O
+bir	O
+gün	O
+sonra	O
+suikaste	O
+uğramasının	O
+ardından	O
+,	O
+oğlu	O
+emrah	B-PER
+karaduman	I-PER
+taht	O
+için	O
+uygun	O
+yaşa	O
+gelene	O
+kadar	O
+kral	O
+naibliğini	O
+yapmıştır	O
+.	O
+
+
+kocasının	O
+taç	O
+giyme	O
+töreninden	O
+sadece	O
+bir	O
+gün	O
+sonra	O
+suikaste	O
+uğramasının	O
+ardından	O
+,	O
+oğlu	O
+xiii.	B-PER
+louis	I-PER
+taht	O
+için	O
+uygun	O
+yaşa	O
+gelene	O
+kadar	O
+kral	O
+naibliğini	O
+yapmıştır	O
+.	O
+
+
+kocasının	O
+taç	O
+giyme	O
+töreninden	O
+sadece	O
+bir	O
+gün	O
+sonra	O
+suikaste	O
+uğramasının	O
+ardından	O
+,	O
+oğlu	O
+xiii.	B-PER
+louis	I-PER
+taht	O
+için	O
+uygun	O
+yaşa	O
+gelene	O
+kadar	O
+kral	O
+naibliğini	O
+yapmıştır	O
+.	O
+
+
+yasa	O
+,	O
+sovyetler	B-LOC
+birliği	I-LOC
+nin	O
+bir	O
+parçası	O
+haline	O
+gelen	O
+litvanya	B-LOC
+sovyet	I-LOC
+sosyalist	I-LOC
+cumhuriyeti	I-LOC
+nin	O
+yerine	O
+bağımsız	O
+litvanya	O
+nın	O
+kurulduğunu	O
+açıkladı	O
+.	O
+
+
+yasa	O
+,	O
+sovyetler	B-LOC
+birliği	I-LOC
+nin	O
+bir	O
+parçası	O
+haline	O
+gelen	O
+litvanya	B-LOC
+sovyet	I-LOC
+sosyalist	I-LOC
+cumhuriyeti	I-LOC
+nin	O
+yerine	O
+bağımsız	O
+litvanya	O
+nın	O
+kurulduğunu	O
+açıkladı	O
+.	O
+
+
+yasa	O
+,	O
+sovyetler	B-LOC
+birliği	I-LOC
+nin	O
+bir	O
+parçası	O
+haline	O
+gelen	O
+litvanya	B-LOC
+sovyet	I-LOC
+sosyalist	I-LOC
+cumhuriyeti	I-LOC
+nin	O
+yerine	O
+bağımsız	O
+litvanya	O
+nın	O
+kurulduğunu	O
+açıkladı	O
+.	O
+
+
+yasa	O
+,	O
+sovyetler	B-LOC
+birliği	I-LOC
+nin	O
+bir	O
+parçası	O
+haline	O
+gelen	O
+litvanya	B-LOC
+sovyet	I-LOC
+sosyalist	I-LOC
+cumhuriyeti	I-LOC
+nin	O
+yerine	O
+bağımsız	O
+litvanya	O
+nın	O
+kurulduğunu	O
+açıkladı	O
+.	O
+
+
+yasa	O
+,	O
+sovyetler	B-LOC
+birliği	I-LOC
+nin	O
+bir	O
+parçası	O
+haline	O
+gelen	O
+litvanya	B-LOC
+sovyet	I-LOC
+sosyalist	I-LOC
+cumhuriyeti	I-LOC
+nin	O
+yerine	O
+bağımsız	O
+litvanya	O
+nın	O
+kurulduğunu	O
+açıkladı	O
+.	O
+
+
+hayatta	O
+kalma	O
+modu	O
+,	O
+çok	O
+oyunculu	O
+modda	O
+oyuncuya	B-CW
+karşı	I-CW
+oyuncu	I-CW
+mücadelesine	O
+izin	O
+verir	O
+.	O
+
+
+hayatta	O
+kalma	O
+modu	O
+,	O
+çok	O
+oyunculu	O
+modda	O
+oyuncuya	B-CW
+karşı	I-CW
+oyuncu	I-CW
+mücadelesine	O
+izin	O
+verir	O
+.	O
+
+
+hayatta	O
+kalma	O
+modu	O
+,	O
+çok	O
+oyunculu	O
+modda	O
+oyuncuya	B-CW
+karşı	I-CW
+oyuncu	I-CW
+mücadelesine	O
+izin	O
+verir	O
+.	O
+
+
+hayatta	O
+kalma	O
+modu	O
+,	O
+çok	O
+oyunculu	O
+modda	O
+alias	B-CW
+mücadelesine	O
+izin	O
+verir	O
+.	O
+
+
+hayatta	O
+kalma	O
+modu	O
+,	O
+çok	O
+oyunculu	O
+modda	O
+oyuncuya	B-CW
+karşı	I-CW
+oyuncu	I-CW
+mücadelesine	O
+izin	O
+verir	O
+.	O
+
+
+bitki	O
+diplerine	O
+ya	O
+da	O
+çalılara	O
+yaptıkları	O
+yuvalarına	O
+2	O
+ila	O
+3	O
+yumurta	B-PROD
+bırakırlar	O
+.	O
+
+
+bitki	O
+diplerine	O
+ya	O
+da	O
+çalılara	O
+yaptıkları	O
+yuvalarına	O
+2	O
+ila	O
+3	O
+limuzin	B-PROD
+bırakırlar	O
+.	O
+
+
+bitki	O
+diplerine	O
+ya	O
+da	O
+çalılara	O
+yaptıkları	O
+yuvalarına	O
+2	O
+ila	O
+3	O
+yumurta	B-PROD
+bırakırlar	O
+.	O
+
+
+bitki	O
+diplerine	O
+ya	O
+da	O
+çalılara	O
+yaptıkları	O
+yuvalarına	O
+2	O
+ila	O
+3	O
+yumurta	B-PROD
+bırakırlar	O
+.	O
+
+
+bitki	O
+diplerine	O
+ya	O
+da	O
+çalılara	O
+yaptıkları	O
+yuvalarına	O
+2	O
+ila	O
+3	O
+yumurta	B-PROD
+bırakırlar	O
+.	O
+
+
+beşpeşe	O
+,	O
+beş	O
+yazarın	O
+kendi	O
+sıraları	O
+geldiğinde	O
+,	O
+daha	O
+önce	O
+yazılmış	O
+olanları	O
+okuyarak	O
+devamını	O
+getirmek	O
+suretiyle	O
+oluşturdukları	O
+bir	O
+roman	B-CW
+.	O
+
+
+beşpeşe	O
+,	O
+beş	O
+yazarın	O
+kendi	O
+sıraları	O
+geldiğinde	O
+,	O
+daha	O
+önce	O
+yazılmış	O
+olanları	O
+okuyarak	O
+devamını	O
+getirmek	O
+suretiyle	O
+oluşturdukları	O
+bir	O
+ölümcül	B-CW
+oyuncaklar	I-CW
+.	O
+
+
+beşpeşe	O
+,	O
+beş	O
+yazarın	O
+kendi	O
+sıraları	O
+geldiğinde	O
+,	O
+daha	O
+önce	O
+yazılmış	O
+olanları	O
+okuyarak	O
+devamını	O
+getirmek	O
+suretiyle	O
+oluşturdukları	O
+bir	O
+tek	B-CW
+oyunculu	I-CW
+.	O
+
+
+beşpeşe	O
+,	O
+beş	O
+yazarın	O
+kendi	O
+sıraları	O
+geldiğinde	O
+,	O
+daha	O
+önce	O
+yazılmış	O
+olanları	O
+okuyarak	O
+devamını	O
+getirmek	O
+suretiyle	O
+oluşturdukları	O
+bir	O
+roman	B-CW
+.	O
+
+
+beşpeşe	O
+,	O
+beş	O
+yazarın	O
+kendi	O
+sıraları	O
+geldiğinde	O
+,	O
+daha	O
+önce	O
+yazılmış	O
+olanları	O
+okuyarak	O
+devamını	O
+getirmek	O
+suretiyle	O
+oluşturdukları	O
+bir	O
+roman	B-CW
+.	O
+
+
+shakespeare	O
+in	O
+soneleri	O
+,	O
+turgut	B-PER
+özal	I-PER
+çeşitli	O
+temalar	O
+üzerine	O
+yazdığı	O
+şiirlerdir	O
+.	O
+
+
+shakespeare	O
+in	O
+soneleri	O
+,	O
+william	B-PER
+shakespeare'in	I-PER
+çeşitli	O
+temalar	O
+üzerine	O
+yazdığı	O
+şiirlerdir	O
+.	O
+
+
+shakespeare	O
+in	O
+soneleri	O
+,	O
+william	B-PER
+shakespeare'in	I-PER
+çeşitli	O
+temalar	O
+üzerine	O
+yazdığı	O
+şiirlerdir	O
+.	O
+
+
+shakespeare	O
+in	O
+soneleri	O
+,	O
+william	B-PER
+shakespeare'in	I-PER
+çeşitli	O
+temalar	O
+üzerine	O
+yazdığı	O
+şiirlerdir	O
+.	O
+
+
+shakespeare	O
+in	O
+soneleri	O
+,	O
+deniz	B-PER
+baykal	I-PER
+çeşitli	O
+temalar	O
+üzerine	O
+yazdığı	O
+şiirlerdir	O
+.	O
+
+
+i̇lkokulu	O
+ve	O
+ortaokulu	O
+kayseri	O
+de	O
+,	O
+liseyi	O
+i̇stanbul	B-LOC
+da	O
+bitirdi	O
+.	O
+
+
+i̇lkokulu	O
+ve	O
+ortaokulu	O
+kayseri	O
+de	O
+,	O
+liseyi	O
+i̇stanbul	B-LOC
+da	O
+bitirdi	O
+.	O
+
+
+i̇lkokulu	O
+ve	O
+ortaokulu	O
+kayseri	O
+de	O
+,	O
+liseyi	O
+i̇stanbul	B-LOC
+da	O
+bitirdi	O
+.	O
+
+
+i̇lkokulu	O
+ve	O
+ortaokulu	O
+kayseri	O
+de	O
+,	O
+liseyi	O
+boğazkale	B-LOC
+da	O
+bitirdi	O
+.	O
+
+
+i̇lkokulu	O
+ve	O
+ortaokulu	O
+kayseri	O
+de	O
+,	O
+liseyi	O
+ayvacık	B-LOC
+da	O
+bitirdi	O
+.	O
+
+
+hashino	O
+demir	O
+madenciliği	O
+ve	O
+eritme	O
+bölgesi	O
+;	O
+kamaishi	B-LOC
+,	O
+iwate	B-LOC
+:	O
+
+
+hashino	O
+demir	O
+madenciliği	O
+ve	O
+eritme	O
+bölgesi	O
+;	O
+kamaishi	B-LOC
+,	O
+iwate	B-LOC
+:	O
+
+
+hashino	O
+demir	O
+madenciliği	O
+ve	O
+eritme	O
+bölgesi	O
+;	O
+kamaishi	B-LOC
+,	O
+iwate	B-LOC
+:	O
+
+
+hashino	O
+demir	O
+madenciliği	O
+ve	O
+eritme	O
+bölgesi	O
+;	O
+kamaishi	B-LOC
+,	O
+erzincan	B-LOC
+:	O
+
+
+hashino	O
+demir	O
+madenciliği	O
+ve	O
+eritme	O
+bölgesi	O
+;	O
+kamaishi	B-LOC
+,	O
+iwate	B-LOC
+:	O
+
+
+gaga	O
+,	O
+bir	O
+süre	O
+sonra	O
+erkek	O
+dansçıların	O
+yardımıyla	O
+limuzin	B-PROD
+indirilip	O
+tekerlerkli	O
+sandalyeye	O
+oturtulur	O
+.	O
+
+
+gaga	O
+,	O
+bir	O
+süre	O
+sonra	O
+erkek	O
+dansçıların	O
+yardımıyla	O
+limuzin	B-PROD
+indirilip	O
+tekerlerkli	O
+sandalyeye	O
+oturtulur	O
+.	O
+
+
+gaga	O
+,	O
+bir	O
+süre	O
+sonra	O
+erkek	O
+dansçıların	O
+yardımıyla	O
+limuzin	B-PROD
+indirilip	O
+tekerlerkli	O
+sandalyeye	O
+oturtulur	O
+.	O
+
+
+gaga	O
+,	O
+bir	O
+süre	O
+sonra	O
+erkek	O
+dansçıların	O
+yardımıyla	O
+limuzin	B-PROD
+indirilip	O
+tekerlerkli	O
+sandalyeye	O
+oturtulur	O
+.	O
+
+
+gaga	O
+,	O
+bir	O
+süre	O
+sonra	O
+erkek	O
+dansçıların	O
+yardımıyla	O
+limuzin	B-PROD
+indirilip	O
+tekerlerkli	O
+sandalyeye	O
+oturtulur	O
+.	O
+
+
+airbus	B-CORP
+firmasının	O
+son	O
+montaj	O
+hatlarının	O
+büyük	O
+bir	O
+kısmı	O
+bu	O
+şehirdedir	O
+.	O
+
+
+hasbro	B-CORP
+firmasının	O
+son	O
+montaj	O
+hatlarının	O
+büyük	O
+bir	O
+kısmı	O
+bu	O
+şehirdedir	O
+.	O
+
+
+airbus	B-CORP
+firmasının	O
+son	O
+montaj	O
+hatlarının	O
+büyük	O
+bir	O
+kısmı	O
+bu	O
+şehirdedir	O
+.	O
+
+
+airbus	B-CORP
+firmasının	O
+son	O
+montaj	O
+hatlarının	O
+büyük	O
+bir	O
+kısmı	O
+bu	O
+şehirdedir	O
+.	O
+
+
+airbus	B-CORP
+firmasının	O
+son	O
+montaj	O
+hatlarının	O
+büyük	O
+bir	O
+kısmı	O
+bu	O
+şehirdedir	O
+.	O
+
+
+fransa	B-LOC
+da	O
+ise	O
+diğer	O
+soylular	O
+da	O
+şövalye	O
+istihdam	O
+edebiliyordu	O
+.	O
+
+
+bangladeş	B-LOC
+millî	I-LOC
+eğitim	I-LOC
+komisyonu	I-LOC
+üyeliği	I-LOC
+da	O
+ise	O
+diğer	O
+soylular	O
+da	O
+şövalye	O
+istihdam	O
+edebiliyordu	O
+.	O
+
+
+i̇sviçre	B-LOC
+da	O
+ise	O
+diğer	O
+soylular	O
+da	O
+şövalye	O
+istihdam	O
+edebiliyordu	O
+.	O
+
+
+eğirdir	B-LOC
+da	O
+ise	O
+diğer	O
+soylular	O
+da	O
+şövalye	O
+istihdam	O
+edebiliyordu	O
+.	O
+
+
+fransa	B-LOC
+da	O
+ise	O
+diğer	O
+soylular	O
+da	O
+şövalye	O
+istihdam	O
+edebiliyordu	O
+.	O
+
+
+discovery	B-CORP
+channel	I-CORP
+da	O
+bir	O
+kadın	O
+,	O
+üç	O
+defa	O
+morgda	O
+uyandığını	O
+anlatmıştır	O
+.	O
+
+
+discovery	B-CORP
+channel	I-CORP
+da	O
+bir	O
+kadın	O
+,	O
+üç	O
+defa	O
+morgda	O
+uyandığını	O
+anlatmıştır	O
+.	O
+
+
+discovery	B-CORP
+channel	I-CORP
+da	O
+bir	O
+kadın	O
+,	O
+üç	O
+defa	O
+morgda	O
+uyandığını	O
+anlatmıştır	O
+.	O
+
+
+discovery	B-CORP
+channel	I-CORP
+da	O
+bir	O
+kadın	O
+,	O
+üç	O
+defa	O
+morgda	O
+uyandığını	O
+anlatmıştır	O
+.	O
+
+
+discovery	B-CORP
+channel	I-CORP
+da	O
+bir	O
+kadın	O
+,	O
+üç	O
+defa	O
+morgda	O
+uyandığını	O
+anlatmıştır	O
+.	O
+
+
+yarışmanın	O
+kazananı	O
+ı	O
+temsil	O
+eden	O
+ein	B-CW
+bißchen	I-CW
+frieden	I-CW
+adlı	O
+şarkısıyla	O
+nicole	B-PER
+olmuştur	O
+.	O
+
+
+yarışmanın	O
+kazananı	O
+ı	O
+temsil	O
+eden	O
+ein	B-CW
+bißchen	I-CW
+frieden	I-CW
+adlı	O
+şarkısıyla	O
+nicole	B-PER
+olmuştur	O
+.	O
+
+
+yarışmanın	O
+kazananı	O
+ı	O
+temsil	O
+eden	O
+ein	B-CW
+bißchen	I-CW
+frieden	I-CW
+adlı	O
+şarkısıyla	O
+nicole	B-PER
+olmuştur	O
+.	O
+
+
+yarışmanın	O
+kazananı	O
+ı	O
+temsil	O
+eden	O
+ein	B-CW
+bißchen	I-CW
+frieden	I-CW
+adlı	O
+şarkısıyla	O
+nicole	B-PER
+olmuştur	O
+.	O
+
+
+yarışmanın	O
+kazananı	O
+ı	O
+temsil	O
+eden	O
+windows	B-CW
+adlı	O
+şarkısıyla	O
+nicole	B-PER
+olmuştur	O
+.	O
+
+
+miami	B-GRP
+üniversitesi	I-GRP
+,	O
+putin	O
+in	O
+taktiği	O
+nbc	B-CORP
+news	I-CORP
+gazetecisi	O
+megyn	B-PER
+kelly	I-PER
+ile	O
+2017	O
+röportajında	O
+kullandığını	O
+belirtti	O
+.	O
+
+
+lecce	B-GRP
+,	O
+putin	O
+in	O
+taktiği	O
+cnn	B-CORP
+türk	I-CORP
+gazetecisi	O
+michael	B-PER
+schumacher	I-PER
+ile	O
+2017	O
+röportajında	O
+kullandığını	O
+belirtti	O
+.	O
+
+
+wall	B-GRP
+street	I-GRP
+journal	I-GRP
+,	O
+putin	O
+in	O
+taktiği	O
+nbc	B-CORP
+news	I-CORP
+gazetecisi	O
+megyn	B-PER
+kelly	I-PER
+ile	O
+2017	O
+röportajında	O
+kullandığını	O
+belirtti	O
+.	O
+
+
+galatasaray	B-GRP
+,	O
+putin	O
+in	O
+taktiği	O
+microsoft	B-CORP
+mobile	I-CORP
+gazetecisi	O
+megyn	B-PER
+kelly	I-PER
+ile	O
+2017	O
+röportajında	O
+kullandığını	O
+belirtti	O
+.	O
+
+
+chicago	B-GRP
+bulls	I-GRP
+,	O
+putin	O
+in	O
+taktiği	O
+nbc	B-CORP
+news	I-CORP
+gazetecisi	O
+megyn	B-PER
+kelly	I-PER
+ile	O
+2017	O
+röportajında	O
+kullandığını	O
+belirtti	O
+.	O
+
+
+finnair	B-CORP
+havayolu	O
+şirketi	O
+için	O
+iç	O
+ve	O
+uluslararası	O
+merkezdir	O
+.	O
+
+
+finnair	B-CORP
+havayolu	O
+şirketi	O
+için	O
+iç	O
+ve	O
+uluslararası	O
+merkezdir	O
+.	O
+
+
+show	B-CORP
+tv	I-CORP
+havayolu	O
+şirketi	O
+için	O
+iç	O
+ve	O
+uluslararası	O
+merkezdir	O
+.	O
+
+
+finnair	B-CORP
+havayolu	O
+şirketi	O
+için	O
+iç	O
+ve	O
+uluslararası	O
+merkezdir	O
+.	O
+
+
+finnair	B-CORP
+havayolu	O
+şirketi	O
+için	O
+iç	O
+ve	O
+uluslararası	O
+merkezdir	O
+.	O
+
+
+fabliau	O
+(	O
+çoğulu	O
+:	O
+fabliaux	O
+)	O
+fransa	B-LOC
+nın	O
+kuzeydoğusunda	O
+1150	O
+ile	O
+1400	O
+yılları	O
+arasında	O
+halk	O
+şairleri	O
+tarafından	O
+yazılan	O
+,	O
+komik	O
+ve	O
+çoğu	O
+zaman	O
+anonim	O
+hikâye	B-CW
+.	O
+
+
+fabliau	O
+(	O
+çoğulu	O
+:	O
+fabliaux	O
+)	O
+fransa	B-LOC
+nın	O
+kuzeydoğusunda	O
+1150	O
+ile	O
+1400	O
+yılları	O
+arasında	O
+halk	O
+şairleri	O
+tarafından	O
+yazılan	O
+,	O
+komik	O
+ve	O
+çoğu	O
+zaman	O
+anonim	O
+pachinko	B-CW
+.	O
+
+
+fabliau	O
+(	O
+çoğulu	O
+:	O
+fabliaux	O
+)	O
+fransa	B-LOC
+nın	O
+kuzeydoğusunda	O
+1150	O
+ile	O
+1400	O
+yılları	O
+arasında	O
+halk	O
+şairleri	O
+tarafından	O
+yazılan	O
+,	O
+komik	O
+ve	O
+çoğu	O
+zaman	O
+anonim	O
+hikâye	B-CW
+.	O
+
+
+fabliau	O
+(	O
+çoğulu	O
+:	O
+fabliaux	O
+)	O
+danimarka	B-LOC
+nın	O
+kuzeydoğusunda	O
+1150	O
+ile	O
+1400	O
+yılları	O
+arasında	O
+halk	O
+şairleri	O
+tarafından	O
+yazılan	O
+,	O
+komik	O
+ve	O
+çoğu	O
+zaman	O
+anonim	O
+hikâye	B-CW
+.	O
+
+
+fabliau	O
+(	O
+çoğulu	O
+:	O
+fabliaux	O
+)	O
+fransa	B-LOC
+nın	O
+kuzeydoğusunda	O
+1150	O
+ile	O
+1400	O
+yılları	O
+arasında	O
+halk	O
+şairleri	O
+tarafından	O
+yazılan	O
+,	O
+komik	O
+ve	O
+çoğu	O
+zaman	O
+anonim	O
+hikâye	B-CW
+.	O
+
+
+2010	O
+yılında	O
+deniz	B-PER
+baykal	I-PER
+ın	O
+genel	O
+başkanlık	O
+görevinden	O
+istifa	O
+etmesinin	O
+ardından	O
+yapılan	O
+33	O
+.	O
+
+
+2010	O
+yılında	O
+ahmet	B-PER
+ümit	I-PER
+ın	O
+genel	O
+başkanlık	O
+görevinden	O
+istifa	O
+etmesinin	O
+ardından	O
+yapılan	O
+33	O
+.	O
+
+
+2010	O
+yılında	O
+le	B-PER
+corbusier'in	I-PER
+mimari	I-PER
+çalışmaları,	I-PER
+modern	I-PER
+hareket'a	I-PER
+üstün	I-PER
+bir	I-PER
+katkı	I-PER
+ın	O
+genel	O
+başkanlık	O
+görevinden	O
+istifa	O
+etmesinin	O
+ardından	O
+yapılan	O
+33	O
+.	O
+
+
+2010	O
+yılında	O
+turgut	B-PER
+özal	I-PER
+ın	O
+genel	O
+başkanlık	O
+görevinden	O
+istifa	O
+etmesinin	O
+ardından	O
+yapılan	O
+33	O
+.	O
+
+
+2010	O
+yılında	O
+deniz	B-PER
+baykal	I-PER
+ın	O
+genel	O
+başkanlık	O
+görevinden	O
+istifa	O
+etmesinin	O
+ardından	O
+yapılan	O
+33	O
+.	O
+
+
+rolling	B-CW
+stone	I-CW
+,	O
+del	O
+rey	O
+in	O
+versiyonuna	O
+kederli	O
+adını	O
+verdi	O
+.	O
+
+
+alias	B-CW
+,	O
+del	O
+rey	O
+in	O
+versiyonuna	O
+kederli	O
+adını	O
+verdi	O
+.	O
+
+
+rolling	B-CW
+stone	I-CW
+,	O
+del	O
+rey	O
+in	O
+versiyonuna	O
+kederli	O
+adını	O
+verdi	O
+.	O
+
+
+rolling	B-CW
+stone	I-CW
+,	O
+del	O
+rey	O
+in	O
+versiyonuna	O
+kederli	O
+adını	O
+verdi	O
+.	O
+
+
+rolling	B-CW
+stone	I-CW
+,	O
+del	O
+rey	O
+in	O
+versiyonuna	O
+kederli	O
+adını	O
+verdi	O
+.	O
+
+
+yani	O
+,	O
+orijinal	O
+htc	B-PROD
+touch	I-PROD
+ın	O
+güncellenmesi	O
+gibidir	O
+.	O
+
+
+yani	O
+,	O
+orijinal	O
+htc	B-PROD
+touch	I-PROD
+ın	O
+güncellenmesi	O
+gibidir	O
+.	O
+
+
+yani	O
+,	O
+orijinal	O
+lagman	B-PROD
+ın	O
+güncellenmesi	O
+gibidir	O
+.	O
+
+
+yani	O
+,	O
+orijinal	O
+hazır	B-PROD
+yemek	I-PROD
+ın	O
+güncellenmesi	O
+gibidir	O
+.	O
+
+
+yani	O
+,	O
+orijinal	O
+htc	B-PROD
+touch	I-PROD
+ın	O
+güncellenmesi	O
+gibidir	O
+.	O
+
+
+motor	O
+olarak	O
+911	B-PROD
+modelinden	O
+alışılagelen	O
+2000	O
+cm3	O
+hacminde	O
+6	O
+silindirli	O
+gücünde	O
+veya	O
+2200	O
+cm3	O
+hacminde	O
+8	O
+silindirli	O
+gücünde	O
+üniteler	O
+kullanıldı	O
+.	O
+
+
+motor	O
+olarak	O
+911	B-PROD
+modelinden	O
+alışılagelen	O
+2000	O
+cm3	O
+hacminde	O
+6	O
+silindirli	O
+gücünde	O
+veya	O
+2200	O
+cm3	O
+hacminde	O
+8	O
+silindirli	O
+gücünde	O
+üniteler	O
+kullanıldı	O
+.	O
+
+
+motor	O
+olarak	O
+tramvay	B-PROD
+modelinden	O
+alışılagelen	O
+2000	O
+cm3	O
+hacminde	O
+6	O
+silindirli	O
+gücünde	O
+veya	O
+2200	O
+cm3	O
+hacminde	O
+8	O
+silindirli	O
+gücünde	O
+üniteler	O
+kullanıldı	O
+.	O
+
+
+motor	O
+olarak	O
+911	B-PROD
+modelinden	O
+alışılagelen	O
+2000	O
+cm3	O
+hacminde	O
+6	O
+silindirli	O
+gücünde	O
+veya	O
+2200	O
+cm3	O
+hacminde	O
+8	O
+silindirli	O
+gücünde	O
+üniteler	O
+kullanıldı	O
+.	O
+
+
+motor	O
+olarak	O
+911	B-PROD
+modelinden	O
+alışılagelen	O
+2000	O
+cm3	O
+hacminde	O
+6	O
+silindirli	O
+gücünde	O
+veya	O
+2200	O
+cm3	O
+hacminde	O
+8	O
+silindirli	O
+gücünde	O
+üniteler	O
+kullanıldı	O
+.	O
+
+
+mayıs	O
+2006	O
+da	O
+cnn	B-CORP
+türk	I-CORP
+e	O
+geçip	O
+kanalın	O
+spor	O
+servisinde	O
+çalıştı	O
+ve	O
+hafta	O
+sonu	O
+spor	O
+haberlerini	O
+sundu	O
+.	O
+
+
+mayıs	O
+2006	O
+da	O
+cnn	B-CORP
+türk	I-CORP
+e	O
+geçip	O
+kanalın	O
+spor	O
+servisinde	O
+çalıştı	O
+ve	O
+hafta	O
+sonu	O
+spor	O
+haberlerini	O
+sundu	O
+.	O
+
+
+mayıs	O
+2006	O
+da	O
+cnn	B-CORP
+türk	I-CORP
+e	O
+geçip	O
+kanalın	O
+spor	O
+servisinde	O
+çalıştı	O
+ve	O
+hafta	O
+sonu	O
+spor	O
+haberlerini	O
+sundu	O
+.	O
+
+
+mayıs	O
+2006	O
+da	O
+cnn	B-CORP
+türk	I-CORP
+e	O
+geçip	O
+kanalın	O
+spor	O
+servisinde	O
+çalıştı	O
+ve	O
+hafta	O
+sonu	O
+spor	O
+haberlerini	O
+sundu	O
+.	O
+
+
+mayıs	O
+2006	O
+da	O
+cnn	B-CORP
+türk	I-CORP
+e	O
+geçip	O
+kanalın	O
+spor	O
+servisinde	O
+çalıştı	O
+ve	O
+hafta	O
+sonu	O
+spor	O
+haberlerini	O
+sundu	O
+.	O
+
+
+ağustos	O
+(	O
+menenh	O
+nok	O
+’	O
+et	O
+’on	O
+’	O
+dedaaghee	O
+)	O
+ayında	O
+ördek	B-PROD
+ve	O
+diğer	O
+göçmen	O
+sukuşlarının	O
+güneye	O
+göç	O
+hareketi	O
+başlar	O
+.	O
+
+
+ağustos	O
+(	O
+menenh	O
+nok	O
+’	O
+et	O
+’on	O
+’	O
+dedaaghee	O
+)	O
+ayında	O
+ördek	B-PROD
+ve	O
+diğer	O
+göçmen	O
+sukuşlarının	O
+güneye	O
+göç	O
+hareketi	O
+başlar	O
+.	O
+
+
+ağustos	O
+(	O
+menenh	O
+nok	O
+’	O
+et	O
+’on	O
+’	O
+dedaaghee	O
+)	O
+ayında	O
+ördek	B-PROD
+ve	O
+diğer	O
+göçmen	O
+sukuşlarının	O
+güneye	O
+göç	O
+hareketi	O
+başlar	O
+.	O
+
+
+ağustos	O
+(	O
+menenh	O
+nok	O
+’	O
+et	O
+’on	O
+’	O
+dedaaghee	O
+)	O
+ayında	O
+ördek	B-PROD
+ve	O
+diğer	O
+göçmen	O
+sukuşlarının	O
+güneye	O
+göç	O
+hareketi	O
+başlar	O
+.	O
+
+
+ağustos	O
+(	O
+menenh	O
+nok	O
+’	O
+et	O
+’on	O
+’	O
+dedaaghee	O
+)	O
+ayında	O
+nintendo	B-PROD
+64	I-PROD
+ve	O
+diğer	O
+göçmen	O
+sukuşlarının	O
+güneye	O
+göç	O
+hareketi	O
+başlar	O
+.	O
+
+
+bademli	O
+,	O
+boğazkale	B-LOC
+ilinin	O
+eğirdir	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köy	B-LOC
+.	O
+
+
+bademli	O
+,	O
+lucca	B-LOC
+ili	I-LOC
+ilinin	O
+eğirdir	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köy	B-LOC
+.	O
+
+
+bademli	O
+,	O
+isparta	B-LOC
+ilinin	O
+eğirdir	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+güney	B-LOC
+kore	I-LOC
+.	O
+
+
+bademli	O
+,	O
+isparta	B-LOC
+ilinin	O
+iwate	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köy	B-LOC
+.	O
+
+
+bademli	O
+,	O
+marmaray	B-LOC
+ilinin	O
+eğirdir	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+saksonya	B-LOC
+.	O
+
+
+1944	O
+yılında	O
+i̇stanbul	B-GRP
+teknik	I-GRP
+üniversitesi	I-GRP
+mimarlık	O
+bölümü	O
+’	O
+nden	O
+mimar	O
+olarak	O
+mezun	O
+oldu	O
+.	O
+
+
+1944	O
+yılında	O
+i̇stanbul	B-GRP
+teknik	I-GRP
+üniversitesi	I-GRP
+mimarlık	O
+bölümü	O
+’	O
+nden	O
+mimar	O
+olarak	O
+mezun	O
+oldu	O
+.	O
+
+
+1944	O
+yılında	O
+i̇stanbul	B-GRP
+teknik	I-GRP
+üniversitesi	I-GRP
+mimarlık	O
+bölümü	O
+’	O
+nden	O
+mimar	O
+olarak	O
+mezun	O
+oldu	O
+.	O
+
+
+1944	O
+yılında	O
+i̇stanbul	B-GRP
+teknik	I-GRP
+üniversitesi	I-GRP
+mimarlık	O
+bölümü	O
+’	O
+nden	O
+mimar	O
+olarak	O
+mezun	O
+oldu	O
+.	O
+
+
+1944	O
+yılında	O
+chelsea	B-GRP
+fc	I-GRP
+mimarlık	O
+bölümü	O
+’	O
+nden	O
+mimar	O
+olarak	O
+mezun	O
+oldu	O
+.	O
+
+
+klip	O
+ise	O
+ilk	O
+kez	O
+,	O
+kanal	B-CORP
+d	I-CORP
+ana	O
+haber	O
+bülteninde	O
+gösterildi	O
+.	O
+
+
+klip	O
+ise	O
+ilk	O
+kez	O
+,	O
+airbus	B-CORP
+ana	O
+haber	O
+bülteninde	O
+gösterildi	O
+.	O
+
+
+klip	O
+ise	O
+ilk	O
+kez	O
+,	O
+kanal	B-CORP
+d	I-CORP
+ana	O
+haber	O
+bülteninde	O
+gösterildi	O
+.	O
+
+
+klip	O
+ise	O
+ilk	O
+kez	O
+,	O
+kanal	B-CORP
+d	I-CORP
+ana	O
+haber	O
+bülteninde	O
+gösterildi	O
+.	O
+
+
+klip	O
+ise	O
+ilk	O
+kez	O
+,	O
+vice	B-CORP
+ana	O
+haber	O
+bülteninde	O
+gösterildi	O
+.	O
+
+
+ayrıca	O
+bu	O
+yeni	O
+gelecekteki	O
+ortam	O
+philip	B-PER
+k.	I-PER
+dick	I-PER
+e	O
+ait	O
+everybody's	B-CW
+fool	I-CW
+kitabında	O
+geçen	O
+havaya	O
+uymaktadır	O
+.	O
+
+
+ayrıca	O
+bu	O
+yeni	O
+gelecekteki	O
+ortam	O
+paul	B-PER
+dirac	I-PER
+e	O
+ait	O
+android'ler	B-CW
+elektrikli	I-CW
+koyun	I-CW
+düşler	I-CW
+mi?	I-CW
+kitabında	O
+geçen	O
+havaya	O
+uymaktadır	O
+.	O
+
+
+ayrıca	O
+bu	O
+yeni	O
+gelecekteki	O
+ortam	O
+megyn	B-PER
+kelly	I-PER
+e	O
+ait	O
+android'ler	B-CW
+elektrikli	I-CW
+koyun	I-CW
+düşler	I-CW
+mi?	I-CW
+kitabında	O
+geçen	O
+havaya	O
+uymaktadır	O
+.	O
+
+
+ayrıca	O
+bu	O
+yeni	O
+gelecekteki	O
+ortam	O
+philip	B-PER
+k.	I-PER
+dick	I-PER
+e	O
+ait	O
+everybody's	B-CW
+fool	I-CW
+kitabında	O
+geçen	O
+havaya	O
+uymaktadır	O
+.	O
+
+
+ayrıca	O
+bu	O
+yeni	O
+gelecekteki	O
+ortam	O
+philip	B-PER
+k.	I-PER
+dick	I-PER
+e	O
+ait	O
+android'ler	B-CW
+elektrikli	I-CW
+koyun	I-CW
+düşler	I-CW
+mi?	I-CW
+kitabında	O
+geçen	O
+havaya	O
+uymaktadır	O
+.	O
+
+
+kürkçü	O
+,	O
+çorum	B-LOC
+ilinin	O
+tutak	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köy	B-LOC
+.	O
+
+
+kürkçü	O
+,	O
+kilise'	B-LOC
+ilinin	O
+alaca	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+worthington	B-LOC
+.	O
+
+
+kürkçü	O
+,	O
+eğirdir	B-LOC
+ilinin	O
+alaca	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köy	B-LOC
+.	O
+
+
+kürkçü	O
+,	O
+çorum	B-LOC
+ilinin	O
+alaca	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+saksonya	B-LOC
+.	O
+
+
+kürkçü	O
+,	O
+bangladeş	B-LOC
+hükümeti	I-LOC
+planlama	I-LOC
+komisyonu	I-LOC
+üyeliği	I-LOC
+ilinin	O
+alaca	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+yozgat	B-LOC
+.	O
+
+
+danimarka	B-LOC
+ekonomisi	O
+,	O
+rahat	O
+yaşam	O
+ölçünlerine	O
+,	O
+yüksek	O
+düzeyde	O
+devlet	O
+hizmetleri	O
+ve	O
+aktarımları	O
+ve	O
+dış	O
+ticarete	O
+yüksek	O
+bağımlılığa	O
+sahip	O
+çağdaş	O
+bir	O
+piyasa	O
+ekonomisidir	O
+.	O
+
+
+danimarka	B-LOC
+ekonomisi	O
+,	O
+rahat	O
+yaşam	O
+ölçünlerine	O
+,	O
+yüksek	O
+düzeyde	O
+devlet	O
+hizmetleri	O
+ve	O
+aktarımları	O
+ve	O
+dış	O
+ticarete	O
+yüksek	O
+bağımlılığa	O
+sahip	O
+çağdaş	O
+bir	O
+piyasa	O
+ekonomisidir	O
+.	O
+
+
+gazze	B-LOC
+ekonomisi	O
+,	O
+rahat	O
+yaşam	O
+ölçünlerine	O
+,	O
+yüksek	O
+düzeyde	O
+devlet	O
+hizmetleri	O
+ve	O
+aktarımları	O
+ve	O
+dış	O
+ticarete	O
+yüksek	O
+bağımlılığa	O
+sahip	O
+çağdaş	O
+bir	O
+piyasa	O
+ekonomisidir	O
+.	O
+
+
+danimarka	B-LOC
+ekonomisi	O
+,	O
+rahat	O
+yaşam	O
+ölçünlerine	O
+,	O
+yüksek	O
+düzeyde	O
+devlet	O
+hizmetleri	O
+ve	O
+aktarımları	O
+ve	O
+dış	O
+ticarete	O
+yüksek	O
+bağımlılığa	O
+sahip	O
+çağdaş	O
+bir	O
+piyasa	O
+ekonomisidir	O
+.	O
+
+
+danimarka	B-LOC
+ekonomisi	O
+,	O
+rahat	O
+yaşam	O
+ölçünlerine	O
+,	O
+yüksek	O
+düzeyde	O
+devlet	O
+hizmetleri	O
+ve	O
+aktarımları	O
+ve	O
+dış	O
+ticarete	O
+yüksek	O
+bağımlılığa	O
+sahip	O
+çağdaş	O
+bir	O
+piyasa	O
+ekonomisidir	O
+.	O
+
+
+kızı	O
+samira	B-PER
+mahmelbaf	I-PER
+da	O
+kendisi	O
+gibi	O
+bir	O
+sinema	O
+yönetmeni	O
+ve	O
+senaristtir	O
+.	O
+
+
+kızı	O
+samira	B-PER
+mahmelbaf	I-PER
+da	O
+kendisi	O
+gibi	O
+bir	O
+sinema	O
+yönetmeni	O
+ve	O
+senaristtir	O
+.	O
+
+
+kızı	O
+paul	B-PER
+dirac	I-PER
+da	O
+kendisi	O
+gibi	O
+bir	O
+sinema	O
+yönetmeni	O
+ve	O
+senaristtir	O
+.	O
+
+
+kızı	O
+jacob	B-PER
+bronowski	I-PER
+da	O
+kendisi	O
+gibi	O
+bir	O
+sinema	O
+yönetmeni	O
+ve	O
+senaristtir	O
+.	O
+
+
+kızı	O
+samira	B-PER
+mahmelbaf	I-PER
+da	O
+kendisi	O
+gibi	O
+bir	O
+sinema	O
+yönetmeni	O
+ve	O
+senaristtir	O
+.	O
+
+
+1917	O
+amerika	B-LOC
+birleşik	I-LOC
+devletleri	I-LOC
+nin	O
+savaşa	O
+iştiraki	O
+ve	O
+almanya	B-LOC
+ya	O
+savaş	O
+ilanı	O
+(	O
+25	O
+mart	O
+)	O
+
+
+1917	O
+amerika	B-LOC
+birleşik	I-LOC
+devletleri	I-LOC
+nin	O
+savaşa	O
+iştiraki	O
+ve	O
+almanya	B-LOC
+ya	O
+savaş	O
+ilanı	O
+(	O
+25	O
+mart	O
+)	O
+
+
+1917	O
+amerika	B-LOC
+birleşik	I-LOC
+devletleri	I-LOC
+nin	O
+savaşa	O
+iştiraki	O
+ve	O
+almanya	B-LOC
+ya	O
+savaş	O
+ilanı	O
+(	O
+25	O
+mart	O
+)	O
+
+
+1917	O
+amerika	B-LOC
+birleşik	I-LOC
+devletleri	I-LOC
+nin	O
+savaşa	O
+iştiraki	O
+ve	O
+almanya	B-LOC
+ya	O
+savaş	O
+ilanı	O
+(	O
+25	O
+mart	O
+)	O
+
+
+1917	O
+amerika	B-LOC
+birleşik	I-LOC
+devletleri	I-LOC
+nin	O
+savaşa	O
+iştiraki	O
+ve	O
+almanya	B-LOC
+ya	O
+savaş	O
+ilanı	O
+(	O
+25	O
+mart	O
+)	O
+
+
+vice	B-CORP
+ise	O
+şarkıcıdan	O
+ciddi	O
+pop	O
+yıldızı	O
+/	O
+kadın	O
+/	O
+seks	O
+sembolü	O
+şeklinde	O
+bahsetti	O
+.	O
+
+
+vice	B-CORP
+ise	O
+şarkıcıdan	O
+ciddi	O
+pop	O
+yıldızı	O
+/	O
+kadın	O
+/	O
+seks	O
+sembolü	O
+şeklinde	O
+bahsetti	O
+.	O
+
+
+dolby	B-CORP
+laboratories	I-CORP
+ise	O
+şarkıcıdan	O
+ciddi	O
+pop	O
+yıldızı	O
+/	O
+kadın	O
+/	O
+seks	O
+sembolü	O
+şeklinde	O
+bahsetti	O
+.	O
+
+
+vice	B-CORP
+ise	O
+şarkıcıdan	O
+ciddi	O
+pop	O
+yıldızı	O
+/	O
+kadın	O
+/	O
+seks	O
+sembolü	O
+şeklinde	O
+bahsetti	O
+.	O
+
+
+vice	B-CORP
+ise	O
+şarkıcıdan	O
+ciddi	O
+pop	O
+yıldızı	O
+/	O
+kadın	O
+/	O
+seks	O
+sembolü	O
+şeklinde	O
+bahsetti	O
+.	O
+
+
+benim	O
+adım	O
+kerim	O
+;	O
+yılmaz	B-PER
+güney	I-PER
+in	O
+1967	O
+yılında	O
+yönettiği	O
+macera	O
+türünde	O
+filmdir	O
+.	O
+
+
+benim	O
+adım	O
+kerim	O
+;	O
+yılmaz	B-PER
+güney	I-PER
+in	O
+1967	O
+yılında	O
+yönettiği	O
+macera	O
+türünde	O
+filmdir	O
+.	O
+
+
+benim	O
+adım	O
+kerim	O
+;	O
+yılmaz	B-PER
+güney	I-PER
+in	O
+1967	O
+yılında	O
+yönettiği	O
+macera	O
+türünde	O
+filmdir	O
+.	O
+
+
+benim	O
+adım	O
+kerim	O
+;	O
+yılmaz	B-PER
+güney	I-PER
+in	O
+1967	O
+yılında	O
+yönettiği	O
+macera	O
+türünde	O
+filmdir	O
+.	O
+
+
+benim	O
+adım	O
+kerim	O
+;	O
+yılmaz	B-PER
+güney	I-PER
+in	O
+1967	O
+yılında	O
+yönettiği	O
+macera	O
+türünde	O
+filmdir	O
+.	O
+
+
+film	O
+,	O
+empire	B-CW
+dergisi	O
+tarafından	O
+2008	O
+yılında	O
+hazırlanan	O
+gelmiş	O
+geçmiş	O
+en	O
+iyi	O
+500	O
+film	O
+listesine	O
+de	O
+girmiştir	O
+.	O
+
+
+film	O
+,	O
+empire	B-CW
+dergisi	O
+tarafından	O
+2008	O
+yılında	O
+hazırlanan	O
+gelmiş	O
+geçmiş	O
+en	O
+iyi	O
+500	O
+film	O
+listesine	O
+de	O
+girmiştir	O
+.	O
+
+
+film	O
+,	O
+empire	B-CW
+dergisi	O
+tarafından	O
+2008	O
+yılında	O
+hazırlanan	O
+gelmiş	O
+geçmiş	O
+en	O
+iyi	O
+500	O
+film	O
+listesine	O
+de	O
+girmiştir	O
+.	O
+
+
+film	O
+,	O
+empire	B-CW
+dergisi	O
+tarafından	O
+2008	O
+yılında	O
+hazırlanan	O
+gelmiş	O
+geçmiş	O
+en	O
+iyi	O
+500	O
+film	O
+listesine	O
+de	O
+girmiştir	O
+.	O
+
+
+film	O
+,	O
+nothing	B-CW
+else	I-CW
+matters	I-CW
+dergisi	O
+tarafından	O
+2008	O
+yılında	O
+hazırlanan	O
+gelmiş	O
+geçmiş	O
+en	O
+iyi	O
+500	O
+film	O
+listesine	O
+de	O
+girmiştir	O
+.	O
+
+
+esence	O
+,	O
+erzincan	B-LOC
+ilinin	O
+kemaliye	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köy	B-LOC
+.	O
+
+
+esence	O
+,	O
+erzincan	B-LOC
+ilinin	O
+büyük	B-LOC
+saray	I-LOC
+mozaikleri	I-LOC
+müzesi	I-LOC
+ilçesine	O
+bağlı	O
+bir	O
+alaca	B-LOC
+.	O
+
+
+esence	O
+,	O
+erzincan	B-LOC
+ilinin	O
+amerika	B-LOC
+birleşik	I-LOC
+devletleri	I-LOC
+ilçesine	O
+bağlı	O
+bir	O
+orta	B-LOC
+makedonya	I-LOC
+bölgesi	I-LOC
+.	O
+
+
+esence	O
+,	O
+erzincan	B-LOC
+ilinin	O
+kemaliye	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köy	B-LOC
+.	O
+
+
+esence	O
+,	O
+i̇srail	B-LOC
+ilinin	O
+kemaliye	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köy	B-LOC
+.	O
+
+
+namık	B-PER
+kemal	I-PER
+strasbourg	B-GRP
+2011	O
+12	O
+
+
+olcay	B-PER
+şahan	I-PER
+1.	B-GRP
+fc	I-GRP
+kaiserslautern	I-GRP
+2011	O
+12	O
+
+
+olcay	B-PER
+şahan	I-PER
+1.	B-GRP
+fc	I-GRP
+kaiserslautern	I-GRP
+2011	O
+12	O
+
+
+xiii.	B-PER
+louis	I-PER
+1.	B-GRP
+fc	I-GRP
+kaiserslautern	I-GRP
+2011	O
+12	O
+
+
+michael	B-PER
+richards	I-PER
+lecce	B-GRP
+2011	O
+12	O
+
+
+1955	O
+yılında	O
+ted	B-GRP
+ankara	I-GRP
+kolejliler	I-GRP
+takımında	O
+basketbola	O
+başladı	O
+.	O
+
+
+1955	O
+yılında	O
+ted	B-GRP
+ankara	I-GRP
+kolejliler	I-GRP
+takımında	O
+basketbola	O
+başladı	O
+.	O
+
+
+1955	O
+yılında	O
+ted	B-GRP
+ankara	I-GRP
+kolejliler	I-GRP
+takımında	O
+basketbola	O
+başladı	O
+.	O
+
+
+1955	O
+yılında	O
+ted	B-GRP
+ankara	I-GRP
+kolejliler	I-GRP
+takımında	O
+basketbola	O
+başladı	O
+.	O
+
+
+1955	O
+yılında	O
+ted	B-GRP
+ankara	I-GRP
+kolejliler	I-GRP
+takımında	O
+basketbola	O
+başladı	O
+.	O
+
+
+örneğin	O
+,	O
+ses	O
+cd	B-PROD
+lerinin	O
+örnekleme	O
+hızı	O
+44100	O
+mwua	O
+örnek	O
+sayısı	O
+/	O
+sn	O
+.	O
+
+
+örneğin	O
+,	O
+ses	O
+cd	B-PROD
+lerinin	O
+örnekleme	O
+hızı	O
+44100	O
+mwua	O
+örnek	O
+sayısı	O
+/	O
+sn	O
+.	O
+
+
+örneğin	O
+,	O
+ses	O
+cd	B-PROD
+lerinin	O
+örnekleme	O
+hızı	O
+44100	O
+mwua	O
+örnek	O
+sayısı	O
+/	O
+sn	O
+.	O
+
+
+örneğin	O
+,	O
+ses	O
+cd	B-PROD
+lerinin	O
+örnekleme	O
+hızı	O
+44100	O
+mwua	O
+örnek	O
+sayısı	O
+/	O
+sn	O
+.	O
+
+
+örneğin	O
+,	O
+ses	O
+htc	B-PROD
+touch	I-PROD
+lerinin	O
+örnekleme	O
+hızı	O
+44100	O
+mwua	O
+örnek	O
+sayısı	O
+/	O
+sn	O
+.	O
+
+
+martin	B-PER
+gore	I-PER
+backing	O
+vocals	O
+,	O
+keyboard	O
+,	O
+sampler	O
+
+
+martin	B-PER
+gore	I-PER
+backing	O
+vocals	O
+,	O
+keyboard	O
+,	O
+sampler	O
+
+
+martin	B-PER
+gore	I-PER
+backing	O
+vocals	O
+,	O
+keyboard	O
+,	O
+sampler	O
+
+
+martin	B-PER
+gore	I-PER
+backing	O
+vocals	O
+,	O
+keyboard	O
+,	O
+sampler	O
+
+
+martin	B-PER
+gore	I-PER
+backing	O
+vocals	O
+,	O
+keyboard	O
+,	O
+sampler	O
+
+
+kahve	O
+üreticilerinin	O
+ilk	O
+olarak	O
+kahve	O
+çekirdeklerindeki	O
+şeker	B-PROD
+ayrıştırabilecekleri	O
+bir	O
+yıkama	O
+santrali	O
+kurmaları	O
+gerekiyordu	O
+.	O
+
+
+kahve	O
+üreticilerinin	O
+ilk	O
+olarak	O
+kahve	O
+çekirdeklerindeki	O
+şeker	B-PROD
+ayrıştırabilecekleri	O
+bir	O
+yıkama	O
+santrali	O
+kurmaları	O
+gerekiyordu	O
+.	O
+
+
+kahve	O
+üreticilerinin	O
+ilk	O
+olarak	O
+kahve	O
+çekirdeklerindeki	O
+şeker	B-PROD
+ayrıştırabilecekleri	O
+bir	O
+yıkama	O
+santrali	O
+kurmaları	O
+gerekiyordu	O
+.	O
+
+
+kahve	O
+üreticilerinin	O
+ilk	O
+olarak	O
+kahve	O
+çekirdeklerindeki	O
+şeker	B-PROD
+ayrıştırabilecekleri	O
+bir	O
+yıkama	O
+santrali	O
+kurmaları	O
+gerekiyordu	O
+.	O
+
+
+kahve	O
+üreticilerinin	O
+ilk	O
+olarak	O
+kahve	O
+çekirdeklerindeki	O
+limuzin	B-PROD
+ayrıştırabilecekleri	O
+bir	O
+yıkama	O
+santrali	O
+kurmaları	O
+gerekiyordu	O
+.	O
+
+
+mısır	O
+ordusu	O
+asi	B-LOC
+nehri	I-LOC
+vadisine	O
+girdi	O
+ve	O
+hızlı	O
+yürüyüşle	O
+14	O
+mayıs	O
+ta	O
+antakya	B-LOC
+kalesi	O
+önüne	O
+geldi	O
+.	O
+
+
+mısır	O
+ordusu	O
+asi	B-LOC
+nehri	I-LOC
+vadisine	O
+girdi	O
+ve	O
+hızlı	O
+yürüyüşle	O
+14	O
+mayıs	O
+ta	O
+ayvacık	B-LOC
+kalesi	O
+önüne	O
+geldi	O
+.	O
+
+
+mısır	O
+ordusu	O
+asi	B-LOC
+nehri	I-LOC
+vadisine	O
+girdi	O
+ve	O
+hızlı	O
+yürüyüşle	O
+14	O
+mayıs	O
+ta	O
+pordenone	B-LOC
+kalesi	O
+önüne	O
+geldi	O
+.	O
+
+
+mısır	O
+ordusu	O
+asi	B-LOC
+nehri	I-LOC
+vadisine	O
+girdi	O
+ve	O
+hızlı	O
+yürüyüşle	O
+14	O
+mayıs	O
+ta	O
+sovyetler	B-LOC
+birliği	I-LOC
+kalesi	O
+önüne	O
+geldi	O
+.	O
+
+
+mısır	O
+ordusu	O
+asi	B-LOC
+nehri	I-LOC
+vadisine	O
+girdi	O
+ve	O
+hızlı	O
+yürüyüşle	O
+14	O
+mayıs	O
+ta	O
+bangladeş	B-LOC
+hükümeti	I-LOC
+planlama	I-LOC
+komisyonu	I-LOC
+üyeliği	I-LOC
+kalesi	O
+önüne	O
+geldi	O
+.	O
+
+
+minucciano	O
+,	O
+i̇talya	B-LOC
+nın	O
+toskana	B-GRP
+bölgesine	O
+bağlı	O
+bursa	B-LOC
+bulunan	O
+bir	O
+komündür	O
+.	O
+
+
+minucciano	O
+,	O
+isparta	B-LOC
+nın	O
+toskana	B-GRP
+bölgesine	O
+bağlı	O
+lucca	B-LOC
+ili	I-LOC
+bulunan	O
+bir	O
+komündür	O
+.	O
+
+
+minucciano	O
+,	O
+i̇talya	B-LOC
+nın	O
+toskana	B-GRP
+bölgesine	O
+bağlı	O
+lucca	B-LOC
+ili	I-LOC
+bulunan	O
+bir	O
+komündür	O
+.	O
+
+
+minucciano	O
+,	O
+i̇talya	B-LOC
+nın	O
+lecce	B-GRP
+bölgesine	O
+bağlı	O
+lucca	B-LOC
+ili	I-LOC
+bulunan	O
+bir	O
+komündür	O
+.	O
+
+
+minucciano	O
+,	O
+i̇talya	B-LOC
+nın	O
+toskana	B-GRP
+bölgesine	O
+bağlı	O
+lucca	B-LOC
+ili	I-LOC
+bulunan	O
+bir	O
+komündür	O
+.	O
+
+
+playofflarda	O
+ilk	O
+turda	O
+san	B-GRP
+antonio	I-GRP
+spurs	I-GRP
+ü	O
+4	O
+1	O
+mağlup	O
+etti	O
+.	O
+
+
+playofflarda	O
+ilk	O
+turda	O
+san	B-GRP
+antonio	I-GRP
+spurs	I-GRP
+ü	O
+4	O
+1	O
+mağlup	O
+etti	O
+.	O
+
+
+playofflarda	O
+ilk	O
+turda	O
+mito	B-GRP
+hollyhock	I-GRP
+ü	O
+4	O
+1	O
+mağlup	O
+etti	O
+.	O
+
+
+playofflarda	O
+ilk	O
+turda	O
+san	B-GRP
+antonio	I-GRP
+spurs	I-GRP
+ü	O
+4	O
+1	O
+mağlup	O
+etti	O
+.	O
+
+
+playofflarda	O
+ilk	O
+turda	O
+san	B-GRP
+antonio	I-GRP
+spurs	I-GRP
+ü	O
+4	O
+1	O
+mağlup	O
+etti	O
+.	O
+
+
+woodbury	O
+sakinlerinin	O
+hapishanedeki	O
+gruba	O
+katıldığı	O
+bir	B-CW
+önceki	I-CW
+bölümdeki	I-CW
+olayların	I-CW
+üzerinden	O
+birkaç	O
+ay	O
+geçmiştir	O
+.	O
+
+
+woodbury	O
+sakinlerinin	O
+hapishanedeki	O
+gruba	O
+katıldığı	O
+windows	B-CW
+üzerinden	O
+birkaç	O
+ay	O
+geçmiştir	O
+.	O
+
+
+woodbury	O
+sakinlerinin	O
+hapishanedeki	O
+gruba	O
+katıldığı	O
+bir	B-CW
+önceki	I-CW
+bölümdeki	I-CW
+olayların	I-CW
+üzerinden	O
+birkaç	O
+ay	O
+geçmiştir	O
+.	O
+
+
+woodbury	O
+sakinlerinin	O
+hapishanedeki	O
+gruba	O
+katıldığı	O
+gerilim	B-CW
+üzerinden	O
+birkaç	O
+ay	O
+geçmiştir	O
+.	O
+
+
+woodbury	O
+sakinlerinin	O
+hapishanedeki	O
+gruba	O
+katıldığı	O
+google	B-CW
+play	I-CW
+üzerinden	O
+birkaç	O
+ay	O
+geçmiştir	O
+.	O
+
+
+1185	O
+:	O
+ii.	B-PER
+i̇saakios	I-PER
+un	O
+isyanı	O
+ve	O
+başarılı	O
+gaspı	O
+.	O
+
+
+1185	O
+:	O
+ii.	B-PER
+i̇saakios	I-PER
+un	O
+isyanı	O
+ve	O
+başarılı	O
+gaspı	O
+.	O
+
+
+1185	O
+:	O
+william	B-PER
+shakespeare'in	I-PER
+un	O
+isyanı	O
+ve	O
+başarılı	O
+gaspı	O
+.	O
+
+
+1185	O
+:	O
+ii.	B-PER
+i̇saakios	I-PER
+un	O
+isyanı	O
+ve	O
+başarılı	O
+gaspı	O
+.	O
+
+
+1185	O
+:	O
+ii.	B-PER
+i̇saakios	I-PER
+un	O
+isyanı	O
+ve	O
+başarılı	O
+gaspı	O
+.	O
+
+
+birimler	O
+,	O
+son	O
+dönemlerinde	O
+fazlaca	O
+eskimeye	O
+başlaması	O
+ve	O
+kapılarının	O
+kapanmaması	O
+gibi	O
+sorunları	O
+nedeniyle	O
+abd	B-LOC
+hattının	O
+açılmasıyla	O
+birlikte	O
+hizmet	O
+dışına	O
+çıkarıldılar	O
+.	O
+
+
+birimler	O
+,	O
+son	O
+dönemlerinde	O
+fazlaca	O
+eskimeye	O
+başlaması	O
+ve	O
+kapılarının	O
+kapanmaması	O
+gibi	O
+sorunları	O
+nedeniyle	O
+marmaray	B-LOC
+hattının	O
+açılmasıyla	O
+birlikte	O
+hizmet	O
+dışına	O
+çıkarıldılar	O
+.	O
+
+
+birimler	O
+,	O
+son	O
+dönemlerinde	O
+fazlaca	O
+eskimeye	O
+başlaması	O
+ve	O
+kapılarının	O
+kapanmaması	O
+gibi	O
+sorunları	O
+nedeniyle	O
+marmaray	B-LOC
+hattının	O
+açılmasıyla	O
+birlikte	O
+hizmet	O
+dışına	O
+çıkarıldılar	O
+.	O
+
+
+birimler	O
+,	O
+son	O
+dönemlerinde	O
+fazlaca	O
+eskimeye	O
+başlaması	O
+ve	O
+kapılarının	O
+kapanmaması	O
+gibi	O
+sorunları	O
+nedeniyle	O
+i̇talya	B-LOC
+hattının	O
+açılmasıyla	O
+birlikte	O
+hizmet	O
+dışına	O
+çıkarıldılar	O
+.	O
+
+
+birimler	O
+,	O
+son	O
+dönemlerinde	O
+fazlaca	O
+eskimeye	O
+başlaması	O
+ve	O
+kapılarının	O
+kapanmaması	O
+gibi	O
+sorunları	O
+nedeniyle	O
+marmaray	B-LOC
+hattının	O
+açılmasıyla	O
+birlikte	O
+hizmet	O
+dışına	O
+çıkarıldılar	O
+.	O
+
+
+darbe	O
+sonrası	O
+kapatılan	O
+demokrat	B-GRP
+parti	I-GRP
+siyasetçiler	O
+,	O
+siyasi	O
+çizgilerinin	O
+devamını	O
+belirtmek	O
+için	O
+dava	O
+adamı	O
+ifadesini	O
+kullanmıştır	O
+.	O
+
+
+darbe	O
+sonrası	O
+kapatılan	O
+demokrat	B-GRP
+parti	I-GRP
+siyasetçiler	O
+,	O
+siyasi	O
+çizgilerinin	O
+devamını	O
+belirtmek	O
+için	O
+dava	O
+adamı	O
+ifadesini	O
+kullanmıştır	O
+.	O
+
+
+darbe	O
+sonrası	O
+kapatılan	O
+demokrat	B-GRP
+parti	I-GRP
+siyasetçiler	O
+,	O
+siyasi	O
+çizgilerinin	O
+devamını	O
+belirtmek	O
+için	O
+dava	O
+adamı	O
+ifadesini	O
+kullanmıştır	O
+.	O
+
+
+darbe	O
+sonrası	O
+kapatılan	O
+demokrat	B-GRP
+parti	I-GRP
+siyasetçiler	O
+,	O
+siyasi	O
+çizgilerinin	O
+devamını	O
+belirtmek	O
+için	O
+dava	O
+adamı	O
+ifadesini	O
+kullanmıştır	O
+.	O
+
+
+darbe	O
+sonrası	O
+kapatılan	O
+demokrat	B-GRP
+parti	I-GRP
+siyasetçiler	O
+,	O
+siyasi	O
+çizgilerinin	O
+devamını	O
+belirtmek	O
+için	O
+dava	O
+adamı	O
+ifadesini	O
+kullanmıştır	O
+.	O
+
+
+vcr	B-PROD
+lar	O
+ticari	O
+kullanılabilir	O
+hale	O
+geldi	O
+.	O
+
+
+tramvay	B-PROD
+lar	O
+ticari	O
+kullanılabilir	O
+hale	O
+geldi	O
+.	O
+
+
+pasta	B-PROD
+lar	O
+ticari	O
+kullanılabilir	O
+hale	O
+geldi	O
+.	O
+
+
+yumurta	B-PROD
+lar	O
+ticari	O
+kullanılabilir	O
+hale	O
+geldi	O
+.	O
+
+
+vcr	B-PROD
+lar	O
+ticari	O
+kullanılabilir	O
+hale	O
+geldi	O
+.	O
+
+
+tek	O
+kişilik	O
+,	O
+çift	O
+motorlu	O
+ve	O
+çok	O
+amaçlı	O
+(	O
+multi	O
+role	O
+)	O
+olması	O
+planlanan	O
+uçağın	O
+ana	O
+yüklenicisi	O
+hindustan	B-CORP
+aeronautics	I-CORP
+limited	I-CORP
+dir	O
+.	O
+
+
+tek	O
+kişilik	O
+,	O
+çift	O
+motorlu	O
+ve	O
+çok	O
+amaçlı	O
+(	O
+multi	O
+role	O
+)	O
+olması	O
+planlanan	O
+uçağın	O
+ana	O
+yüklenicisi	O
+hindustan	B-CORP
+aeronautics	I-CORP
+limited	I-CORP
+dir	O
+.	O
+
+
+tek	O
+kişilik	O
+,	O
+çift	O
+motorlu	O
+ve	O
+çok	O
+amaçlı	O
+(	O
+multi	O
+role	O
+)	O
+olması	O
+planlanan	O
+uçağın	O
+ana	O
+yüklenicisi	O
+fox	B-CORP
+dir	O
+.	O
+
+
+tek	O
+kişilik	O
+,	O
+çift	O
+motorlu	O
+ve	O
+çok	O
+amaçlı	O
+(	O
+multi	O
+role	O
+)	O
+olması	O
+planlanan	O
+uçağın	O
+ana	O
+yüklenicisi	O
+hindustan	B-CORP
+aeronautics	I-CORP
+limited	I-CORP
+dir	O
+.	O
+
+
+tek	O
+kişilik	O
+,	O
+çift	O
+motorlu	O
+ve	O
+çok	O
+amaçlı	O
+(	O
+multi	O
+role	O
+)	O
+olması	O
+planlanan	O
+uçağın	O
+ana	O
+yüklenicisi	O
+show	B-CORP
+tv	I-CORP
+dir	O
+.	O
+
+
+bulunan	O
+mozaik	B-PROD
+çoğu	O
+büyük	B-LOC
+saray	I-LOC
+mozaikleri	I-LOC
+müzesi	I-LOC
+nde	O
+sergilenmektedir	O
+.	O
+
+
+bulunan	O
+cd	B-PROD
+çoğu	O
+büyük	B-LOC
+saray	I-LOC
+mozaikleri	I-LOC
+müzesi	I-LOC
+nde	O
+sergilenmektedir	O
+.	O
+
+
+bulunan	O
+mozaik	B-PROD
+çoğu	O
+fransa	B-LOC
+nde	O
+sergilenmektedir	O
+.	O
+
+
+bulunan	O
+mozaik	B-PROD
+çoğu	O
+büyük	B-LOC
+saray	I-LOC
+mozaikleri	I-LOC
+müzesi	I-LOC
+nde	O
+sergilenmektedir	O
+.	O
+
+
+bulunan	O
+mozaik	B-PROD
+çoğu	O
+bhutan	B-LOC
+nde	O
+sergilenmektedir	O
+.	O
+
+
+bir	O
+sit	O
+com	O
+sırasında	O
+dickinson	B-PER
+ile	O
+aralarında	O
+kavga	O
+çıktı	O
+.	O
+
+
+bir	O
+sit	O
+com	O
+sırasında	O
+michael	B-PER
+richards	I-PER
+ile	O
+aralarında	O
+kavga	O
+çıktı	O
+.	O
+
+
+bir	O
+sit	O
+com	O
+sırasında	O
+michael	B-PER
+richards	I-PER
+ile	O
+aralarında	O
+kavga	O
+çıktı	O
+.	O
+
+
+bir	O
+sit	O
+com	O
+sırasında	O
+michael	B-PER
+richards	I-PER
+ile	O
+aralarında	O
+kavga	O
+çıktı	O
+.	O
+
+
+bir	O
+sit	O
+com	O
+sırasında	O
+michael	B-PER
+richards	I-PER
+ile	O
+aralarında	O
+kavga	O
+çıktı	O
+.	O
+
+
+belfast	B-LOC
+,	O
+kaliforniya	B-LOC
+da	O
+doğup	O
+büyüyen	O
+sanatçı	O
+,	O
+2007	O
+yılında	O
+jive	B-CORP
+records	I-CORP
+plak	O
+şirketi	O
+ile	O
+sözleşme	O
+yaptı	O
+.	O
+
+
+los	B-LOC
+angeles	I-LOC
+,	O
+kaliforniya	B-LOC
+da	O
+doğup	O
+büyüyen	O
+sanatçı	O
+,	O
+2007	O
+yılında	O
+nokia	B-CORP
+plak	O
+şirketi	O
+ile	O
+sözleşme	O
+yaptı	O
+.	O
+
+
+los	B-LOC
+angeles	I-LOC
+,	O
+kaliforniya	B-LOC
+da	O
+doğup	O
+büyüyen	O
+sanatçı	O
+,	O
+2007	O
+yılında	O
+jive	B-CORP
+records	I-CORP
+plak	O
+şirketi	O
+ile	O
+sözleşme	O
+yaptı	O
+.	O
+
+
+i̇srail	B-LOC
+,	O
+kaliforniya	B-LOC
+da	O
+doğup	O
+büyüyen	O
+sanatçı	O
+,	O
+2007	O
+yılında	O
+jive	B-CORP
+records	I-CORP
+plak	O
+şirketi	O
+ile	O
+sözleşme	O
+yaptı	O
+.	O
+
+
+los	B-LOC
+angeles	I-LOC
+,	O
+kaliforniya	B-LOC
+da	O
+doğup	O
+büyüyen	O
+sanatçı	O
+,	O
+2007	O
+yılında	O
+fox	B-CORP
+plak	O
+şirketi	O
+ile	O
+sözleşme	O
+yaptı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2003	O
+yılında	O
+quevilly	B-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2003	O
+yılında	O
+quevilly	B-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2003	O
+yılında	O
+quevilly	B-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2003	O
+yılında	O
+lecce	B-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2003	O
+yılında	O
+quevilly	B-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+ermenistan	O
+,	O
+bakü	B-LOC
+de	O
+gerçekleştirilen	O
+2012	B-CW
+eurovision	I-CW
+şarkı	I-CW
+yarışması	I-CW
+na	O
+katılmamıştır	O
+.	O
+
+
+ermenistan	O
+,	O
+i̇rlanda	B-LOC
+de	O
+gerçekleştirilen	O
+2012	B-CW
+eurovision	I-CW
+şarkı	I-CW
+yarışması	I-CW
+na	O
+katılmamıştır	O
+.	O
+
+
+ermenistan	O
+,	O
+bakü	B-LOC
+de	O
+gerçekleştirilen	O
+2012	B-CW
+eurovision	I-CW
+şarkı	I-CW
+yarışması	I-CW
+na	O
+katılmamıştır	O
+.	O
+
+
+ermenistan	O
+,	O
+zürih	B-LOC
+de	O
+gerçekleştirilen	O
+wwe	B-CW
+2k17	I-CW
+na	O
+katılmamıştır	O
+.	O
+
+
+ermenistan	O
+,	O
+bakü	B-LOC
+de	O
+gerçekleştirilen	O
+ölümcül	B-CW
+tuzak	I-CW
+na	O
+katılmamıştır	O
+.	O
+
+
+etkinlikte	O
+yer	O
+alan	O
+maçlar	O
+,	O
+platform	B-CW
+ve	O
+smackdown	B-CW
+brand	O
+lerinde	O
+sonucu	O
+önceden	O
+wwe	B-CORP
+tarafından	O
+belirlenen	O
+maçlar	O
+ve	O
+senaryolarla	O
+oluşturulmaktadır	O
+.	O
+
+
+etkinlikte	O
+yer	O
+alan	O
+maçlar	O
+,	O
+raw	B-CW
+ve	O
+smackdown	B-CW
+brand	O
+lerinde	O
+sonucu	O
+önceden	O
+hindustan	B-CORP
+aeronautics	I-CORP
+limited	I-CORP
+tarafından	O
+belirlenen	O
+maçlar	O
+ve	O
+senaryolarla	O
+oluşturulmaktadır	O
+.	O
+
+
+etkinlikte	O
+yer	O
+alan	O
+maçlar	O
+,	O
+raw	B-CW
+ve	O
+smackdown	B-CW
+brand	O
+lerinde	O
+sonucu	O
+önceden	O
+wwe	B-CORP
+tarafından	O
+belirlenen	O
+maçlar	O
+ve	O
+senaryolarla	O
+oluşturulmaktadır	O
+.	O
+
+
+etkinlikte	O
+yer	O
+alan	O
+maçlar	O
+,	O
+raw	B-CW
+ve	O
+smackdown	B-CW
+brand	O
+lerinde	O
+sonucu	O
+önceden	O
+wwe	B-CORP
+tarafından	O
+belirlenen	O
+maçlar	O
+ve	O
+senaryolarla	O
+oluşturulmaktadır	O
+.	O
+
+
+etkinlikte	O
+yer	O
+alan	O
+maçlar	O
+,	O
+smackdown	B-CW
+ve	O
+smackdown	B-CW
+brand	O
+lerinde	O
+sonucu	O
+önceden	O
+discovery	B-CORP
+channel	I-CORP
+tarafından	O
+belirlenen	O
+maçlar	O
+ve	O
+senaryolarla	O
+oluşturulmaktadır	O
+.	O
+
+
+alıcı	O
+cihazda	O
+uygulaması	O
+yoksa	O
+,	O
+google	B-CW
+play	I-CW
+store	O
+da	O
+uygulama	O
+sayfası	O
+açılacaktır	O
+.	O
+
+
+alıcı	O
+cihazda	O
+uygulaması	O
+yoksa	O
+,	O
+google	B-CW
+play	I-CW
+store	O
+da	O
+uygulama	O
+sayfası	O
+açılacaktır	O
+.	O
+
+
+alıcı	O
+cihazda	O
+uygulaması	O
+yoksa	O
+,	O
+google	B-CW
+play	I-CW
+store	O
+da	O
+uygulama	O
+sayfası	O
+açılacaktır	O
+.	O
+
+
+alıcı	O
+cihazda	O
+uygulaması	O
+yoksa	O
+,	O
+google	B-CW
+play	I-CW
+store	O
+da	O
+uygulama	O
+sayfası	O
+açılacaktır	O
+.	O
+
+
+alıcı	O
+cihazda	O
+uygulaması	O
+yoksa	O
+,	O
+google	B-CW
+play	I-CW
+store	O
+da	O
+uygulama	O
+sayfası	O
+açılacaktır	O
+.	O
+
+
+günümüzde	O
+galatasaray	B-GRP
+kadın	O
+basketbol	O
+takımı	O
+forması	O
+giymektedir	O
+.	O
+
+
+günümüzde	O
+galatasaray	B-GRP
+kadın	O
+basketbol	O
+takımı	O
+forması	O
+giymektedir	O
+.	O
+
+
+günümüzde	O
+san	B-GRP
+antonio	I-GRP
+spurs	I-GRP
+kadın	O
+basketbol	O
+takımı	O
+forması	O
+giymektedir	O
+.	O
+
+
+günümüzde	O
+galatasaray	B-GRP
+kadın	O
+basketbol	O
+takımı	O
+forması	O
+giymektedir	O
+.	O
+
+
+günümüzde	O
+komünist	B-GRP
+parti	I-GRP
+kadın	O
+basketbol	O
+takımı	O
+forması	O
+giymektedir	O
+.	O
+
+
+kariyer	O
+yönlendirmesi	O
+için	O
+kendisini	O
+8	O
+yaşında	O
+keşfeden	O
+ve	O
+öven	O
+fethi	B-PER
+gürcan	I-PER
+ı	O
+gösterdi	O
+.	O
+
+
+kariyer	O
+yönlendirmesi	O
+için	O
+kendisini	O
+8	O
+yaşında	O
+keşfeden	O
+ve	O
+öven	O
+cassandra	B-PER
+clare	I-PER
+ı	O
+gösterdi	O
+.	O
+
+
+kariyer	O
+yönlendirmesi	O
+için	O
+kendisini	O
+8	O
+yaşında	O
+keşfeden	O
+ve	O
+öven	O
+gloria	B-PER
+estefan	I-PER
+ı	O
+gösterdi	O
+.	O
+
+
+kariyer	O
+yönlendirmesi	O
+için	O
+kendisini	O
+8	O
+yaşında	O
+keşfeden	O
+ve	O
+öven	O
+gloria	B-PER
+estefan	I-PER
+ı	O
+gösterdi	O
+.	O
+
+
+kariyer	O
+yönlendirmesi	O
+için	O
+kendisini	O
+8	O
+yaşında	O
+keşfeden	O
+ve	O
+öven	O
+türk	B-PER
+ı	O
+gösterdi	O
+.	O
+
+
+bu	O
+cumhuriyet	O
+,	O
+1922	O
+yılında	O
+antalya	B-LOC
+ne	O
+katıldı	O
+.	O
+
+
+bu	O
+cumhuriyet	O
+,	O
+1922	O
+yılında	O
+sovyetler	B-LOC
+birliği	I-LOC
+ne	O
+katıldı	O
+.	O
+
+
+bu	O
+cumhuriyet	O
+,	O
+1922	O
+yılında	O
+sovyetler	B-LOC
+birliği	I-LOC
+ne	O
+katıldı	O
+.	O
+
+
+bu	O
+cumhuriyet	O
+,	O
+1922	O
+yılında	O
+sovyetler	B-LOC
+birliği	I-LOC
+ne	O
+katıldı	O
+.	O
+
+
+bu	O
+cumhuriyet	O
+,	O
+1922	O
+yılında	O
+sovyetler	B-LOC
+birliği	I-LOC
+ne	O
+katıldı	O
+.	O
+
+
+en	O
+önemli	O
+özelliği	O
+microsoft	B-PROD
+lumia	I-PROD
+540	I-PROD
+çok	O
+uzun	O
+kuyruklara	O
+sahip	O
+olmasıdır	O
+.	O
+
+
+en	O
+önemli	O
+özelliği	O
+horoz	B-PROD
+çok	O
+uzun	O
+kuyruklara	O
+sahip	O
+olmasıdır	O
+.	O
+
+
+en	O
+önemli	O
+özelliği	O
+hazır	B-PROD
+yemek	I-PROD
+çok	O
+uzun	O
+kuyruklara	O
+sahip	O
+olmasıdır	O
+.	O
+
+
+en	O
+önemli	O
+özelliği	O
+horoz	B-PROD
+çok	O
+uzun	O
+kuyruklara	O
+sahip	O
+olmasıdır	O
+.	O
+
+
+en	O
+önemli	O
+özelliği	O
+horoz	B-PROD
+çok	O
+uzun	O
+kuyruklara	O
+sahip	O
+olmasıdır	O
+.	O
+
+
+sirke	B-PROD
+modelin	O
+yerine	O
+geldi	O
+ve	O
+139	O
+dolara	O
+satışa	O
+sunuldu	O
+.	O
+
+
+microsoft	B-PROD
+lumia	I-PROD
+540	I-PROD
+modelin	O
+yerine	O
+geldi	O
+ve	O
+139	O
+dolara	O
+satışa	O
+sunuldu	O
+.	O
+
+
+yemek	B-PROD
+modelin	O
+yerine	O
+geldi	O
+ve	O
+139	O
+dolara	O
+satışa	O
+sunuldu	O
+.	O
+
+
+microsoft	B-PROD
+lumia	I-PROD
+540	I-PROD
+modelin	O
+yerine	O
+geldi	O
+ve	O
+139	O
+dolara	O
+satışa	O
+sunuldu	O
+.	O
+
+
+tornavida	B-PROD
+modelin	O
+yerine	O
+geldi	O
+ve	O
+139	O
+dolara	O
+satışa	O
+sunuldu	O
+.	O
+
+
+bliss	O
+,	O
+ilk	O
+kez	O
+wwe	B-CW
+2k17	I-CW
+oyununda	O
+görünmüştür	O
+.	O
+
+
+bliss	O
+,	O
+ilk	O
+kez	O
+wwe	B-CW
+2k17	I-CW
+oyununda	O
+görünmüştür	O
+.	O
+
+
+bliss	O
+,	O
+ilk	O
+kez	O
+yığınlar	B-CW
+oyununda	O
+görünmüştür	O
+.	O
+
+
+bliss	O
+,	O
+ilk	O
+kez	O
+tek	B-CW
+oyunculu	I-CW
+oyununda	O
+görünmüştür	O
+.	O
+
+
+bliss	O
+,	O
+ilk	O
+kez	O
+wwe	B-CW
+2k17	I-CW
+oyununda	O
+görünmüştür	O
+.	O
+
+
+otel	B-CORP
+şirketinin	O
+microsoft	B-CORP
+mobile	I-CORP
+bölümü	O
+tarafından	O
+ppl	B-CORP
+olarak	O
+markalandı	O
+.	O
+
+
+microsoft	B-CORP
+şirketinin	O
+microsoft	B-CORP
+mobile	I-CORP
+bölümü	O
+tarafından	O
+nokia	B-CORP
+olarak	O
+markalandı	O
+.	O
+
+
+microsoft	B-CORP
+şirketinin	O
+microsoft	B-CORP
+mobile	I-CORP
+bölümü	O
+tarafından	O
+show	B-CORP
+tv	I-CORP
+olarak	O
+markalandı	O
+.	O
+
+
+microsoft	B-CORP
+şirketinin	O
+hindustan	B-CORP
+aeronautics	I-CORP
+limited	I-CORP
+bölümü	O
+tarafından	O
+rolls-royce	B-CORP
+olarak	O
+markalandı	O
+.	O
+
+
+rotten	B-CORP
+tomatoes'te	I-CORP
+şirketinin	O
+microsoft	B-CORP
+mobile	I-CORP
+bölümü	O
+tarafından	O
+nokia	B-CORP
+olarak	O
+markalandı	O
+.	O
+
+
+2006	O
+new	B-GRP
+jersey	I-GRP
+devils	I-GRP
+(	O
+46	O
+–	O
+27	O
+–	O
+9	O
+,	O
+101	O
+puan	O
+)	O
+
+
+2006	O
+new	B-GRP
+jersey	I-GRP
+devils	I-GRP
+(	O
+46	O
+–	O
+27	O
+–	O
+9	O
+,	O
+101	O
+puan	O
+)	O
+
+
+2006	O
+new	B-GRP
+jersey	I-GRP
+devils	I-GRP
+(	O
+46	O
+–	O
+27	O
+–	O
+9	O
+,	O
+101	O
+puan	O
+)	O
+
+
+2006	O
+new	B-GRP
+jersey	I-GRP
+devils	I-GRP
+(	O
+46	O
+–	O
+27	O
+–	O
+9	O
+,	O
+101	O
+puan	O
+)	O
+
+
+2006	O
+new	B-GRP
+jersey	I-GRP
+devils	I-GRP
+(	O
+46	O
+–	O
+27	O
+–	O
+9	O
+,	O
+101	O
+puan	O
+)	O
+
+
+yumurta	B-PROD
+oval	O
+şeklinde	O
+0.3	O
+mm	O
+boyda	O
+ve	O
+beyaz	O
+renktedir	O
+.	O
+
+
+yumurta	B-PROD
+oval	O
+şeklinde	O
+0.3	O
+mm	O
+boyda	O
+ve	O
+beyaz	O
+renktedir	O
+.	O
+
+
+battaniye	B-PROD
+oval	O
+şeklinde	O
+0.3	O
+mm	O
+boyda	O
+ve	O
+beyaz	O
+renktedir	O
+.	O
+
+
+yumurta	B-PROD
+oval	O
+şeklinde	O
+0.3	O
+mm	O
+boyda	O
+ve	O
+beyaz	O
+renktedir	O
+.	O
+
+
+yumurta	B-PROD
+oval	O
+şeklinde	O
+0.3	O
+mm	O
+boyda	O
+ve	O
+beyaz	O
+renktedir	O
+.	O
+
+
+gülnihâl	O
+,	O
+namık	B-PER
+kemal	I-PER
+tarafından	O
+1875	O
+te	O
+yazılmış	O
+olan	O
+tiyatro	O
+oyunu	O
+,	O
+kitap	O
+.	O
+144	O
+sayfadan	O
+oluşur	O
+.	O
+
+
+gülnihâl	O
+,	O
+olcay	B-PER
+şahan	I-PER
+tarafından	O
+1875	O
+te	O
+yazılmış	O
+olan	O
+tiyatro	O
+oyunu	O
+,	O
+kitap	O
+.	O
+144	O
+sayfadan	O
+oluşur	O
+.	O
+
+
+gülnihâl	O
+,	O
+namık	B-PER
+kemal	I-PER
+tarafından	O
+1875	O
+te	O
+yazılmış	O
+olan	O
+tiyatro	O
+oyunu	O
+,	O
+kitap	O
+.	O
+144	O
+sayfadan	O
+oluşur	O
+.	O
+
+
+gülnihâl	O
+,	O
+namık	B-PER
+kemal	I-PER
+tarafından	O
+1875	O
+te	O
+yazılmış	O
+olan	O
+tiyatro	O
+oyunu	O
+,	O
+kitap	O
+.	O
+144	O
+sayfadan	O
+oluşur	O
+.	O
+
+
+gülnihâl	O
+,	O
+namık	B-PER
+kemal	I-PER
+tarafından	O
+1875	O
+te	O
+yazılmış	O
+olan	O
+tiyatro	O
+oyunu	O
+,	O
+kitap	O
+.	O
+144	O
+sayfadan	O
+oluşur	O
+.	O
+
+
+megyn	B-PER
+kelly	I-PER
+kendisine	O
+bağlı	O
+birliklerle	O
+radyonun	O
+worthington	B-LOC
+’	O
+taki	O
+verici	O
+istasyonunu	O
+ele	O
+geçirince	O
+yayın	O
+durdu	O
+.	O
+
+
+fethi	B-PER
+gürcan	I-PER
+kendisine	O
+bağlı	O
+birliklerle	O
+radyonun	O
+etimesgut	B-LOC
+’	O
+taki	O
+verici	O
+istasyonunu	O
+ele	O
+geçirince	O
+yayın	O
+durdu	O
+.	O
+
+
+fethi	B-PER
+gürcan	I-PER
+kendisine	O
+bağlı	O
+birliklerle	O
+radyonun	O
+etimesgut	B-LOC
+’	O
+taki	O
+verici	O
+istasyonunu	O
+ele	O
+geçirince	O
+yayın	O
+durdu	O
+.	O
+
+
+fethi	B-PER
+gürcan	I-PER
+kendisine	O
+bağlı	O
+birliklerle	O
+radyonun	O
+çanakkale	B-LOC
+’	O
+taki	O
+verici	O
+istasyonunu	O
+ele	O
+geçirince	O
+yayın	O
+durdu	O
+.	O
+
+
+william	B-PER
+shakespeare'in	I-PER
+kendisine	O
+bağlı	O
+birliklerle	O
+radyonun	O
+bangladeş	B-LOC
+millî	I-LOC
+eğitim	I-LOC
+komisyonu	I-LOC
+üyeliği	I-LOC
+’	O
+taki	O
+verici	O
+istasyonunu	O
+ele	O
+geçirince	O
+yayın	O
+durdu	O
+.	O
+
+
+from	O
+:	O
+1880	O
+till	O
+:	O
+1954	O
+text	O
+:	O
+charles	B-PER
+ives	I-PER
+$	O
+bold	O
+#	O
+from	O
+1874	O
+
+
+from	O
+:	O
+1880	O
+till	O
+:	O
+1954	O
+text	O
+:	O
+charles	B-PER
+ives	I-PER
+$	O
+bold	O
+#	O
+from	O
+1874	O
+
+
+from	O
+:	O
+1880	O
+till	O
+:	O
+1954	O
+text	O
+:	O
+charles	B-PER
+ives	I-PER
+$	O
+bold	O
+#	O
+from	O
+1874	O
+
+
+from	O
+:	O
+1880	O
+till	O
+:	O
+1954	O
+text	O
+:	O
+charles	B-PER
+ives	I-PER
+$	O
+bold	O
+#	O
+from	O
+1874	O
+
+
+from	O
+:	O
+1880	O
+till	O
+:	O
+1954	O
+text	O
+:	O
+namık	B-PER
+kemal	I-PER
+$	O
+bold	O
+#	O
+from	O
+1874	O
+
+
+aşağıözdek	O
+,	O
+ağrı	B-LOC
+ilinin	O
+tutak	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köydür	B-LOC
+.	O
+
+
+aşağıözdek	O
+,	O
+ağrı	B-LOC
+ilinin	O
+tutak	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köydür	B-LOC
+.	O
+
+
+aşağıözdek	O
+,	O
+ağrı	B-LOC
+ilinin	O
+tutak	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köydür	B-LOC
+.	O
+
+
+aşağıözdek	O
+,	O
+gazze	B-LOC
+ilinin	O
+tutak	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+kuzey	B-LOC
+kore'de	I-LOC
+kore	I-LOC
+.	O
+
+
+aşağıözdek	O
+,	O
+ağrı	B-LOC
+ilinin	O
+bakü	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köydür	B-LOC
+.	O
+
+
+cassandra	B-PER
+clare	I-PER
+cehennem	O
+makineleri	O
+nin	O
+,	O
+ölümcül	B-CW
+oyuncaklar	I-CW
+serisini	O
+film	O
+çekme	O
+projesine	O
+başlayan	O
+kişiler	O
+tarafından	O
+filme	O
+uyarlanacağını	O
+söylemiştir	O
+.	O
+
+
+cassandra	B-PER
+clare	I-PER
+cehennem	O
+makineleri	O
+nin	O
+,	O
+ölümcül	B-CW
+oyuncaklar	I-CW
+serisini	O
+film	O
+çekme	O
+projesine	O
+başlayan	O
+kişiler	O
+tarafından	O
+filme	O
+uyarlanacağını	O
+söylemiştir	O
+.	O
+
+
+cassandra	B-PER
+clare	I-PER
+cehennem	O
+makineleri	O
+nin	O
+,	O
+ölümcül	B-CW
+oyuncaklar	I-CW
+serisini	O
+film	O
+çekme	O
+projesine	O
+başlayan	O
+kişiler	O
+tarafından	O
+filme	O
+uyarlanacağını	O
+söylemiştir	O
+.	O
+
+
+cassandra	B-PER
+clare	I-PER
+cehennem	O
+makineleri	O
+nin	O
+,	O
+ölümcül	B-CW
+oyuncaklar	I-CW
+serisini	O
+film	O
+çekme	O
+projesine	O
+başlayan	O
+kişiler	O
+tarafından	O
+filme	O
+uyarlanacağını	O
+söylemiştir	O
+.	O
+
+
+recep	B-PER
+tayyip	I-PER
+erdoğan	I-PER
+cehennem	O
+makineleri	O
+nin	O
+,	O
+ölümcül	B-CW
+oyuncaklar	I-CW
+serisini	O
+film	O
+çekme	O
+projesine	O
+başlayan	O
+kişiler	O
+tarafından	O
+filme	O
+uyarlanacağını	O
+söylemiştir	O
+.	O
+
+
+aynı	O
+zamanda	O
+çin	O
+ve	O
+orta	O
+asya	O
+da	O
+tüketilen	O
+lagman	B-PROD
+aşına	O
+benzerlik	O
+gösterir	O
+.	O
+
+
+aynı	O
+zamanda	O
+çin	O
+ve	O
+orta	O
+asya	O
+da	O
+tüketilen	O
+lagman	B-PROD
+aşına	O
+benzerlik	O
+gösterir	O
+.	O
+
+
+aynı	O
+zamanda	O
+çin	O
+ve	O
+orta	O
+asya	O
+da	O
+tüketilen	O
+yemek	B-PROD
+aşına	O
+benzerlik	O
+gösterir	O
+.	O
+
+
+aynı	O
+zamanda	O
+çin	O
+ve	O
+orta	O
+asya	O
+da	O
+tüketilen	O
+lagman	B-PROD
+aşına	O
+benzerlik	O
+gösterir	O
+.	O
+
+
+aynı	O
+zamanda	O
+çin	O
+ve	O
+orta	O
+asya	O
+da	O
+tüketilen	O
+lagman	B-PROD
+aşına	O
+benzerlik	O
+gösterir	O
+.	O
+
+
+dizinin	O
+ilk	O
+11	O
+sezonu	O
+fox	B-CORP
+ta	O
+yayınlandı	O
+.	O
+
+
+dizinin	O
+ilk	O
+11	O
+sezonu	O
+fox	B-CORP
+ta	O
+yayınlandı	O
+.	O
+
+
+dizinin	O
+ilk	O
+11	O
+sezonu	O
+fox	B-CORP
+ta	O
+yayınlandı	O
+.	O
+
+
+dizinin	O
+ilk	O
+11	O
+sezonu	O
+fox	B-CORP
+ta	O
+yayınlandı	O
+.	O
+
+
+dizinin	O
+ilk	O
+11	O
+sezonu	O
+otel	B-CORP
+ta	O
+yayınlandı	O
+.	O
+
+
+günümüzde	O
+ise	O
+manga	B-CW
+,	O
+manga	B-CW
+dergisi	O
+,	O
+gravür	O
+dergisi	O
+,	O
+kısa	O
+öyküler	O
+ve	O
+yetişkin	O
+edebiyatı	O
+roman	B-CW
+yayını	O
+yapmaktadır	O
+.	O
+
+
+günümüzde	O
+ise	O
+manga	B-CW
+,	O
+pachinko	B-CW
+dergisi	O
+,	O
+gravür	O
+dergisi	O
+,	O
+kısa	O
+öyküler	O
+ve	O
+yetişkin	O
+edebiyatı	O
+windows	B-CW
+yayını	O
+yapmaktadır	O
+.	O
+
+
+günümüzde	O
+ise	O
+2011	B-CW
+eurovision	I-CW
+şarkı	I-CW
+yarışması	I-CW
+,	O
+pachinko	B-CW
+dergisi	O
+,	O
+gravür	O
+dergisi	O
+,	O
+kısa	O
+öyküler	O
+ve	O
+yetişkin	O
+edebiyatı	O
+roman	B-CW
+yayını	O
+yapmaktadır	O
+.	O
+
+
+günümüzde	O
+ise	O
+bir	B-CW
+önceki	I-CW
+bölümdeki	I-CW
+olayların	I-CW
+,	O
+pachinko	B-CW
+dergisi	O
+,	O
+gravür	O
+dergisi	O
+,	O
+kısa	O
+öyküler	O
+ve	O
+yetişkin	O
+edebiyatı	O
+aklı	B-CW
+havada	I-CW
+yayını	O
+yapmaktadır	O
+.	O
+
+
+günümüzde	O
+ise	O
+manga	B-CW
+,	O
+pachinko	B-CW
+dergisi	O
+,	O
+gravür	O
+dergisi	O
+,	O
+kısa	O
+öyküler	O
+ve	O
+yetişkin	O
+edebiyatı	O
+roman	B-CW
+yayını	O
+yapmaktadır	O
+.	O
+
+
+avrupa	O
+da	O
+geçirdiği	O
+bir	O
+yılın	O
+ardından	O
+abd	O
+ye	O
+dönerek	O
+harvard	B-GRP
+üniversitesi	I-GRP
+nin	O
+doktora	O
+programına	O
+kabul	O
+edildi	O
+.	O
+2002	O
+yılında	O
+astrofizik	O
+üzerine	O
+doktorasını	O
+tamamladı	O
+.	O
+
+
+avrupa	O
+da	O
+geçirdiği	O
+bir	O
+yılın	O
+ardından	O
+abd	O
+ye	O
+dönerek	O
+harvard	B-GRP
+üniversitesi	I-GRP
+nin	O
+doktora	O
+programına	O
+kabul	O
+edildi	O
+.	O
+2002	O
+yılında	O
+astrofizik	O
+üzerine	O
+doktorasını	O
+tamamladı	O
+.	O
+
+
+avrupa	O
+da	O
+geçirdiği	O
+bir	O
+yılın	O
+ardından	O
+abd	O
+ye	O
+dönerek	O
+harvard	B-GRP
+üniversitesi	I-GRP
+nin	O
+doktora	O
+programına	O
+kabul	O
+edildi	O
+.	O
+2002	O
+yılında	O
+astrofizik	O
+üzerine	O
+doktorasını	O
+tamamladı	O
+.	O
+
+
+avrupa	O
+da	O
+geçirdiği	O
+bir	O
+yılın	O
+ardından	O
+abd	O
+ye	O
+dönerek	O
+harvard	B-GRP
+üniversitesi	I-GRP
+nin	O
+doktora	O
+programına	O
+kabul	O
+edildi	O
+.	O
+2002	O
+yılında	O
+astrofizik	O
+üzerine	O
+doktorasını	O
+tamamladı	O
+.	O
+
+
+avrupa	O
+da	O
+geçirdiği	O
+bir	O
+yılın	O
+ardından	O
+abd	O
+ye	O
+dönerek	O
+lecce	B-GRP
+nin	O
+doktora	O
+programına	O
+kabul	O
+edildi	O
+.	O
+2002	O
+yılında	O
+astrofizik	O
+üzerine	O
+doktorasını	O
+tamamladı	O
+.	O
+
+
+olcay	B-PER
+şahan	I-PER
+bakü	B-LOC
+lı	O
+bts	B-GRP
+grubunun	O
+bir	O
+üyesi	O
+
+
+türk	B-PER
+güney	B-LOC
+kore	I-LOC
+lı	O
+bts	B-GRP
+grubunun	O
+bir	O
+üyesi	O
+
+
+hasan	B-PER
+cemal	I-PER
+abd	B-LOC
+lı	O
+gaziantepspor	B-GRP
+grubunun	O
+bir	O
+üyesi	O
+
+
+kurt	B-PER
+russell	I-PER
+güney	B-LOC
+kore	I-LOC
+lı	O
+brøndby	B-GRP
+if	I-GRP
+grubunun	O
+bir	O
+üyesi	O
+
+
+v	B-PER
+güney	B-LOC
+kore	I-LOC
+lı	O
+bts	B-GRP
+grubunun	O
+bir	O
+üyesi	O
+
+
+frohburg	O
+,	O
+almanya	B-LOC
+da	O
+saksonya	B-LOC
+eyaletinde	O
+yer	O
+alan	O
+bir	O
+kasabadır	O
+.	O
+
+
+frohburg	O
+,	O
+almanya	B-LOC
+da	O
+danimarka	B-LOC
+eyaletinde	O
+yer	O
+alan	O
+bir	O
+kasabadır	O
+.	O
+
+
+frohburg	O
+,	O
+galler	B-LOC
+da	O
+i̇zlanda	B-LOC
+eyaletinde	O
+yer	O
+alan	O
+bir	O
+kasabadır	O
+.	O
+
+
+frohburg	O
+,	O
+almanya	B-LOC
+da	O
+saksonya	B-LOC
+eyaletinde	O
+yer	O
+alan	O
+bir	O
+kasabadır	O
+.	O
+
+
+frohburg	O
+,	O
+almanya	B-LOC
+da	O
+saksonya	B-LOC
+eyaletinde	O
+yer	O
+alan	O
+bir	O
+kasabadır	O
+.	O
+
+
+çinko	O
+nitrat	O
+formülü	O
+zn	O
+(	O
+no3	O
+)	O
+2	O
+olan	O
+bir	O
+çinko	B-PROD
+bileşiğidir	O
+.	O
+
+
+çinko	O
+nitrat	O
+formülü	O
+zn	O
+(	O
+no3	O
+)	O
+2	O
+olan	O
+bir	O
+çinko	B-PROD
+bileşiğidir	O
+.	O
+
+
+çinko	O
+nitrat	O
+formülü	O
+zn	O
+(	O
+no3	O
+)	O
+2	O
+olan	O
+bir	O
+limuzin	B-PROD
+bileşiğidir	O
+.	O
+
+
+çinko	O
+nitrat	O
+formülü	O
+zn	O
+(	O
+no3	O
+)	O
+2	O
+olan	O
+bir	O
+tıbbi	B-PROD
+cihaz	I-PROD
+bileşiğidir	O
+.	O
+
+
+çinko	O
+nitrat	O
+formülü	O
+zn	O
+(	O
+no3	O
+)	O
+2	O
+olan	O
+bir	O
+nintendo	B-PROD
+64	I-PROD
+bileşiğidir	O
+.	O
+
+
+#	O
+nothing	B-CW
+else	I-CW
+matters	I-CW
+(	O
+hetfield	O
+,	O
+ulrich	O
+)	O
+–	O
+6	O
+:	O
+47	O
+
+
+#	O
+to	B-CW
+the	I-CW
+beautiful	I-CW
+you	I-CW
+(	O
+hetfield	O
+,	O
+ulrich	O
+)	O
+–	O
+6	O
+:	O
+47	O
+
+
+#	O
+nothing	B-CW
+else	I-CW
+matters	I-CW
+(	O
+hetfield	O
+,	O
+ulrich	O
+)	O
+–	O
+6	O
+:	O
+47	O
+
+
+#	O
+nothing	B-CW
+else	I-CW
+matters	I-CW
+(	O
+hetfield	O
+,	O
+ulrich	O
+)	O
+–	O
+6	O
+:	O
+47	O
+
+
+#	O
+like	B-CW
+drawing	I-CW
+blood	I-CW
+(	O
+hetfield	O
+,	O
+ulrich	O
+)	O
+–	O
+6	O
+:	O
+47	O
+
+
+volvo	B-CORP
+trucks	I-CORP
+,	O
+küresel	O
+bir	O
+kamyon	O
+üreticisi	O
+
+
+rotten	B-CORP
+tomatoes'te	I-CORP
+,	O
+küresel	O
+bir	O
+kamyon	O
+üreticisi	O
+
+
+wwe	B-CORP
+,	O
+küresel	O
+bir	O
+kamyon	O
+üreticisi	O
+
+
+volvo	B-CORP
+trucks	I-CORP
+,	O
+küresel	O
+bir	O
+kamyon	O
+üreticisi	O
+
+
+volvo	B-CORP
+trucks	I-CORP
+,	O
+küresel	O
+bir	O
+kamyon	O
+üreticisi	O
+
+
+oyunda	O
+tek	B-CW
+oyunculu	I-CW
+ve	O
+çok	B-CW
+oyunculu	I-CW
+modları	O
+yer	O
+almakta	O
+olup	O
+oyuna	O
+girebilmek	O
+için	O
+internet	O
+bağlantısı	O
+şarttır	O
+.	O
+
+
+oyunda	O
+tek	B-CW
+oyunculu	I-CW
+ve	O
+çok	B-CW
+oyunculu	I-CW
+modları	O
+yer	O
+almakta	O
+olup	O
+oyuna	O
+girebilmek	O
+için	O
+internet	O
+bağlantısı	O
+şarttır	O
+.	O
+
+
+oyunda	O
+tek	B-CW
+oyunculu	I-CW
+ve	O
+çok	B-CW
+oyunculu	I-CW
+modları	O
+yer	O
+almakta	O
+olup	O
+oyuna	O
+girebilmek	O
+için	O
+internet	O
+bağlantısı	O
+şarttır	O
+.	O
+
+
+oyunda	O
+tek	B-CW
+oyunculu	I-CW
+ve	O
+pachinko	B-CW
+modları	O
+yer	O
+almakta	O
+olup	O
+oyuna	O
+girebilmek	O
+için	O
+internet	O
+bağlantısı	O
+şarttır	O
+.	O
+
+
+oyunda	O
+tek	B-CW
+oyunculu	I-CW
+ve	O
+çok	B-CW
+oyunculu	I-CW
+modları	O
+yer	O
+almakta	O
+olup	O
+oyuna	O
+girebilmek	O
+için	O
+internet	O
+bağlantısı	O
+şarttır	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+1973	O
+yılında	O
+lecce	B-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+1973	O
+yılında	O
+vegalta	B-GRP
+sendai	I-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+1973	O
+yılında	O
+lecce	B-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+1973	O
+yılında	O
+lecce	B-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+1973	O
+yılında	O
+lecce	B-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+i̇lçenin	O
+nüfusu	O
+2010	O
+sayımına	O
+göre	O
+21.378	O
+dir	O
+.	O
+i̇lçenin	O
+merkezi	O
+worthington	B-LOC
+şehridir	O
+.	O
+
+
+i̇lçenin	O
+nüfusu	O
+2010	O
+sayımına	O
+göre	O
+21.378	O
+dir	O
+.	O
+i̇lçenin	O
+merkezi	O
+worthington	B-LOC
+şehridir	O
+.	O
+
+
+i̇lçenin	O
+nüfusu	O
+2010	O
+sayımına	O
+göre	O
+21.378	O
+dir	O
+.	O
+i̇lçenin	O
+merkezi	O
+kaliforniya	B-LOC
+şehridir	O
+.	O
+
+
+i̇lçenin	O
+nüfusu	O
+2010	O
+sayımına	O
+göre	O
+21.378	O
+dir	O
+.	O
+i̇lçenin	O
+merkezi	O
+worthington	B-LOC
+şehridir	O
+.	O
+
+
+i̇lçenin	O
+nüfusu	O
+2010	O
+sayımına	O
+göre	O
+21.378	O
+dir	O
+.	O
+i̇lçenin	O
+merkezi	O
+worthington	B-LOC
+şehridir	O
+.	O
+
+
+web	O
+sitesi	O
+,	O
+eklentiler	O
+için	O
+harici	O
+kurulum	O
+gerektirmeden	O
+web	O
+tarayıcı	O
+içinde	O
+3b	O
+görüntüler	O
+görüntülemek	O
+için	O
+webgl	B-CW
+teknolojisi	O
+kullanır	O
+.	O
+
+
+web	O
+sitesi	O
+,	O
+eklentiler	O
+için	O
+harici	O
+kurulum	O
+gerektirmeden	O
+web	O
+tarayıcı	O
+içinde	O
+3b	O
+görüntüler	O
+görüntülemek	O
+için	O
+webgl	B-CW
+teknolojisi	O
+kullanır	O
+.	O
+
+
+web	O
+sitesi	O
+,	O
+eklentiler	O
+için	O
+harici	O
+kurulum	O
+gerektirmeden	O
+web	O
+tarayıcı	O
+içinde	O
+3b	O
+görüntüler	O
+görüntülemek	O
+için	O
+platform	B-CW
+teknolojisi	O
+kullanır	O
+.	O
+
+
+web	O
+sitesi	O
+,	O
+eklentiler	O
+için	O
+harici	O
+kurulum	O
+gerektirmeden	O
+web	O
+tarayıcı	O
+içinde	O
+3b	O
+görüntüler	O
+görüntülemek	O
+için	O
+webgl	B-CW
+teknolojisi	O
+kullanır	O
+.	O
+
+
+web	O
+sitesi	O
+,	O
+eklentiler	O
+için	O
+harici	O
+kurulum	O
+gerektirmeden	O
+web	O
+tarayıcı	O
+içinde	O
+3b	O
+görüntüler	O
+görüntülemek	O
+için	O
+alias	B-CW
+teknolojisi	O
+kullanır	O
+.	O
+
+
+ramazan	O
+el	O
+suwayhili	O
+(	O
+1918	O
+yılında	O
+kısa	O
+süren	O
+trablusgarp	B-LOC
+cumhuriyeti'nin	I-LOC
+kurucu	O
+ortağı	O
+)	O
+
+
+ramazan	O
+el	O
+suwayhili	O
+(	O
+1918	O
+yılında	O
+kısa	O
+süren	O
+trablusgarp	B-LOC
+cumhuriyeti'nin	I-LOC
+kurucu	O
+ortağı	O
+)	O
+
+
+ramazan	O
+el	O
+suwayhili	O
+(	O
+1918	O
+yılında	O
+kısa	O
+süren	O
+trablusgarp	B-LOC
+cumhuriyeti'nin	I-LOC
+kurucu	O
+ortağı	O
+)	O
+
+
+ramazan	O
+el	O
+suwayhili	O
+(	O
+1918	O
+yılında	O
+kısa	O
+süren	O
+galler	B-LOC
+kurucu	O
+ortağı	O
+)	O
+
+
+ramazan	O
+el	O
+suwayhili	O
+(	O
+1918	O
+yılında	O
+kısa	O
+süren	O
+trablusgarp	B-LOC
+cumhuriyeti'nin	I-LOC
+kurucu	O
+ortağı	O
+)	O
+
+
+2019	O
+yılında	O
+riccardo	O
+donna	O
+nın	O
+yönettiği	O
+yazılım	B-CW
+biyografik	O
+filmi	O
+yayınlandı	O
+.	O
+
+
+2019	O
+yılında	O
+riccardo	O
+donna	O
+nın	O
+yönettiği	O
+bring	B-CW
+your	I-CW
+daughter...	I-CW
+to	I-CW
+the	I-CW
+slaughter	I-CW
+biyografik	O
+filmi	O
+yayınlandı	O
+.	O
+
+
+2019	O
+yılında	O
+riccardo	O
+donna	O
+nın	O
+yönettiği	O
+oyuncuya	B-CW
+karşı	I-CW
+oyuncu	I-CW
+biyografik	O
+filmi	O
+yayınlandı	O
+.	O
+
+
+2019	O
+yılında	O
+riccardo	O
+donna	O
+nın	O
+yönettiği	O
+io	B-CW
+sono	I-CW
+mia	I-CW
+biyografik	O
+filmi	O
+yayınlandı	O
+.	O
+
+
+2019	O
+yılında	O
+riccardo	O
+donna	O
+nın	O
+yönettiği	O
+io	B-CW
+sono	I-CW
+mia	I-CW
+biyografik	O
+filmi	O
+yayınlandı	O
+.	O
+
+
+gerilim	B-CW
+romanları	O
+arasında	O
+en	O
+çok	O
+bilinen	O
+emrah	B-PER
+karaduman	I-PER
+karakterinin	O
+yaratıcısıdır	O
+.	O
+
+
+gerilim	B-CW
+romanları	O
+arasında	O
+en	O
+çok	O
+bilinen	O
+bülent	B-PER
+ersoy	I-PER
+karakterinin	O
+yaratıcısıdır	O
+.	O
+
+
+nothing	B-CW
+else	I-CW
+matters	I-CW
+romanları	O
+arasında	O
+en	O
+çok	O
+bilinen	O
+hannibal	B-PER
+lecter	I-PER
+karakterinin	O
+yaratıcısıdır	O
+.	O
+
+
+like	B-CW
+drawing	I-CW
+blood	I-CW
+romanları	O
+arasında	O
+en	O
+çok	O
+bilinen	O
+dickinson	B-PER
+karakterinin	O
+yaratıcısıdır	O
+.	O
+
+
+adını	B-CW
+feriha	I-CW
+koydum	I-CW
+romanları	O
+arasında	O
+en	O
+çok	O
+bilinen	O
+paul	B-PER
+dirac	I-PER
+karakterinin	O
+yaratıcısıdır	O
+.	O
+
+
+karşıt	O
+madde	O
+tarihi	O
+paul	B-PER
+dirac	I-PER
+adlı	O
+genç	O
+bir	O
+fizikçinin	O
+matematiksel	O
+denkleminin	O
+garip	O
+çıkarımıyla	O
+başlar	O
+.	O
+
+
+karşıt	O
+madde	O
+tarihi	O
+roy	B-PER
+carroll	I-PER
+adlı	O
+genç	O
+bir	O
+fizikçinin	O
+matematiksel	O
+denkleminin	O
+garip	O
+çıkarımıyla	O
+başlar	O
+.	O
+
+
+karşıt	O
+madde	O
+tarihi	O
+jacob	B-PER
+bronowski	I-PER
+adlı	O
+genç	O
+bir	O
+fizikçinin	O
+matematiksel	O
+denkleminin	O
+garip	O
+çıkarımıyla	O
+başlar	O
+.	O
+
+
+karşıt	O
+madde	O
+tarihi	O
+paul	B-PER
+dirac	I-PER
+adlı	O
+genç	O
+bir	O
+fizikçinin	O
+matematiksel	O
+denkleminin	O
+garip	O
+çıkarımıyla	O
+başlar	O
+.	O
+
+
+karşıt	O
+madde	O
+tarihi	O
+paul	B-PER
+dirac	I-PER
+adlı	O
+genç	O
+bir	O
+fizikçinin	O
+matematiksel	O
+denkleminin	O
+garip	O
+çıkarımıyla	O
+başlar	O
+.	O
+
+
+daha	O
+sonra	O
+sırasıyla	O
+vegalta	B-GRP
+sendai	I-GRP
+,	O
+1.	B-GRP
+fc	I-GRP
+kaiserslautern	I-GRP
+,	O
+matsumoto	B-GRP
+yamaga	I-GRP
+fc	I-GRP
+kulüplerinde	O
+oynadı	O
+.	O
+
+
+daha	O
+sonra	O
+sırasıyla	O
+vegalta	B-GRP
+sendai	I-GRP
+,	O
+tranmere	B-GRP
+rovers	I-GRP
+,	O
+matsumoto	B-GRP
+yamaga	I-GRP
+fc	I-GRP
+kulüplerinde	O
+oynadı	O
+.	O
+
+
+daha	O
+sonra	O
+sırasıyla	O
+vegalta	B-GRP
+sendai	I-GRP
+,	O
+mito	B-GRP
+hollyhock	I-GRP
+,	O
+matsumoto	B-GRP
+yamaga	I-GRP
+fc	I-GRP
+kulüplerinde	O
+oynadı	O
+.	O
+
+
+daha	O
+sonra	O
+sırasıyla	O
+chicago	B-GRP
+bulls	I-GRP
+,	O
+chicago	B-GRP
+bulls	I-GRP
+,	O
+matsumoto	B-GRP
+yamaga	I-GRP
+fc	I-GRP
+kulüplerinde	O
+oynadı	O
+.	O
+
+
+daha	O
+sonra	O
+sırasıyla	O
+vegalta	B-GRP
+sendai	I-GRP
+,	O
+mito	B-GRP
+hollyhock	I-GRP
+,	O
+i̇stanbul	B-GRP
+güngörenspor	I-GRP
+kulüplerinde	O
+oynadı	O
+.	O
+
+
+1823	O
+te	O
+bu	O
+valilik	O
+görevinden	O
+de	O
+azledildi	O
+;	O
+vezirliği	O
+geri	O
+alındı	O
+ve	O
+i̇stanköy	B-LOC
+de	O
+ikamete	O
+memur	O
+edildi	O
+.	O
+
+
+1823	O
+te	O
+bu	O
+valilik	O
+görevinden	O
+de	O
+azledildi	O
+;	O
+vezirliği	O
+geri	O
+alındı	O
+ve	O
+kuzey	B-LOC
+kore'de	I-LOC
+kore	I-LOC
+de	O
+ikamete	O
+memur	O
+edildi	O
+.	O
+
+
+1823	O
+te	O
+bu	O
+valilik	O
+görevinden	O
+de	O
+azledildi	O
+;	O
+vezirliği	O
+geri	O
+alındı	O
+ve	O
+i̇stanköy	B-LOC
+de	O
+ikamete	O
+memur	O
+edildi	O
+.	O
+
+
+1823	O
+te	O
+bu	O
+valilik	O
+görevinden	O
+de	O
+azledildi	O
+;	O
+vezirliği	O
+geri	O
+alındı	O
+ve	O
+i̇stanköy	B-LOC
+de	O
+ikamete	O
+memur	O
+edildi	O
+.	O
+
+
+1823	O
+te	O
+bu	O
+valilik	O
+görevinden	O
+de	O
+azledildi	O
+;	O
+vezirliği	O
+geri	O
+alındı	O
+ve	O
+i̇stanköy	B-LOC
+de	O
+ikamete	O
+memur	O
+edildi	O
+.	O
+
+
+maniago	O
+,	O
+i̇talya	B-LOC
+nın	O
+sovyetler	B-LOC
+birliği	I-LOC
+ilinde	O
+bulunan	O
+bir	O
+komündür	O
+.	O
+
+
+maniago	O
+,	O
+i̇talya	B-LOC
+nın	O
+lucca	B-LOC
+ili	I-LOC
+ilinde	O
+bulunan	O
+bir	O
+komündür	O
+.	O
+
+
+maniago	O
+,	O
+i̇talya	B-LOC
+nın	O
+erzincan	B-LOC
+ilinde	O
+bulunan	O
+bir	O
+komündür	O
+.	O
+
+
+maniago	O
+,	O
+i̇talya	B-LOC
+nın	O
+pordenone	B-LOC
+ilinde	O
+bulunan	O
+bir	O
+komündür	O
+.	O
+
+
+maniago	O
+,	O
+derry	B-LOC
+nın	O
+pordenone	B-LOC
+ilinde	O
+bulunan	O
+bir	O
+komündür	O
+.	O
+
+
+sicilya	O
+asıllı	O
+hannibal	B-PER
+lecter	I-PER
+ve	O
+ünlü	O
+giuseppe	B-PER
+verdi	I-PER
+nin	O
+ilk	O
+eserleri	O
+bu	O
+opera	O
+evinde	O
+ilk	O
+defa	O
+sahnelenmişlerdir	O
+.	O
+
+
+sicilya	O
+asıllı	O
+vincenzo	B-PER
+bellini	I-PER
+ve	O
+ünlü	O
+giuseppe	B-PER
+verdi	I-PER
+nin	O
+ilk	O
+eserleri	O
+bu	O
+opera	O
+evinde	O
+ilk	O
+defa	O
+sahnelenmişlerdir	O
+.	O
+
+
+sicilya	O
+asıllı	O
+vincenzo	B-PER
+bellini	I-PER
+ve	O
+ünlü	O
+giuseppe	B-PER
+verdi	I-PER
+nin	O
+ilk	O
+eserleri	O
+bu	O
+opera	O
+evinde	O
+ilk	O
+defa	O
+sahnelenmişlerdir	O
+.	O
+
+
+sicilya	O
+asıllı	O
+giuseppe	B-PER
+verdi	I-PER
+ve	O
+ünlü	O
+giuseppe	B-PER
+verdi	I-PER
+nin	O
+ilk	O
+eserleri	O
+bu	O
+opera	O
+evinde	O
+ilk	O
+defa	O
+sahnelenmişlerdir	O
+.	O
+
+
+sicilya	O
+asıllı	O
+vincenzo	B-PER
+bellini	I-PER
+ve	O
+ünlü	O
+giuseppe	B-PER
+verdi	I-PER
+nin	O
+ilk	O
+eserleri	O
+bu	O
+opera	O
+evinde	O
+ilk	O
+defa	O
+sahnelenmişlerdir	O
+.	O
+
+
+new	O
+super	O
+mario	O
+bros	O
+.	O
+(	O
+nyū	O
+sūpā	O
+mario	O
+burazāzu	O
+)	O
+,	O
+2006	O
+yılında	O
+nintendo	B-CORP
+tarafından	O
+geliştirilen	O
+platform	B-CW
+ölümcül	B-CW
+oyuncaklar	I-CW
+.	O
+
+
+new	O
+super	O
+mario	O
+bros	O
+.	O
+(	O
+nyū	O
+sūpā	O
+mario	O
+burazāzu	O
+)	O
+,	O
+2006	O
+yılında	O
+nintendo	B-CORP
+tarafından	O
+geliştirilen	O
+platform	B-CW
+video	B-CW
+oyunu	I-CW
+.	O
+
+
+new	O
+super	O
+mario	O
+bros	O
+.	O
+(	O
+nyū	O
+sūpā	O
+mario	O
+burazāzu	O
+)	O
+,	O
+2006	O
+yılında	O
+rotten	B-CORP
+tomatoes'te	I-CORP
+tarafından	O
+geliştirilen	O
+platform	B-CW
+raw	B-CW
+.	O
+
+
+new	O
+super	O
+mario	O
+bros	O
+.	O
+(	O
+nyū	O
+sūpā	O
+mario	O
+burazāzu	O
+)	O
+,	O
+2006	O
+yılında	O
+jive	B-CORP
+records	I-CORP
+tarafından	O
+geliştirilen	O
+platform	B-CW
+edebiyat	B-CW
+.	O
+
+
+new	O
+super	O
+mario	O
+bros	O
+.	O
+(	O
+nyū	O
+sūpā	O
+mario	O
+burazāzu	O
+)	O
+,	O
+2006	O
+yılında	O
+dolby	B-CORP
+laboratories	I-CORP
+tarafından	O
+geliştirilen	O
+platform	B-CW
+video	B-CW
+oyunu	I-CW
+.	O
+
+
+amerikan	O
+oyuncak	O
+ve	O
+multimedya	O
+şirketi	O
+hindustan	B-CORP
+aeronautics	I-CORP
+limited	I-CORP
+nun	O
+yüzde	O
+yüz	O
+iştirakidir	O
+.	O
+
+
+amerikan	O
+oyuncak	O
+ve	O
+multimedya	O
+şirketi	O
+hasbro	B-CORP
+nun	O
+yüzde	O
+yüz	O
+iştirakidir	O
+.	O
+
+
+amerikan	O
+oyuncak	O
+ve	O
+multimedya	O
+şirketi	O
+hasbro	B-CORP
+nun	O
+yüzde	O
+yüz	O
+iştirakidir	O
+.	O
+
+
+amerikan	O
+oyuncak	O
+ve	O
+multimedya	O
+şirketi	O
+hasbro	B-CORP
+nun	O
+yüzde	O
+yüz	O
+iştirakidir	O
+.	O
+
+
+amerikan	O
+oyuncak	O
+ve	O
+multimedya	O
+şirketi	O
+hasbro	B-CORP
+nun	O
+yüzde	O
+yüz	O
+iştirakidir	O
+.	O
+
+
+orlando	B-GRP
+magic	I-GRP
+chicago	B-GRP
+bulls	I-GRP
+:	O
+
+
+san	B-GRP
+antonio	I-GRP
+spurs	I-GRP
+chicago	B-GRP
+bulls	I-GRP
+:	O
+
+
+komünist	B-GRP
+parti	I-GRP
+toskana	B-GRP
+:	O
+
+
+orlando	B-GRP
+magic	I-GRP
+chicago	B-GRP
+bulls	I-GRP
+:	O
+
+
+birleşmiş	B-GRP
+milletler	I-GRP
+espanyol	B-GRP
+b	I-GRP
+:	O
+
+
+daha	O
+liseyi	O
+öğretmen	O
+okulunda	O
+yatılı	O
+okuyup	O
+;	O
+gazi	B-GRP
+beden	I-GRP
+eğitimi	I-GRP
+bölümü	I-GRP
+nden	O
+mezun	O
+oldu	O
+.	O
+
+
+daha	O
+liseyi	O
+öğretmen	O
+okulunda	O
+yatılı	O
+okuyup	O
+;	O
+gazi	B-GRP
+beden	I-GRP
+eğitimi	I-GRP
+bölümü	I-GRP
+nden	O
+mezun	O
+oldu	O
+.	O
+
+
+daha	O
+liseyi	O
+öğretmen	O
+okulunda	O
+yatılı	O
+okuyup	O
+;	O
+bafta	B-GRP
+nden	O
+mezun	O
+oldu	O
+.	O
+
+
+daha	O
+liseyi	O
+öğretmen	O
+okulunda	O
+yatılı	O
+okuyup	O
+;	O
+i̇stanbul	B-GRP
+güngörenspor	I-GRP
+nden	O
+mezun	O
+oldu	O
+.	O
+
+
+daha	O
+liseyi	O
+öğretmen	O
+okulunda	O
+yatılı	O
+okuyup	O
+;	O
+fagiano	B-GRP
+okayama	I-GRP
+nden	O
+mezun	O
+oldu	O
+.	O
+
+
+tohum	B-PROD
+üç	O
+köşeli	O
+parlak	O
+ve	O
+siyahtır	O
+.	O
+
+
+tohum	B-PROD
+üç	O
+köşeli	O
+parlak	O
+ve	O
+siyahtır	O
+.	O
+
+
+tohum	B-PROD
+üç	O
+köşeli	O
+parlak	O
+ve	O
+siyahtır	O
+.	O
+
+
+tohum	B-PROD
+üç	O
+köşeli	O
+parlak	O
+ve	O
+siyahtır	O
+.	O
+
+
+tohum	B-PROD
+üç	O
+köşeli	O
+parlak	O
+ve	O
+siyahtır	O
+.	O
+
+
+yarışma	O
+,	O
+işitme	O
+engelliler	O
+yararına	O
+yapılmıştır	O
+.	O
+2011	O
+yılında	O
+yapılan	O
+survivor	B-CW
+ünlüler	I-CW
+-	I-CW
+gönüllüler	I-CW
+yarışmasında	O
+birinci	O
+olmuştur	O
+.	O
+
+
+yarışma	O
+,	O
+işitme	O
+engelliler	O
+yararına	O
+yapılmıştır	O
+.	O
+2011	O
+yılında	O
+yapılan	O
+survivor	B-CW
+ünlüler	I-CW
+-	I-CW
+gönüllüler	I-CW
+yarışmasında	O
+birinci	O
+olmuştur	O
+.	O
+
+
+yarışma	O
+,	O
+işitme	O
+engelliler	O
+yararına	O
+yapılmıştır	O
+.	O
+2011	O
+yılında	O
+yapılan	O
+survivor	B-CW
+ünlüler	I-CW
+-	I-CW
+gönüllüler	I-CW
+yarışmasında	O
+birinci	O
+olmuştur	O
+.	O
+
+
+yarışma	O
+,	O
+işitme	O
+engelliler	O
+yararına	O
+yapılmıştır	O
+.	O
+2011	O
+yılında	O
+yapılan	O
+survivor	B-CW
+ünlüler	I-CW
+-	I-CW
+gönüllüler	I-CW
+yarışmasında	O
+birinci	O
+olmuştur	O
+.	O
+
+
+yarışma	O
+,	O
+işitme	O
+engelliler	O
+yararına	O
+yapılmıştır	O
+.	O
+2011	O
+yılında	O
+yapılan	O
+wwe	B-CW
+2k17	I-CW
+yarışmasında	O
+birinci	O
+olmuştur	O
+.	O
+
+
+i̇kinci	O
+tur	O
+seçimlerde	O
+komünist	B-GRP
+parti	I-GRP
+adayı	O
+bazı	O
+sağcı	O
+güçlerin	O
+de	O
+desteğini	O
+almış	O
+fakat	O
+%	O
+40	O
+oy	O
+alabilmiştir	O
+.	O
+
+
+i̇kinci	O
+tur	O
+seçimlerde	O
+komünist	B-GRP
+parti	I-GRP
+adayı	O
+bazı	O
+sağcı	O
+güçlerin	O
+de	O
+desteğini	O
+almış	O
+fakat	O
+%	O
+40	O
+oy	O
+alabilmiştir	O
+.	O
+
+
+i̇kinci	O
+tur	O
+seçimlerde	O
+bafta	B-GRP
+adayı	O
+bazı	O
+sağcı	O
+güçlerin	O
+de	O
+desteğini	O
+almış	O
+fakat	O
+%	O
+40	O
+oy	O
+alabilmiştir	O
+.	O
+
+
+i̇kinci	O
+tur	O
+seçimlerde	O
+komünist	B-GRP
+parti	I-GRP
+adayı	O
+bazı	O
+sağcı	O
+güçlerin	O
+de	O
+desteğini	O
+almış	O
+fakat	O
+%	O
+40	O
+oy	O
+alabilmiştir	O
+.	O
+
+
+i̇kinci	O
+tur	O
+seçimlerde	O
+demokrat	B-GRP
+parti	I-GRP
+adayı	O
+bazı	O
+sağcı	O
+güçlerin	O
+de	O
+desteğini	O
+almış	O
+fakat	O
+%	O
+40	O
+oy	O
+alabilmiştir	O
+.	O
+
+
+ardından	O
+sevgili	B-CW
+geçmiş	I-CW
+dizisinde	O
+de	O
+başrolü	O
+üstlendi	O
+.	O
+
+
+ardından	O
+sevgili	B-CW
+geçmiş	I-CW
+dizisinde	O
+de	O
+başrolü	O
+üstlendi	O
+.	O
+
+
+ardından	O
+sevgili	B-CW
+geçmiş	I-CW
+dizisinde	O
+de	O
+başrolü	O
+üstlendi	O
+.	O
+
+
+ardından	O
+sevgili	B-CW
+geçmiş	I-CW
+dizisinde	O
+de	O
+başrolü	O
+üstlendi	O
+.	O
+
+
+ardından	O
+edebiyat	B-CW
+dizisinde	O
+de	O
+başrolü	O
+üstlendi	O
+.	O
+
+
+a	B-CORP
+haber	I-CORP
+de	O
+daha	O
+önce	O
+yayınlanmış	O
+veya	O
+günümüzde	O
+yayınlanacak	O
+olan	O
+televizyon	O
+programlarının	O
+bir	O
+listesidir	O
+.	O
+
+
+a	B-CORP
+haber	I-CORP
+de	O
+daha	O
+önce	O
+yayınlanmış	O
+veya	O
+günümüzde	O
+yayınlanacak	O
+olan	O
+televizyon	O
+programlarının	O
+bir	O
+listesidir	O
+.	O
+
+
+a	B-CORP
+haber	I-CORP
+de	O
+daha	O
+önce	O
+yayınlanmış	O
+veya	O
+günümüzde	O
+yayınlanacak	O
+olan	O
+televizyon	O
+programlarının	O
+bir	O
+listesidir	O
+.	O
+
+
+a	B-CORP
+haber	I-CORP
+de	O
+daha	O
+önce	O
+yayınlanmış	O
+veya	O
+günümüzde	O
+yayınlanacak	O
+olan	O
+televizyon	O
+programlarının	O
+bir	O
+listesidir	O
+.	O
+
+
+a	B-CORP
+haber	I-CORP
+de	O
+daha	O
+önce	O
+yayınlanmış	O
+veya	O
+günümüzde	O
+yayınlanacak	O
+olan	O
+televizyon	O
+programlarının	O
+bir	O
+listesidir	O
+.	O
+
+
+futbolu	O
+bırakmasının	O
+ardından	O
+sky	B-CORP
+sports	I-CORP
+ta	O
+maç	O
+yorumculuğu	O
+yapmaya	O
+başladı	O
+.	O
+
+
+futbolu	O
+bırakmasının	O
+ardından	O
+basf	B-CORP
+ta	O
+maç	O
+yorumculuğu	O
+yapmaya	O
+başladı	O
+.	O
+
+
+futbolu	O
+bırakmasının	O
+ardından	O
+sky	B-CORP
+sports	I-CORP
+ta	O
+maç	O
+yorumculuğu	O
+yapmaya	O
+başladı	O
+.	O
+
+
+futbolu	O
+bırakmasının	O
+ardından	O
+basf	B-CORP
+ta	O
+maç	O
+yorumculuğu	O
+yapmaya	O
+başladı	O
+.	O
+
+
+futbolu	O
+bırakmasının	O
+ardından	O
+sky	B-CORP
+sports	I-CORP
+ta	O
+maç	O
+yorumculuğu	O
+yapmaya	O
+başladı	O
+.	O
+
+
+volvo	B-CORP
+trucks	I-CORP
+–	O
+şirket	O
+tarihçesi	O
+ve	O
+teknoloji	O
+gelişimi	O
+
+
+dolby	B-CORP
+laboratories	I-CORP
+–	O
+şirket	O
+tarihçesi	O
+ve	O
+teknoloji	O
+gelişimi	O
+
+
+dolby	B-CORP
+laboratories	I-CORP
+–	O
+şirket	O
+tarihçesi	O
+ve	O
+teknoloji	O
+gelişimi	O
+
+
+dolby	B-CORP
+laboratories	I-CORP
+–	O
+şirket	O
+tarihçesi	O
+ve	O
+teknoloji	O
+gelişimi	O
+
+
+dolby	B-CORP
+laboratories	I-CORP
+–	O
+şirket	O
+tarihçesi	O
+ve	O
+teknoloji	O
+gelişimi	O
+
+
+ardından	O
+marmara	B-GRP
+üniversitesi	I-GRP
+nde	O
+ekonomi	O
+üzerine	O
+yüksek	O
+lisans	O
+ve	O
+doktora	O
+yaptı	O
+.	O
+
+
+ardından	O
+marmara	B-GRP
+üniversitesi	I-GRP
+nde	O
+ekonomi	O
+üzerine	O
+yüksek	O
+lisans	O
+ve	O
+doktora	O
+yaptı	O
+.	O
+
+
+ardından	O
+marmara	B-GRP
+üniversitesi	I-GRP
+nde	O
+ekonomi	O
+üzerine	O
+yüksek	O
+lisans	O
+ve	O
+doktora	O
+yaptı	O
+.	O
+
+
+ardından	O
+espanyol	B-GRP
+b	I-GRP
+nde	O
+ekonomi	O
+üzerine	O
+yüksek	O
+lisans	O
+ve	O
+doktora	O
+yaptı	O
+.	O
+
+
+ardından	O
+marmara	B-GRP
+üniversitesi	I-GRP
+nde	O
+ekonomi	O
+üzerine	O
+yüksek	O
+lisans	O
+ve	O
+doktora	O
+yaptı	O
+.	O
+
+
+yura	O
+ayrıca	O
+empire	B-CW
+dizinde	O
+de	O
+yer	O
+almıştır	O
+.	O
+
+
+yura	O
+ayrıca	O
+yazılım	B-CW
+dizinde	O
+de	O
+yer	O
+almıştır	O
+.	O
+
+
+yura	O
+ayrıca	O
+to	B-CW
+the	I-CW
+beautiful	I-CW
+you	I-CW
+dizinde	O
+de	O
+yer	O
+almıştır	O
+.	O
+
+
+yura	O
+ayrıca	O
+edebiyat	B-CW
+dizinde	O
+de	O
+yer	O
+almıştır	O
+.	O
+
+
+yura	O
+ayrıca	O
+to	B-CW
+the	I-CW
+beautiful	I-CW
+you	I-CW
+dizinde	O
+de	O
+yer	O
+almıştır	O
+.	O
+
+
+2011	O
+yılı	O
+başlarında	O
+kars	O
+ı	O
+ziyaret	O
+eden	O
+dönemin	O
+başbakanı	O
+deniz	B-PER
+baykal	I-PER
+bu	O
+heykeli	O
+ucube	O
+diye	O
+nitelendirdi	O
+ve	O
+şunları	O
+söyledi	O
+.	O
+
+
+2011	O
+yılı	O
+başlarında	O
+kars	O
+ı	O
+ziyaret	O
+eden	O
+dönemin	O
+başbakanı	O
+recep	B-PER
+tayyip	I-PER
+erdoğan	I-PER
+bu	O
+heykeli	O
+ucube	O
+diye	O
+nitelendirdi	O
+ve	O
+şunları	O
+söyledi	O
+.	O
+
+
+2011	O
+yılı	O
+başlarında	O
+kars	O
+ı	O
+ziyaret	O
+eden	O
+dönemin	O
+başbakanı	O
+recep	B-PER
+tayyip	I-PER
+erdoğan	I-PER
+bu	O
+heykeli	O
+ucube	O
+diye	O
+nitelendirdi	O
+ve	O
+şunları	O
+söyledi	O
+.	O
+
+
+2011	O
+yılı	O
+başlarında	O
+kars	O
+ı	O
+ziyaret	O
+eden	O
+dönemin	O
+başbakanı	O
+recep	B-PER
+tayyip	I-PER
+erdoğan	I-PER
+bu	O
+heykeli	O
+ucube	O
+diye	O
+nitelendirdi	O
+ve	O
+şunları	O
+söyledi	O
+.	O
+
+
+2011	O
+yılı	O
+başlarında	O
+kars	O
+ı	O
+ziyaret	O
+eden	O
+dönemin	O
+başbakanı	O
+gotye	B-PER
+bu	O
+heykeli	O
+ucube	O
+diye	O
+nitelendirdi	O
+ve	O
+şunları	O
+söyledi	O
+.	O
+
+
+şehirde	O
+metal	B-PROD
+hattı	O
+inşa	O
+edilmesi	O
+planlanmaktadır	O
+.	O
+
+
+şehirde	O
+tramvay	B-PROD
+hattı	O
+inşa	O
+edilmesi	O
+planlanmaktadır	O
+.	O
+
+
+şehirde	O
+tramvay	B-PROD
+hattı	O
+inşa	O
+edilmesi	O
+planlanmaktadır	O
+.	O
+
+
+şehirde	O
+vcr	B-PROD
+hattı	O
+inşa	O
+edilmesi	O
+planlanmaktadır	O
+.	O
+
+
+şehirde	O
+tramvay	B-PROD
+hattı	O
+inşa	O
+edilmesi	O
+planlanmaktadır	O
+.	O
+
+
+gotye	B-PER
+odense	B-GRP
+2009	O
+10	O
+(	O
+28	O
+/	O
+0	O
+)	O
+
+
+roy	B-PER
+carroll	I-PER
+odense	B-GRP
+2009	O
+10	O
+(	O
+28	O
+/	O
+0	O
+)	O
+
+
+gotye	B-PER
+odense	B-GRP
+2009	O
+10	O
+(	O
+28	O
+/	O
+0	O
+)	O
+
+
+roy	B-PER
+carroll	I-PER
+ted	B-GRP
+ankara	I-GRP
+kolejliler	I-GRP
+2009	O
+10	O
+(	O
+28	O
+/	O
+0	O
+)	O
+
+
+roy	B-PER
+carroll	I-PER
+odense	B-GRP
+2009	O
+10	O
+(	O
+28	O
+/	O
+0	O
+)	O
+
+
+2015	B-CW
+eurovision	I-CW
+şarkı	I-CW
+yarışması	I-CW
+,	O
+2003	O
+2008	O
+yılları	O
+arasında	O
+yayınlanmış	O
+dizi	O
+
+
+las	B-CW
+vegas	I-CW
+,	O
+2003	O
+2008	O
+yılları	O
+arasında	O
+yayınlanmış	O
+dizi	O
+
+
+anun	B-CW
+namına	I-CW
+,	O
+2003	O
+2008	O
+yılları	O
+arasında	O
+yayınlanmış	O
+dizi	O
+
+
+las	B-CW
+vegas	I-CW
+,	O
+2003	O
+2008	O
+yılları	O
+arasında	O
+yayınlanmış	O
+dizi	O
+
+
+batman	B-CW
+daima	I-CW
+,	O
+2003	O
+2008	O
+yılları	O
+arasında	O
+yayınlanmış	O
+dizi	O
+
+
+şiirlerle	O
+şarkılarla	O
+,	O
+bülent	B-PER
+ersoy	I-PER
+un	O
+1993	O
+yılında	O
+yayınladığı	O
+albümü	O
+.	O
+
+
+şiirlerle	O
+şarkılarla	O
+,	O
+bülent	B-PER
+ersoy	I-PER
+un	O
+1993	O
+yılında	O
+yayınladığı	O
+albümü	O
+.	O
+
+
+şiirlerle	O
+şarkılarla	O
+,	O
+dickinson	B-PER
+un	O
+1993	O
+yılında	O
+yayınladığı	O
+albümü	O
+.	O
+
+
+şiirlerle	O
+şarkılarla	O
+,	O
+cassandra	B-PER
+clare	I-PER
+un	O
+1993	O
+yılında	O
+yayınladığı	O
+albümü	O
+.	O
+
+
+şiirlerle	O
+şarkılarla	O
+,	O
+mile	B-PER
+jedinak	I-PER
+un	O
+1993	O
+yılında	O
+yayınladığı	O
+albümü	O
+.	O
+
+
+karakeçili	O
+,	O
+çorum	B-LOC
+ilinin	O
+boğazkale	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köy	B-LOC
+.	O
+
+
+karakeçili	O
+,	O
+çorum	B-LOC
+ilinin	O
+büyük	B-LOC
+saray	I-LOC
+mozaikleri	I-LOC
+müzesi	I-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köy	B-LOC
+.	O
+
+
+karakeçili	O
+,	O
+belfast	B-LOC
+ilinin	O
+bhutan	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köy	B-LOC
+.	O
+
+
+karakeçili	O
+,	O
+çorum	B-LOC
+ilinin	O
+boğazkale	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köy	B-LOC
+.	O
+
+
+karakeçili	O
+,	O
+bangladeş	B-LOC
+millî	I-LOC
+eğitim	I-LOC
+komisyonu	I-LOC
+üyeliği	I-LOC
+ilinin	O
+boğazkale	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köy	B-LOC
+.	O
+
+
+normal	O
+süresi	O
+1	O
+1	O
+biten	O
+maçta	O
+bayern	B-GRP
+in	O
+golünü	O
+penaltıdan	O
+attı	O
+.	O
+
+
+normal	O
+süresi	O
+1	O
+1	O
+biten	O
+maçta	O
+bayern	B-GRP
+in	O
+golünü	O
+penaltıdan	O
+attı	O
+.	O
+
+
+normal	O
+süresi	O
+1	O
+1	O
+biten	O
+maçta	O
+i̇stanbul	B-GRP
+teknik	I-GRP
+üniversitesi	I-GRP
+in	O
+golünü	O
+penaltıdan	O
+attı	O
+.	O
+
+
+normal	O
+süresi	O
+1	O
+1	O
+biten	O
+maçta	O
+chelsea	B-GRP
+fc	I-GRP
+in	O
+golünü	O
+penaltıdan	O
+attı	O
+.	O
+
+
+normal	O
+süresi	O
+1	O
+1	O
+biten	O
+maçta	O
+h.o.t’	B-GRP
+in	O
+golünü	O
+penaltıdan	O
+attı	O
+.	O
+
+
+bazı	O
+akıllı	O
+gözlük	O
+modelleri	O
+aynı	O
+zamanda	O
+lifelog	O
+ve	O
+gözlük	B-PROD
+özelliğine	O
+sahiptir	O
+.	O
+
+
+bazı	O
+akıllı	O
+gözlük	O
+modelleri	O
+aynı	O
+zamanda	O
+lifelog	O
+ve	O
+mozaik	B-PROD
+özelliğine	O
+sahiptir	O
+.	O
+
+
+bazı	O
+akıllı	O
+gözlük	O
+modelleri	O
+aynı	O
+zamanda	O
+lifelog	O
+ve	O
+limuzin	B-PROD
+özelliğine	O
+sahiptir	O
+.	O
+
+
+bazı	O
+akıllı	O
+gözlük	O
+modelleri	O
+aynı	O
+zamanda	O
+lifelog	O
+ve	O
+aktivite	B-PROD
+takipçisi	I-PROD
+özelliğine	O
+sahiptir	O
+.	O
+
+
+bazı	O
+akıllı	O
+gözlük	O
+modelleri	O
+aynı	O
+zamanda	O
+lifelog	O
+ve	O
+aktivite	B-PROD
+takipçisi	I-PROD
+özelliğine	O
+sahiptir	O
+.	O
+
+
+daha	O
+sonra	O
+kuzey	B-LOC
+kore'de	I-LOC
+kore	I-LOC
+h.o.t’	B-GRP
+bağlı	O
+bir	O
+politikacı	O
+haline	O
+geldi	O
+.	O
+
+
+daha	O
+sonra	O
+kuzey	B-LOC
+kore'de	I-LOC
+kore	I-LOC
+i̇şçi	B-GRP
+partisi'ne	I-GRP
+bağlı	O
+bir	O
+politikacı	O
+haline	O
+geldi	O
+.	O
+
+
+daha	O
+sonra	O
+avustralya	B-LOC
+i̇şçi	B-GRP
+partisi'ne	I-GRP
+bağlı	O
+bir	O
+politikacı	O
+haline	O
+geldi	O
+.	O
+
+
+daha	O
+sonra	O
+kuzey	B-LOC
+kore'de	I-LOC
+kore	I-LOC
+i̇şçi	B-GRP
+partisi'ne	I-GRP
+bağlı	O
+bir	O
+politikacı	O
+haline	O
+geldi	O
+.	O
+
+
+daha	O
+sonra	O
+kuzey	B-LOC
+kore'de	I-LOC
+kore	I-LOC
+i̇şçi	B-GRP
+partisi'ne	I-GRP
+bağlı	O
+bir	O
+politikacı	O
+haline	O
+geldi	O
+.	O
+
+
+aklı	B-CW
+havada	I-CW
+(	O
+up	O
+in	O
+the	O
+air	O
+)	O
+
+
+aklı	B-CW
+havada	I-CW
+(	O
+up	O
+in	O
+the	O
+air	O
+)	O
+
+
+aklı	B-CW
+havada	I-CW
+(	O
+up	O
+in	O
+the	O
+air	O
+)	O
+
+
+aklı	B-CW
+havada	I-CW
+(	O
+up	O
+in	O
+the	O
+air	O
+)	O
+
+
+aklı	B-CW
+havada	I-CW
+(	O
+up	O
+in	O
+the	O
+air	O
+)	O
+
+
+yapımını	O
+bbc	O
+nin	O
+yaptığı	O
+13	O
+bölümden	O
+oluşan	O
+diziyi	O
+jacob	B-PER
+bronowski	I-PER
+yazmış	O
+ve	O
+sunmuştur	O
+.	O
+
+
+yapımını	O
+bbc	O
+nin	O
+yaptığı	O
+13	O
+bölümden	O
+oluşan	O
+diziyi	O
+megyn	B-PER
+kelly	I-PER
+yazmış	O
+ve	O
+sunmuştur	O
+.	O
+
+
+yapımını	O
+bbc	O
+nin	O
+yaptığı	O
+13	O
+bölümden	O
+oluşan	O
+diziyi	O
+jacob	B-PER
+bronowski	I-PER
+yazmış	O
+ve	O
+sunmuştur	O
+.	O
+
+
+yapımını	O
+bbc	O
+nin	O
+yaptığı	O
+13	O
+bölümden	O
+oluşan	O
+diziyi	O
+türk	B-PER
+yazmış	O
+ve	O
+sunmuştur	O
+.	O
+
+
+yapımını	O
+bbc	O
+nin	O
+yaptığı	O
+13	O
+bölümden	O
+oluşan	O
+diziyi	O
+jacob	B-PER
+bronowski	I-PER
+yazmış	O
+ve	O
+sunmuştur	O
+.	O
+
+
+başta	O
+dolby	B-CORP
+laboratories	I-CORP
+olmak	O
+üzere	O
+bütün	O
+havayolu	O
+şirketleri	O
+tüm	O
+yurt	O
+dışı	O
+ve	O
+yurt	O
+içi	O
+uçuşlarını	O
+ikinci	O
+bir	O
+duyuruya	O
+kadar	O
+sonlandırdığını	O
+duyurdu	O
+.	O
+
+
+başta	O
+türk	B-CORP
+hava	I-CORP
+yolları	I-CORP
+olmak	O
+üzere	O
+bütün	O
+havayolu	O
+şirketleri	O
+tüm	O
+yurt	O
+dışı	O
+ve	O
+yurt	O
+içi	O
+uçuşlarını	O
+ikinci	O
+bir	O
+duyuruya	O
+kadar	O
+sonlandırdığını	O
+duyurdu	O
+.	O
+
+
+başta	O
+fnc	B-CORP
+entertainment	I-CORP
+olmak	O
+üzere	O
+bütün	O
+havayolu	O
+şirketleri	O
+tüm	O
+yurt	O
+dışı	O
+ve	O
+yurt	O
+içi	O
+uçuşlarını	O
+ikinci	O
+bir	O
+duyuruya	O
+kadar	O
+sonlandırdığını	O
+duyurdu	O
+.	O
+
+
+başta	O
+türk	B-CORP
+hava	I-CORP
+yolları	I-CORP
+olmak	O
+üzere	O
+bütün	O
+havayolu	O
+şirketleri	O
+tüm	O
+yurt	O
+dışı	O
+ve	O
+yurt	O
+içi	O
+uçuşlarını	O
+ikinci	O
+bir	O
+duyuruya	O
+kadar	O
+sonlandırdığını	O
+duyurdu	O
+.	O
+
+
+başta	O
+ppl	B-CORP
+olmak	O
+üzere	O
+bütün	O
+havayolu	O
+şirketleri	O
+tüm	O
+yurt	O
+dışı	O
+ve	O
+yurt	O
+içi	O
+uçuşlarını	O
+ikinci	O
+bir	O
+duyuruya	O
+kadar	O
+sonlandırdığını	O
+duyurdu	O
+.	O
+
+
+bazı	O
+temeller	O
+ayrıca	O
+daha	O
+karmaşık	O
+kozmetik	B-PROD
+için	O
+nemlendirici	O
+,	O
+güneş	O
+koruyucu	O
+,	O
+sıkılaştırıcı	O
+veya	O
+baz	O
+katman	O
+olarak	O
+da	O
+işlev	O
+görür	O
+.	O
+
+
+bazı	O
+temeller	O
+ayrıca	O
+daha	O
+karmaşık	O
+kozmetik	B-PROD
+için	O
+nemlendirici	O
+,	O
+güneş	O
+koruyucu	O
+,	O
+sıkılaştırıcı	O
+veya	O
+baz	O
+katman	O
+olarak	O
+da	O
+işlev	O
+görür	O
+.	O
+
+
+bazı	O
+temeller	O
+ayrıca	O
+daha	O
+karmaşık	O
+kozmetik	B-PROD
+için	O
+nemlendirici	O
+,	O
+güneş	O
+koruyucu	O
+,	O
+sıkılaştırıcı	O
+veya	O
+baz	O
+katman	O
+olarak	O
+da	O
+işlev	O
+görür	O
+.	O
+
+
+bazı	O
+temeller	O
+ayrıca	O
+daha	O
+karmaşık	O
+yemek	B-PROD
+için	O
+nemlendirici	O
+,	O
+güneş	O
+koruyucu	O
+,	O
+sıkılaştırıcı	O
+veya	O
+baz	O
+katman	O
+olarak	O
+da	O
+işlev	O
+görür	O
+.	O
+
+
+bazı	O
+temeller	O
+ayrıca	O
+daha	O
+karmaşık	O
+kozmetik	B-PROD
+için	O
+nemlendirici	O
+,	O
+güneş	O
+koruyucu	O
+,	O
+sıkılaştırıcı	O
+veya	O
+baz	O
+katman	O
+olarak	O
+da	O
+işlev	O
+görür	O
+.	O
+
+
+film	O
+35	O
+mm	O
+formatında	O
+çekildi	O
+.	O
+çekimler	O
+,	O
+i̇zlanda	B-LOC
+da	O
+bulunan	O
+vatnajokull	O
+daki	O
+buzullarda	O
+başladı	O
+(	O
+bhutan	B-LOC
+çekimleri	O
+)	O
+.	O
+
+
+film	O
+35	O
+mm	O
+formatında	O
+çekildi	O
+.	O
+çekimler	O
+,	O
+etimesgut	B-LOC
+da	O
+bulunan	O
+vatnajokull	O
+daki	O
+buzullarda	O
+başladı	O
+(	O
+bhutan	B-LOC
+çekimleri	O
+)	O
+.	O
+
+
+film	O
+35	O
+mm	O
+formatında	O
+çekildi	O
+.	O
+çekimler	O
+,	O
+kilise'	B-LOC
+da	O
+bulunan	O
+vatnajokull	O
+daki	O
+buzullarda	O
+başladı	O
+(	O
+amerika	B-LOC
+birleşik	I-LOC
+devletleri	I-LOC
+çekimleri	O
+)	O
+.	O
+
+
+film	O
+35	O
+mm	O
+formatında	O
+çekildi	O
+.	O
+çekimler	O
+,	O
+belediye	B-LOC
+da	O
+bulunan	O
+vatnajokull	O
+daki	O
+buzullarda	O
+başladı	O
+(	O
+bhutan	B-LOC
+çekimleri	O
+)	O
+.	O
+
+
+film	O
+35	O
+mm	O
+formatında	O
+çekildi	O
+.	O
+çekimler	O
+,	O
+i̇zlanda	B-LOC
+da	O
+bulunan	O
+vatnajokull	O
+daki	O
+buzullarda	O
+başladı	O
+(	O
+bhutan	B-LOC
+çekimleri	O
+)	O
+.	O
+
+
+2012	O
+2013	O
+:	O
+adını	B-CW
+feriha	I-CW
+koydum	I-CW
+(	O
+orijinal	O
+yayın	O
+:	O
+show	B-CORP
+tv	I-CORP
+2011	O
+2012	O
+)	O
+
+
+2012	O
+2013	O
+:	O
+anun	B-CW
+namına	I-CW
+(	O
+orijinal	O
+yayın	O
+:	O
+show	B-CORP
+tv	I-CORP
+2011	O
+2012	O
+)	O
+
+
+2012	O
+2013	O
+:	O
+adını	B-CW
+feriha	I-CW
+koydum	I-CW
+(	O
+orijinal	O
+yayın	O
+:	O
+show	B-CORP
+tv	I-CORP
+2011	O
+2012	O
+)	O
+
+
+2012	O
+2013	O
+:	O
+adını	B-CW
+feriha	I-CW
+koydum	I-CW
+(	O
+orijinal	O
+yayın	O
+:	O
+show	B-CORP
+tv	I-CORP
+2011	O
+2012	O
+)	O
+
+
+2012	O
+2013	O
+:	O
+adını	B-CW
+feriha	I-CW
+koydum	I-CW
+(	O
+orijinal	O
+yayın	O
+:	O
+show	B-CORP
+tv	I-CORP
+2011	O
+2012	O
+)	O
+
+
+rotten	B-CORP
+tomatoes'te	I-CORP
+,	O
+film	O
+146	O
+yoruma	O
+göre	O
+%	O
+82	O
+puan	O
+aldı	O
+,	O
+ortalama	O
+puanı	O
+10	O
+üzerinden	O
+7	O
+,	O
+35	O
+tir	O
+.	O
+
+
+rotten	B-CORP
+tomatoes'te	I-CORP
+,	O
+film	O
+146	O
+yoruma	O
+göre	O
+%	O
+82	O
+puan	O
+aldı	O
+,	O
+ortalama	O
+puanı	O
+10	O
+üzerinden	O
+7	O
+,	O
+35	O
+tir	O
+.	O
+
+
+rotten	B-CORP
+tomatoes'te	I-CORP
+,	O
+film	O
+146	O
+yoruma	O
+göre	O
+%	O
+82	O
+puan	O
+aldı	O
+,	O
+ortalama	O
+puanı	O
+10	O
+üzerinden	O
+7	O
+,	O
+35	O
+tir	O
+.	O
+
+
+rotten	B-CORP
+tomatoes'te	I-CORP
+,	O
+film	O
+146	O
+yoruma	O
+göre	O
+%	O
+82	O
+puan	O
+aldı	O
+,	O
+ortalama	O
+puanı	O
+10	O
+üzerinden	O
+7	O
+,	O
+35	O
+tir	O
+.	O
+
+
+rotten	B-CORP
+tomatoes'te	I-CORP
+,	O
+film	O
+146	O
+yoruma	O
+göre	O
+%	O
+82	O
+puan	O
+aldı	O
+,	O
+ortalama	O
+puanı	O
+10	O
+üzerinden	O
+7	O
+,	O
+35	O
+tir	O
+.	O
+
+
+bireyler	O
+hazır	B-PROD
+yemek	I-PROD
+de	O
+fayda	O
+görebilirler	O
+ancak	O
+evde	O
+yemek	O
+yapımına	O
+kıyasla	O
+işlenmiş	O
+gıdaların	O
+kullanımında	O
+nadiren	O
+doğrudan	O
+finansal	O
+maliyet	O
+avantajı	O
+görürler	O
+.	O
+
+
+bireyler	O
+hazır	B-PROD
+yemek	I-PROD
+de	O
+fayda	O
+görebilirler	O
+ancak	O
+evde	O
+yemek	O
+yapımına	O
+kıyasla	O
+işlenmiş	O
+gıdaların	O
+kullanımında	O
+nadiren	O
+doğrudan	O
+finansal	O
+maliyet	O
+avantajı	O
+görürler	O
+.	O
+
+
+bireyler	O
+hazır	B-PROD
+yemek	I-PROD
+de	O
+fayda	O
+görebilirler	O
+ancak	O
+evde	O
+yemek	O
+yapımına	O
+kıyasla	O
+işlenmiş	O
+gıdaların	O
+kullanımında	O
+nadiren	O
+doğrudan	O
+finansal	O
+maliyet	O
+avantajı	O
+görürler	O
+.	O
+
+
+bireyler	O
+hazır	B-PROD
+yemek	I-PROD
+de	O
+fayda	O
+görebilirler	O
+ancak	O
+evde	O
+yemek	O
+yapımına	O
+kıyasla	O
+işlenmiş	O
+gıdaların	O
+kullanımında	O
+nadiren	O
+doğrudan	O
+finansal	O
+maliyet	O
+avantajı	O
+görürler	O
+.	O
+
+
+bireyler	O
+hazır	B-PROD
+yemek	I-PROD
+de	O
+fayda	O
+görebilirler	O
+ancak	O
+evde	O
+yemek	O
+yapımına	O
+kıyasla	O
+işlenmiş	O
+gıdaların	O
+kullanımında	O
+nadiren	O
+doğrudan	O
+finansal	O
+maliyet	O
+avantajı	O
+görürler	O
+.	O
+
+
+porthcawl	O
+,	O
+galler	B-LOC
+de	O
+bulunan	O
+tarihi	O
+turistik	O
+bir	O
+yerleşim	O
+yeridir	O
+.	O
+
+
+porthcawl	O
+,	O
+galler	B-LOC
+de	O
+bulunan	O
+tarihi	O
+turistik	O
+bir	O
+yerleşim	O
+yeridir	O
+.	O
+
+
+porthcawl	O
+,	O
+sorgun	B-LOC
+de	O
+bulunan	O
+tarihi	O
+turistik	O
+bir	O
+yerleşim	O
+yeridir	O
+.	O
+
+
+porthcawl	O
+,	O
+çanakkale	B-LOC
+de	O
+bulunan	O
+tarihi	O
+turistik	O
+bir	O
+yerleşim	O
+yeridir	O
+.	O
+
+
+porthcawl	O
+,	O
+galler	B-LOC
+de	O
+bulunan	O
+tarihi	O
+turistik	O
+bir	O
+yerleşim	O
+yeridir	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+1928	O
+yılında	O
+tranmere	B-GRP
+rovers	I-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+1928	O
+yılında	O
+tranmere	B-GRP
+rovers	I-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+1928	O
+yılında	O
+tranmere	B-GRP
+rovers	I-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+1928	O
+yılında	O
+tranmere	B-GRP
+rovers	I-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+1928	O
+yılında	O
+tranmere	B-GRP
+rovers	I-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+eymir	O
+,	O
+yozgat	B-LOC
+ın	O
+sorgun	B-LOC
+ilçesine	O
+bağlı	O
+köy	O
+.	O
+
+
+eymir	O
+,	O
+büyük	B-LOC
+saray	I-LOC
+mozaikleri	I-LOC
+müzesi	I-LOC
+ın	O
+sorgun	B-LOC
+ilçesine	O
+bağlı	O
+köy	O
+.	O
+
+
+eymir	O
+,	O
+yozgat	B-LOC
+ın	O
+antakya	B-LOC
+ilçesine	O
+bağlı	O
+köy	O
+.	O
+
+
+eymir	O
+,	O
+yozgat	B-LOC
+ın	O
+sorgun	B-LOC
+ilçesine	O
+bağlı	O
+köy	O
+.	O
+
+
+eymir	O
+,	O
+yozgat	B-LOC
+ın	O
+sorgun	B-LOC
+ilçesine	O
+bağlı	O
+köy	O
+.	O
+
+
+hannibal	B-PER
+lecter	I-PER
+roman	O
+ve	O
+filmlerde	O
+gözüken	O
+,	O
+insan	O
+eti	O
+yiyen	O
+hayalî	O
+karakter	O
+.	O
+
+
+marcel	B-PER
+pagnol	I-PER
+roman	O
+ve	O
+filmlerde	O
+gözüken	O
+,	O
+insan	O
+eti	O
+yiyen	O
+hayalî	O
+karakter	O
+.	O
+
+
+giuseppe	B-PER
+verdi	I-PER
+roman	O
+ve	O
+filmlerde	O
+gözüken	O
+,	O
+insan	O
+eti	O
+yiyen	O
+hayalî	O
+karakter	O
+.	O
+
+
+hannibal	B-PER
+lecter	I-PER
+roman	O
+ve	O
+filmlerde	O
+gözüken	O
+,	O
+insan	O
+eti	O
+yiyen	O
+hayalî	O
+karakter	O
+.	O
+
+
+hannibal	B-PER
+lecter	I-PER
+roman	O
+ve	O
+filmlerde	O
+gözüken	O
+,	O
+insan	O
+eti	O
+yiyen	O
+hayalî	O
+karakter	O
+.	O
+
+
+fakat	O
+everybody's	B-CW
+fool	I-CW
+parçasının	O
+klibinde	O
+dekolteli	O
+kıyafetler	O
+giymiştir	O
+.	O
+
+
+fakat	O
+everybody's	B-CW
+fool	I-CW
+parçasının	O
+klibinde	O
+dekolteli	O
+kıyafetler	O
+giymiştir	O
+.	O
+
+
+fakat	O
+everybody's	B-CW
+fool	I-CW
+parçasının	O
+klibinde	O
+dekolteli	O
+kıyafetler	O
+giymiştir	O
+.	O
+
+
+fakat	O
+everybody's	B-CW
+fool	I-CW
+parçasının	O
+klibinde	O
+dekolteli	O
+kıyafetler	O
+giymiştir	O
+.	O
+
+
+fakat	O
+everybody's	B-CW
+fool	I-CW
+parçasının	O
+klibinde	O
+dekolteli	O
+kıyafetler	O
+giymiştir	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2007	O
+yılında	O
+bts	B-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2007	O
+yılında	O
+aston	B-GRP
+villa	I-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2007	O
+yılında	O
+galatasaray	B-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2007	O
+yılında	O
+aston	B-GRP
+villa	I-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2007	O
+yılında	O
+i̇stanbul	B-GRP
+güngörenspor	I-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+babadere	O
+,	O
+çanakkale	B-LOC
+ilinin	O
+ayvacık	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köy	B-LOC
+.	O
+
+
+babadere	O
+,	O
+fransa	B-LOC
+ilinin	O
+ayvacık	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köy	B-LOC
+.	O
+
+
+babadere	O
+,	O
+tutak	B-LOC
+ilinin	O
+galler	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+belfast	B-LOC
+.	O
+
+
+babadere	O
+,	O
+danimarka	B-LOC
+ilinin	O
+ayvacık	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köy	B-LOC
+.	O
+
+
+babadere	O
+,	O
+çanakkale	B-LOC
+ilinin	O
+derry	B-LOC
+ilçesine	O
+bağlı	O
+bir	O
+köy	B-LOC
+.	O
+
+
+alias	B-CW
+(	O
+2001	O
+2006	O
+)	O
+,	O
+baş	O
+yapımcı	O
+/	O
+yazar	O
+/	O
+besteci	O
+/	O
+yönetmen	O
+(	O
+5	O
+bölüm	O
+)	O
+/	O
+oyuncu	O
+(	O
+1	O
+bölüm	O
+)	O
+
+
+alias	B-CW
+(	O
+2001	O
+2006	O
+)	O
+,	O
+baş	O
+yapımcı	O
+/	O
+yazar	O
+/	O
+besteci	O
+/	O
+yönetmen	O
+(	O
+5	O
+bölüm	O
+)	O
+/	O
+oyuncu	O
+(	O
+1	O
+bölüm	O
+)	O
+
+
+io	B-CW
+sono	I-CW
+mia	I-CW
+(	O
+2001	O
+2006	O
+)	O
+,	O
+baş	O
+yapımcı	O
+/	O
+yazar	O
+/	O
+besteci	O
+/	O
+yönetmen	O
+(	O
+5	O
+bölüm	O
+)	O
+/	O
+oyuncu	O
+(	O
+1	O
+bölüm	O
+)	O
+
+
+bir	B-CW
+önceki	I-CW
+bölümdeki	I-CW
+olayların	I-CW
+(	O
+2001	O
+2006	O
+)	O
+,	O
+baş	O
+yapımcı	O
+/	O
+yazar	O
+/	O
+besteci	O
+/	O
+yönetmen	O
+(	O
+5	O
+bölüm	O
+)	O
+/	O
+oyuncu	O
+(	O
+1	O
+bölüm	O
+)	O
+
+
+alias	B-CW
+(	O
+2001	O
+2006	O
+)	O
+,	O
+baş	O
+yapımcı	O
+/	O
+yazar	O
+/	O
+besteci	O
+/	O
+yönetmen	O
+(	O
+5	O
+bölüm	O
+)	O
+/	O
+oyuncu	O
+(	O
+1	O
+bölüm	O
+)	O
+
+
+plati	O
+(	O
+)	O
+,	O
+yunanistan	B-LOC
+ın	O
+danimarka	B-LOC
+ne	O
+bağlı	O
+kaliforniya	B-LOC
+bulunan	O
+bir	O
+kemaliye	B-LOC
+ve	O
+belediye	B-LOC
+birimidir	O
+.	O
+
+
+plati	O
+(	O
+)	O
+,	O
+yunanistan	B-LOC
+ın	O
+orta	B-LOC
+makedonya	I-LOC
+bölgesi	I-LOC
+ne	O
+bağlı	O
+aleksandreya	B-LOC
+belediyesi	I-LOC
+bulunan	O
+bir	O
+köy	B-LOC
+ve	O
+belediye	B-LOC
+birimidir	O
+.	O
+
+
+plati	O
+(	O
+)	O
+,	O
+yunanistan	B-LOC
+ın	O
+orta	B-LOC
+makedonya	I-LOC
+bölgesi	I-LOC
+ne	O
+bağlı	O
+büyük	B-LOC
+saray	I-LOC
+mozaikleri	I-LOC
+müzesi	I-LOC
+bulunan	O
+bir	O
+köydür	B-LOC
+ve	O
+belediye	B-LOC
+birimidir	O
+.	O
+
+
+plati	O
+(	O
+)	O
+,	O
+yunanistan	B-LOC
+ın	O
+orta	B-LOC
+makedonya	I-LOC
+bölgesi	I-LOC
+ne	O
+bağlı	O
+sovyetler	B-LOC
+birliği	I-LOC
+bulunan	O
+bir	O
+köy	B-LOC
+ve	O
+belediye	B-LOC
+birimidir	O
+.	O
+
+
+plati	O
+(	O
+)	O
+,	O
+çorum	B-LOC
+ın	O
+galler	B-LOC
+ne	O
+bağlı	O
+aleksandreya	B-LOC
+belediyesi	I-LOC
+bulunan	O
+bir	O
+köy	B-LOC
+ve	O
+belediye	B-LOC
+birimidir	O
+.	O
+
+
+i.	B-PER
+mustafa	I-PER
+nın	O
+tahta	O
+çıkarılmasında	O
+ve	O
+tahttan	O
+indirilmesinde	O
+etkili	O
+oldu	O
+.	O
+
+
+yorgi	B-PER
+nın	O
+tahta	O
+çıkarılmasında	O
+ve	O
+tahttan	O
+indirilmesinde	O
+etkili	O
+oldu	O
+.	O
+
+
+ii.	B-PER
+i̇saakios	I-PER
+nın	O
+tahta	O
+çıkarılmasında	O
+ve	O
+tahttan	O
+indirilmesinde	O
+etkili	O
+oldu	O
+.	O
+
+
+i.	B-PER
+mustafa	I-PER
+nın	O
+tahta	O
+çıkarılmasında	O
+ve	O
+tahttan	O
+indirilmesinde	O
+etkili	O
+oldu	O
+.	O
+
+
+i.	B-PER
+mustafa	I-PER
+nın	O
+tahta	O
+çıkarılmasında	O
+ve	O
+tahttan	O
+indirilmesinde	O
+etkili	O
+oldu	O
+.	O
+
+
+abd	O
+de	O
+cuma	O
+akşamı	O
+fox	B-CORP
+kanalında	O
+yayınlanmaktadır	O
+.	O
+
+
+abd	O
+de	O
+cuma	O
+akşamı	O
+a	B-CORP
+haber	I-CORP
+kanalında	O
+yayınlanmaktadır	O
+.	O
+
+
+abd	O
+de	O
+cuma	O
+akşamı	O
+fox	B-CORP
+kanalında	O
+yayınlanmaktadır	O
+.	O
+
+
+abd	O
+de	O
+cuma	O
+akşamı	O
+finnair	B-CORP
+kanalında	O
+yayınlanmaktadır	O
+.	O
+
+
+abd	O
+de	O
+cuma	O
+akşamı	O
+fox	B-CORP
+kanalında	O
+yayınlanmaktadır	O
+.	O
+
+
+710	O
+km	O
+(	O
+444	O
+mil	O
+)	O
+:	O
+derry	B-LOC
+belfast	B-LOC
+…	O
+
+
+710	O
+km	O
+(	O
+444	O
+mil	O
+)	O
+:	O
+derry	B-LOC
+bursa	B-LOC
+…	O
+
+
+710	O
+km	O
+(	O
+444	O
+mil	O
+)	O
+:	O
+derry	B-LOC
+i̇stanbul	B-LOC
+…	O
+
+
+710	O
+km	O
+(	O
+444	O
+mil	O
+)	O
+:	O
+derry	B-LOC
+belfast	B-LOC
+…	O
+
+
+710	O
+km	O
+(	O
+444	O
+mil	O
+)	O
+:	O
+derry	B-LOC
+belfast	B-LOC
+…	O
+
+
+yazıları	O
+1960	O
+ların	O
+sonlarından	O
+itibaren	O
+edebiyat	B-CW
+dergilerinde	O
+yer	O
+almaya	O
+başladı	O
+.	O
+
+
+yazıları	O
+1960	O
+ların	O
+sonlarından	O
+itibaren	O
+android'ler	B-CW
+elektrikli	I-CW
+koyun	I-CW
+düşler	I-CW
+mi?	I-CW
+dergilerinde	O
+yer	O
+almaya	O
+başladı	O
+.	O
+
+
+yazıları	O
+1960	O
+ların	O
+sonlarından	O
+itibaren	O
+mac	B-CW
+os	I-CW
+x	I-CW
+leopard	I-CW
+dergilerinde	O
+yer	O
+almaya	O
+başladı	O
+.	O
+
+
+yazıları	O
+1960	O
+ların	O
+sonlarından	O
+itibaren	O
+batman	B-CW
+daima	I-CW
+dergilerinde	O
+yer	O
+almaya	O
+başladı	O
+.	O
+
+
+yazıları	O
+1960	O
+ların	O
+sonlarından	O
+itibaren	O
+batman	B-CW
+daima	I-CW
+dergilerinde	O
+yer	O
+almaya	O
+başladı	O
+.	O
+
+
+tart	O
+,	O
+börek	B-PROD
+,	O
+kiş	B-PROD
+hamuru	I-PROD
+ve	O
+pasta	B-PROD
+kategorilerinde	O
+yer	O
+alabilir	O
+.	O
+
+
+tart	O
+,	O
+sirke	B-PROD
+,	O
+yemek	B-PROD
+ve	O
+pasta	B-PROD
+kategorilerinde	O
+yer	O
+alabilir	O
+.	O
+
+
+tart	O
+,	O
+motosiklet	B-PROD
+,	O
+kiş	B-PROD
+hamuru	I-PROD
+ve	O
+pasta	B-PROD
+kategorilerinde	O
+yer	O
+alabilir	O
+.	O
+
+
+tart	O
+,	O
+battaniye	B-PROD
+,	O
+tohum	B-PROD
+ve	O
+pasta	B-PROD
+kategorilerinde	O
+yer	O
+alabilir	O
+.	O
+
+
+tart	O
+,	O
+şeker	B-PROD
+,	O
+kiş	B-PROD
+hamuru	I-PROD
+ve	O
+pasta	B-PROD
+kategorilerinde	O
+yer	O
+alabilir	O
+.	O
+
+
+şarkı	O
+,	O
+where	B-CW
+is	I-CW
+the	I-CW
+love?	I-CW
+adlı	O
+şarkının	O
+elde	O
+ettiği	O
+başarının	O
+hemen	O
+ardından	O
+ikinci	O
+tekli	O
+olarak	O
+satışa	O
+sunuldu	O
+.	O
+
+
+şarkı	O
+,	O
+where	B-CW
+is	I-CW
+the	I-CW
+love?	I-CW
+adlı	O
+şarkının	O
+elde	O
+ettiği	O
+başarının	O
+hemen	O
+ardından	O
+ikinci	O
+tekli	O
+olarak	O
+satışa	O
+sunuldu	O
+.	O
+
+
+şarkı	O
+,	O
+raw	B-CW
+adlı	O
+şarkının	O
+elde	O
+ettiği	O
+başarının	O
+hemen	O
+ardından	O
+ikinci	O
+tekli	O
+olarak	O
+satışa	O
+sunuldu	O
+.	O
+
+
+şarkı	O
+,	O
+where	B-CW
+is	I-CW
+the	I-CW
+love?	I-CW
+adlı	O
+şarkının	O
+elde	O
+ettiği	O
+başarının	O
+hemen	O
+ardından	O
+ikinci	O
+tekli	O
+olarak	O
+satışa	O
+sunuldu	O
+.	O
+
+
+şarkı	O
+,	O
+where	B-CW
+is	I-CW
+the	I-CW
+love?	I-CW
+adlı	O
+şarkının	O
+elde	O
+ettiği	O
+başarının	O
+hemen	O
+ardından	O
+ikinci	O
+tekli	O
+olarak	O
+satışa	O
+sunuldu	O
+.	O
+
+
+mesleki	O
+kariyerine	O
+ek	O
+olarak	O
+,	O
+el	O
+şerif	O
+suudi	B-LOC
+arabistan	I-LOC
+da	O
+uzun	O
+yıllardır	O
+kadınların	O
+hakları	O
+için	O
+kampanya	O
+yürüttü	O
+.	O
+
+
+mesleki	O
+kariyerine	O
+ek	O
+olarak	O
+,	O
+el	O
+şerif	O
+suudi	B-LOC
+arabistan	I-LOC
+da	O
+uzun	O
+yıllardır	O
+kadınların	O
+hakları	O
+için	O
+kampanya	O
+yürüttü	O
+.	O
+
+
+mesleki	O
+kariyerine	O
+ek	O
+olarak	O
+,	O
+el	O
+şerif	O
+worthington	B-LOC
+da	O
+uzun	O
+yıllardır	O
+kadınların	O
+hakları	O
+için	O
+kampanya	O
+yürüttü	O
+.	O
+
+
+mesleki	O
+kariyerine	O
+ek	O
+olarak	O
+,	O
+el	O
+şerif	O
+suudi	B-LOC
+arabistan	I-LOC
+da	O
+uzun	O
+yıllardır	O
+kadınların	O
+hakları	O
+için	O
+kampanya	O
+yürüttü	O
+.	O
+
+
+mesleki	O
+kariyerine	O
+ek	O
+olarak	O
+,	O
+el	O
+şerif	O
+suudi	B-LOC
+arabistan	I-LOC
+da	O
+uzun	O
+yıllardır	O
+kadınların	O
+hakları	O
+için	O
+kampanya	O
+yürüttü	O
+.	O
+
+
+1965	O
+yılında	O
+miami	B-GRP
+üniversitesi	I-GRP
+ndeki	O
+teorik	O
+araştırmalar	O
+merkezi	O
+nin	O
+kurulmasında	O
+rol	O
+almıştır	O
+.	O
+
+
+1965	O
+yılında	O
+miami	B-GRP
+üniversitesi	I-GRP
+ndeki	O
+teorik	O
+araştırmalar	O
+merkezi	O
+nin	O
+kurulmasında	O
+rol	O
+almıştır	O
+.	O
+
+
+1965	O
+yılında	O
+odense	B-GRP
+ndeki	O
+teorik	O
+araştırmalar	O
+merkezi	O
+nin	O
+kurulmasında	O
+rol	O
+almıştır	O
+.	O
+
+
+1965	O
+yılında	O
+miami	B-GRP
+üniversitesi	I-GRP
+ndeki	O
+teorik	O
+araştırmalar	O
+merkezi	O
+nin	O
+kurulmasında	O
+rol	O
+almıştır	O
+.	O
+
+
+1965	O
+yılında	O
+miami	B-GRP
+üniversitesi	I-GRP
+ndeki	O
+teorik	O
+araştırmalar	O
+merkezi	O
+nin	O
+kurulmasında	O
+rol	O
+almıştır	O
+.	O
+
+
+ayrıca	O
+azizler	O
+yorgi	B-PER
+,	O
+dimitrios	B-PER
+,	O
+ve	O
+theodore	O
+un	O
+freskleri	O
+de	O
+bulunmaktadır	O
+.	O
+
+
+ayrıca	O
+azizler	O
+yorgi	B-PER
+,	O
+emrah	B-PER
+karaduman	I-PER
+,	O
+ve	O
+theodore	O
+un	O
+freskleri	O
+de	O
+bulunmaktadır	O
+.	O
+
+
+ayrıca	O
+azizler	O
+hasan	B-PER
+cemal	I-PER
+,	O
+türk	B-PER
+,	O
+ve	O
+theodore	O
+un	O
+freskleri	O
+de	O
+bulunmaktadır	O
+.	O
+
+
+ayrıca	O
+azizler	O
+yorgi	B-PER
+,	O
+dimitrios	B-PER
+,	O
+ve	O
+theodore	O
+un	O
+freskleri	O
+de	O
+bulunmaktadır	O
+.	O
+
+
+ayrıca	O
+azizler	O
+yorgi	B-PER
+,	O
+dimitrios	B-PER
+,	O
+ve	O
+theodore	O
+un	O
+freskleri	O
+de	O
+bulunmaktadır	O
+.	O
+
+
+milliyet	O
+’	O
+ten	O
+hasan	B-PER
+cemal	I-PER
+’	O
+e	O
+verdiği	O
+röportajda	O
+,	O
+etnik	O
+partilerden	O
+şöyle	O
+bahsemişti	O
+:	O
+“	O
+bugüne	O
+kadar	O
+kurduğumuz	O
+bütün	O
+partilerde	O
+,	O
+inandırıcılık	O
+eksiği	O
+vardı	O
+.	O
+
+
+milliyet	O
+’	O
+ten	O
+hasan	B-PER
+cemal	I-PER
+’	O
+e	O
+verdiği	O
+röportajda	O
+,	O
+etnik	O
+partilerden	O
+şöyle	O
+bahsemişti	O
+:	O
+“	O
+bugüne	O
+kadar	O
+kurduğumuz	O
+bütün	O
+partilerde	O
+,	O
+inandırıcılık	O
+eksiği	O
+vardı	O
+.	O
+
+
+milliyet	O
+’	O
+ten	O
+paul	B-PER
+dirac	I-PER
+’	O
+e	O
+verdiği	O
+röportajda	O
+,	O
+etnik	O
+partilerden	O
+şöyle	O
+bahsemişti	O
+:	O
+“	O
+bugüne	O
+kadar	O
+kurduğumuz	O
+bütün	O
+partilerde	O
+,	O
+inandırıcılık	O
+eksiği	O
+vardı	O
+.	O
+
+
+milliyet	O
+’	O
+ten	O
+hasan	B-PER
+cemal	I-PER
+’	O
+e	O
+verdiği	O
+röportajda	O
+,	O
+etnik	O
+partilerden	O
+şöyle	O
+bahsemişti	O
+:	O
+“	O
+bugüne	O
+kadar	O
+kurduğumuz	O
+bütün	O
+partilerde	O
+,	O
+inandırıcılık	O
+eksiği	O
+vardı	O
+.	O
+
+
+milliyet	O
+’	O
+ten	O
+hasan	B-PER
+cemal	I-PER
+’	O
+e	O
+verdiği	O
+röportajda	O
+,	O
+etnik	O
+partilerden	O
+şöyle	O
+bahsemişti	O
+:	O
+“	O
+bugüne	O
+kadar	O
+kurduğumuz	O
+bütün	O
+partilerde	O
+,	O
+inandırıcılık	O
+eksiği	O
+vardı	O
+.	O
+
+
+cumhurbaşkanı	O
+turgut	B-PER
+özal	I-PER
+ın	O
+ölümünün	O
+ardından	O
+yas	O
+yayını	O
+yapmıştır	O
+.	O
+
+
+cumhurbaşkanı	O
+turgut	B-PER
+özal	I-PER
+ın	O
+ölümünün	O
+ardından	O
+yas	O
+yayını	O
+yapmıştır	O
+.	O
+
+
+cumhurbaşkanı	O
+turgut	B-PER
+özal	I-PER
+ın	O
+ölümünün	O
+ardından	O
+yas	O
+yayını	O
+yapmıştır	O
+.	O
+
+
+cumhurbaşkanı	O
+turgut	B-PER
+özal	I-PER
+ın	O
+ölümünün	O
+ardından	O
+yas	O
+yayını	O
+yapmıştır	O
+.	O
+
+
+cumhurbaşkanı	O
+turgut	B-PER
+özal	I-PER
+ın	O
+ölümünün	O
+ardından	O
+yas	O
+yayını	O
+yapmıştır	O
+.	O
+
+
+google	O
+şakaları	O
+,	O
+google	B-CORP
+firmasının	O
+kullanıcılarına	O
+hazırladığı	O
+şakalar	O
+.	O
+
+
+google	O
+şakaları	O
+,	O
+airbus	B-CORP
+firmasının	O
+kullanıcılarına	O
+hazırladığı	O
+şakalar	O
+.	O
+
+
+google	O
+şakaları	O
+,	O
+google	B-CORP
+firmasının	O
+kullanıcılarına	O
+hazırladığı	O
+şakalar	O
+.	O
+
+
+google	O
+şakaları	O
+,	O
+google	B-CORP
+firmasının	O
+kullanıcılarına	O
+hazırladığı	O
+şakalar	O
+.	O
+
+
+google	O
+şakaları	O
+,	O
+google	B-CORP
+firmasının	O
+kullanıcılarına	O
+hazırladığı	O
+şakalar	O
+.	O
+
+
+bangladeş	B-LOC
+in	O
+bağımsızlığından	O
+sonra	O
+bangladeş	B-LOC
+hükümeti	I-LOC
+planlama	I-LOC
+komisyonu	I-LOC
+üyeliği	I-LOC
+ve	O
+bangladeş	B-LOC
+millî	I-LOC
+eğitim	I-LOC
+komisyonu	I-LOC
+üyeliği	I-LOC
+görevlerinde	O
+bulundu	O
+.	O
+
+
+bangladeş	B-LOC
+in	O
+bağımsızlığından	O
+sonra	O
+bangladeş	B-LOC
+hükümeti	I-LOC
+planlama	I-LOC
+komisyonu	I-LOC
+üyeliği	I-LOC
+ve	O
+bangladeş	B-LOC
+millî	I-LOC
+eğitim	I-LOC
+komisyonu	I-LOC
+üyeliği	I-LOC
+görevlerinde	O
+bulundu	O
+.	O
+
+
+bangladeş	B-LOC
+in	O
+bağımsızlığından	O
+sonra	O
+bangladeş	B-LOC
+hükümeti	I-LOC
+planlama	I-LOC
+komisyonu	I-LOC
+üyeliği	I-LOC
+ve	O
+bangladeş	B-LOC
+millî	I-LOC
+eğitim	I-LOC
+komisyonu	I-LOC
+üyeliği	I-LOC
+görevlerinde	O
+bulundu	O
+.	O
+
+
+bangladeş	B-LOC
+in	O
+bağımsızlığından	O
+sonra	O
+köydür	B-LOC
+ve	O
+bangladeş	B-LOC
+millî	I-LOC
+eğitim	I-LOC
+komisyonu	I-LOC
+üyeliği	I-LOC
+görevlerinde	O
+bulundu	O
+.	O
+
+
+yunanistan	B-LOC
+in	O
+bağımsızlığından	O
+sonra	O
+bangladeş	B-LOC
+hükümeti	I-LOC
+planlama	I-LOC
+komisyonu	I-LOC
+üyeliği	I-LOC
+ve	O
+bangladeş	B-LOC
+millî	I-LOC
+eğitim	I-LOC
+komisyonu	I-LOC
+üyeliği	I-LOC
+görevlerinde	O
+bulundu	O
+.	O
+
+
+hayalperest	O
+,	O
+başrollerini	O
+kurt	B-PER
+russell	I-PER
+ve	O
+dakota	B-PER
+fanning	I-PER
+in	O
+paylaştığı	O
+2005	O
+yapımı	O
+almanya	B-LOC
+filmi	O
+.	O
+
+
+hayalperest	O
+,	O
+başrollerini	O
+kurt	B-PER
+russell	I-PER
+ve	O
+dakota	B-PER
+fanning	I-PER
+in	O
+paylaştığı	O
+2005	O
+yapımı	O
+büyük	B-LOC
+saray	I-LOC
+mozaikleri	I-LOC
+müzesi	I-LOC
+filmi	O
+.	O
+
+
+hayalperest	O
+,	O
+başrollerini	O
+türk	B-PER
+ve	O
+mile	B-PER
+jedinak	I-PER
+in	O
+paylaştığı	O
+2005	O
+yapımı	O
+abd	B-LOC
+filmi	O
+.	O
+
+
+hayalperest	O
+,	O
+başrollerini	O
+kurt	B-PER
+russell	I-PER
+ve	O
+dakota	B-PER
+fanning	I-PER
+in	O
+paylaştığı	O
+2005	O
+yapımı	O
+abd	B-LOC
+filmi	O
+.	O
+
+
+hayalperest	O
+,	O
+başrollerini	O
+kurt	B-PER
+russell	I-PER
+ve	O
+ecevit	B-PER
+in	O
+paylaştığı	O
+2005	O
+yapımı	O
+abd	B-LOC
+filmi	O
+.	O
+
+
+i̇simcilik	O
+fazla	O
+yayılamamıştır	O
+.	O
+çünkü	O
+lucca	B-LOC
+ili	I-LOC
+direnmesi	O
+ve	O
+düşmanlığı	O
+hız	O
+karşılaşmıştır	O
+.	O
+
+
+i̇simcilik	O
+fazla	O
+yayılamamıştır	O
+.	O
+çünkü	O
+kilise'	B-LOC
+direnmesi	O
+ve	O
+düşmanlığı	O
+hız	O
+karşılaşmıştır	O
+.	O
+
+
+i̇simcilik	O
+fazla	O
+yayılamamıştır	O
+.	O
+çünkü	O
+kilise'	B-LOC
+direnmesi	O
+ve	O
+düşmanlığı	O
+hız	O
+karşılaşmıştır	O
+.	O
+
+
+i̇simcilik	O
+fazla	O
+yayılamamıştır	O
+.	O
+çünkü	O
+kilise'	B-LOC
+direnmesi	O
+ve	O
+düşmanlığı	O
+hız	O
+karşılaşmıştır	O
+.	O
+
+
+i̇simcilik	O
+fazla	O
+yayılamamıştır	O
+.	O
+çünkü	O
+kilise'	B-LOC
+direnmesi	O
+ve	O
+düşmanlığı	O
+hız	O
+karşılaşmıştır	O
+.	O
+
+
+galatasaray	O
+da	O
+teknik	O
+direktör	O
+olduğu	O
+dönemde	O
+frank	B-PER
+rijkaard	I-PER
+ın	O
+tercümanlığını	O
+yapmıştır	O
+.	O
+
+
+galatasaray	O
+da	O
+teknik	O
+direktör	O
+olduğu	O
+dönemde	O
+frank	B-PER
+rijkaard	I-PER
+ın	O
+tercümanlığını	O
+yapmıştır	O
+.	O
+
+
+galatasaray	O
+da	O
+teknik	O
+direktör	O
+olduğu	O
+dönemde	O
+frank	B-PER
+rijkaard	I-PER
+ın	O
+tercümanlığını	O
+yapmıştır	O
+.	O
+
+
+galatasaray	O
+da	O
+teknik	O
+direktör	O
+olduğu	O
+dönemde	O
+frank	B-PER
+rijkaard	I-PER
+ın	O
+tercümanlığını	O
+yapmıştır	O
+.	O
+
+
+galatasaray	O
+da	O
+teknik	O
+direktör	O
+olduğu	O
+dönemde	O
+frank	B-PER
+rijkaard	I-PER
+ın	O
+tercümanlığını	O
+yapmıştır	O
+.	O
+
+
+ein	B-CW
+bißchen	I-CW
+frieden	I-CW
+da	O
+,	O
+kenetlenme	O
+yerleri	O
+yığınlar	B-CW
+ile	O
+değiştirildi	O
+.	O
+
+
+mac	B-CW
+os	I-CW
+x	I-CW
+leopard	I-CW
+da	O
+,	O
+kenetlenme	O
+yerleri	O
+yığınlar	B-CW
+ile	O
+değiştirildi	O
+.	O
+
+
+mac	B-CW
+os	I-CW
+x	I-CW
+leopard	I-CW
+da	O
+,	O
+kenetlenme	O
+yerleri	O
+yığınlar	B-CW
+ile	O
+değiştirildi	O
+.	O
+
+
+mac	B-CW
+os	I-CW
+x	I-CW
+leopard	I-CW
+da	O
+,	O
+kenetlenme	O
+yerleri	O
+to	B-CW
+the	I-CW
+beautiful	I-CW
+you	I-CW
+ile	O
+değiştirildi	O
+.	O
+
+
+mac	B-CW
+os	I-CW
+x	I-CW
+leopard	I-CW
+da	O
+,	O
+kenetlenme	O
+yerleri	O
+yığınlar	B-CW
+ile	O
+değiştirildi	O
+.	O
+
+
+çinko	B-PROD
+de	O
+unutmamak	O
+gerekir	O
+özellikle	O
+düğün	O
+yemeğidir	O
+onsuz	O
+yemek	O
+olmaz	O
+.	O
+
+
+keşkeği	B-PROD
+de	O
+unutmamak	O
+gerekir	O
+özellikle	O
+düğün	O
+yemeğidir	O
+onsuz	O
+yemek	O
+olmaz	O
+.	O
+
+
+hazır	B-PROD
+yemek	I-PROD
+de	O
+unutmamak	O
+gerekir	O
+özellikle	O
+düğün	O
+yemeğidir	O
+onsuz	O
+yemek	O
+olmaz	O
+.	O
+
+
+cd	B-PROD
+de	O
+unutmamak	O
+gerekir	O
+özellikle	O
+düğün	O
+yemeğidir	O
+onsuz	O
+yemek	O
+olmaz	O
+.	O
+
+
+keşkeği	B-PROD
+de	O
+unutmamak	O
+gerekir	O
+özellikle	O
+düğün	O
+yemeğidir	O
+onsuz	O
+yemek	O
+olmaz	O
+.	O
+
+
+i̇lk	O
+kez	O
+1991	O
+yılında	O
+ted	B-GRP
+ankara	I-GRP
+kolejliler	I-GRP
+bilgisayar	O
+bilimleri	O
+bölümü	O
+nde	O
+geliştirilmiştir	O
+.	O
+
+
+i̇lk	O
+kez	O
+1991	O
+yılında	O
+cambridge	B-GRP
+üniversitesi	I-GRP
+bilgisayar	O
+bilimleri	O
+bölümü	O
+nde	O
+geliştirilmiştir	O
+.	O
+
+
+i̇lk	O
+kez	O
+1991	O
+yılında	O
+cambridge	B-GRP
+üniversitesi	I-GRP
+bilgisayar	O
+bilimleri	O
+bölümü	O
+nde	O
+geliştirilmiştir	O
+.	O
+
+
+i̇lk	O
+kez	O
+1991	O
+yılında	O
+cambridge	B-GRP
+üniversitesi	I-GRP
+bilgisayar	O
+bilimleri	O
+bölümü	O
+nde	O
+geliştirilmiştir	O
+.	O
+
+
+i̇lk	O
+kez	O
+1991	O
+yılında	O
+cambridge	B-GRP
+üniversitesi	I-GRP
+bilgisayar	O
+bilimleri	O
+bölümü	O
+nde	O
+geliştirilmiştir	O
+.	O
+
+
+rolls	O
+,	O
+henry	B-PER
+royce	I-PER
+ile	O
+birlikte	O
+rolls-royce	B-CORP
+otomobil	O
+şirketinin	O
+kurucularından	O
+biridir	O
+.	O
+
+
+rolls	O
+,	O
+henry	B-PER
+royce	I-PER
+ile	O
+birlikte	O
+finnair	B-CORP
+otomobil	O
+şirketinin	O
+kurucularından	O
+biridir	O
+.	O
+
+
+rolls	O
+,	O
+henry	B-PER
+royce	I-PER
+ile	O
+birlikte	O
+rolls-royce	B-CORP
+otomobil	O
+şirketinin	O
+kurucularından	O
+biridir	O
+.	O
+
+
+rolls	O
+,	O
+henry	B-PER
+royce	I-PER
+ile	O
+birlikte	O
+rolls-royce	B-CORP
+otomobil	O
+şirketinin	O
+kurucularından	O
+biridir	O
+.	O
+
+
+rolls	O
+,	O
+henry	B-PER
+royce	I-PER
+ile	O
+birlikte	O
+rolls-royce	B-CORP
+otomobil	O
+şirketinin	O
+kurucularından	O
+biridir	O
+.	O
+
+
+firma	O
+1982	O
+yılında	O
+general	B-CORP
+dynamics	I-CORP
+tarafından	O
+satın	O
+alındığında	O
+firma	O
+küçük	O
+uçak	O
+üretimini	O
+durdurdu	O
+.	O
+
+
+firma	O
+1982	O
+yılında	O
+general	B-CORP
+dynamics	I-CORP
+tarafından	O
+satın	O
+alındığında	O
+firma	O
+küçük	O
+uçak	O
+üretimini	O
+durdurdu	O
+.	O
+
+
+firma	O
+1982	O
+yılında	O
+general	B-CORP
+dynamics	I-CORP
+tarafından	O
+satın	O
+alındığında	O
+firma	O
+küçük	O
+uçak	O
+üretimini	O
+durdurdu	O
+.	O
+
+
+firma	O
+1982	O
+yılında	O
+general	B-CORP
+dynamics	I-CORP
+tarafından	O
+satın	O
+alındığında	O
+firma	O
+küçük	O
+uçak	O
+üretimini	O
+durdurdu	O
+.	O
+
+
+firma	O
+1982	O
+yılında	O
+otel	B-CORP
+tarafından	O
+satın	O
+alındığında	O
+firma	O
+küçük	O
+uçak	O
+üretimini	O
+durdurdu	O
+.	O
+
+
+tornavida	B-PROD
+veya	O
+başka	O
+bir	O
+kuvvetin	O
+,	O
+vidayı	O
+bir	O
+tur	O
+döndürmesi	O
+ile	O
+vidanın	O
+içine	O
+gömülme	O
+miktarına	O
+bir	O
+vida	O
+adımı	O
+denir	O
+ve	O
+a	O
+harfi	O
+ile	O
+gösterilir	O
+.	O
+
+
+tornavida	B-PROD
+veya	O
+başka	O
+bir	O
+kuvvetin	O
+,	O
+vidayı	O
+bir	O
+tur	O
+döndürmesi	O
+ile	O
+vidanın	O
+içine	O
+gömülme	O
+miktarına	O
+bir	O
+vida	O
+adımı	O
+denir	O
+ve	O
+a	O
+harfi	O
+ile	O
+gösterilir	O
+.	O
+
+
+tornavida	B-PROD
+veya	O
+başka	O
+bir	O
+kuvvetin	O
+,	O
+vidayı	O
+bir	O
+tur	O
+döndürmesi	O
+ile	O
+vidanın	O
+içine	O
+gömülme	O
+miktarına	O
+bir	O
+vida	O
+adımı	O
+denir	O
+ve	O
+a	O
+harfi	O
+ile	O
+gösterilir	O
+.	O
+
+
+tornavida	B-PROD
+veya	O
+başka	O
+bir	O
+kuvvetin	O
+,	O
+vidayı	O
+bir	O
+tur	O
+döndürmesi	O
+ile	O
+vidanın	O
+içine	O
+gömülme	O
+miktarına	O
+bir	O
+vida	O
+adımı	O
+denir	O
+ve	O
+a	O
+harfi	O
+ile	O
+gösterilir	O
+.	O
+
+
+tornavida	B-PROD
+veya	O
+başka	O
+bir	O
+kuvvetin	O
+,	O
+vidayı	O
+bir	O
+tur	O
+döndürmesi	O
+ile	O
+vidanın	O
+içine	O
+gömülme	O
+miktarına	O
+bir	O
+vida	O
+adımı	O
+denir	O
+ve	O
+a	O
+harfi	O
+ile	O
+gösterilir	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2002	O
+yılında	O
+yokohama	B-GRP
+fc	I-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2002	O
+yılında	O
+i̇şçi	B-GRP
+partisi'ne	I-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2002	O
+yılında	O
+yokohama	B-GRP
+fc	I-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2002	O
+yılında	O
+aalborg	B-GRP
+bk	I-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2002	O
+yılında	O
+yokohama	B-GRP
+fc	I-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+#	O
+le	B-PER
+corbusier'in	I-PER
+mimari	I-PER
+çalışmaları,	I-PER
+modern	I-PER
+hareket'a	I-PER
+üstün	I-PER
+bir	I-PER
+katkı	I-PER
+(	O
+6	O
+ülke	O
+ile	O
+paylaşılmaktadır	O
+.	O
+)	O
+
+
+#	O
+le	B-PER
+corbusier'in	I-PER
+mimari	I-PER
+çalışmaları,	I-PER
+modern	I-PER
+hareket'a	I-PER
+üstün	I-PER
+bir	I-PER
+katkı	I-PER
+(	O
+6	O
+ülke	O
+ile	O
+paylaşılmaktadır	O
+.	O
+)	O
+
+
+#	O
+le	B-PER
+corbusier'in	I-PER
+mimari	I-PER
+çalışmaları,	I-PER
+modern	I-PER
+hareket'a	I-PER
+üstün	I-PER
+bir	I-PER
+katkı	I-PER
+(	O
+6	O
+ülke	O
+ile	O
+paylaşılmaktadır	O
+.	O
+)	O
+
+
+#	O
+le	B-PER
+corbusier'in	I-PER
+mimari	I-PER
+çalışmaları,	I-PER
+modern	I-PER
+hareket'a	I-PER
+üstün	I-PER
+bir	I-PER
+katkı	I-PER
+(	O
+6	O
+ülke	O
+ile	O
+paylaşılmaktadır	O
+.	O
+)	O
+
+
+#	O
+michael	B-PER
+richards	I-PER
+(	O
+6	O
+ülke	O
+ile	O
+paylaşılmaktadır	O
+.	O
+)	O
+
+
+ağustos	O
+2013	O
+te	O
+s.m.	O
+entertainment	O
+a	O
+bağlı	O
+olan	O
+s.m.	O
+c&c	O
+,	O
+woollim	B-CORP
+entertainment	I-CORP
+ile	O
+birleşti	O
+.	O
+
+
+ağustos	O
+2013	O
+te	O
+s.m.	O
+entertainment	O
+a	O
+bağlı	O
+olan	O
+s.m.	O
+c&c	O
+,	O
+rotten	B-CORP
+tomatoes'te	I-CORP
+ile	O
+birleşti	O
+.	O
+
+
+ağustos	O
+2013	O
+te	O
+s.m.	O
+entertainment	O
+a	O
+bağlı	O
+olan	O
+s.m.	O
+c&c	O
+,	O
+woollim	B-CORP
+entertainment	I-CORP
+ile	O
+birleşti	O
+.	O
+
+
+ağustos	O
+2013	O
+te	O
+s.m.	O
+entertainment	O
+a	O
+bağlı	O
+olan	O
+s.m.	O
+c&c	O
+,	O
+woollim	B-CORP
+entertainment	I-CORP
+ile	O
+birleşti	O
+.	O
+
+
+ağustos	O
+2013	O
+te	O
+s.m.	O
+entertainment	O
+a	O
+bağlı	O
+olan	O
+s.m.	O
+c&c	O
+,	O
+fantagio	B-CORP
+entertainment	I-CORP
+ile	O
+birleşti	O
+.	O
+
+
+formatlar	O
+:	O
+cd	B-PROD
+,	O
+dvd	B-PROD
+,	O
+dijital	O
+indirme	O
+
+
+formatlar	O
+:	O
+cd	B-PROD
+,	O
+keşkeği	B-PROD
+,	O
+dijital	O
+indirme	O
+
+
+formatlar	O
+:	O
+cd	B-PROD
+,	O
+cd	B-PROD
+,	O
+dijital	O
+indirme	O
+
+
+formatlar	O
+:	O
+horoz	B-PROD
+,	O
+dvd	B-PROD
+,	O
+dijital	O
+indirme	O
+
+
+formatlar	O
+:	O
+cd	B-PROD
+,	O
+çinko	B-PROD
+,	O
+dijital	O
+indirme	O
+
+
+profesyonel	O
+kariyerine	O
+1973	O
+yılında	O
+taj	B-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+1973	O
+yılında	O
+quevilly	B-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+1973	O
+yılında	O
+taj	B-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+1973	O
+yılında	O
+bayern	B-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+1973	O
+yılında	O
+taj	B-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+bunun	O
+yanı	O
+sıra	O
+,	O
+htc	B-PROD
+touch	I-PROD
+ise	O
+tohum	O
+,	O
+üzüm	O
+cinsinden	O
+meyve	O
+tanesi	O
+,	O
+ağaç	O
+kabuğu	O
+,	O
+kök	O
+,	O
+meyve	O
+veya	O
+bitkinin	O
+başka	O
+bir	O
+kısmı	O
+olabilir	O
+.	O
+
+
+bunun	O
+yanı	O
+sıra	O
+,	O
+limuzin	B-PROD
+ise	O
+tohum	O
+,	O
+üzüm	O
+cinsinden	O
+meyve	O
+tanesi	O
+,	O
+ağaç	O
+kabuğu	O
+,	O
+kök	O
+,	O
+meyve	O
+veya	O
+bitkinin	O
+başka	O
+bir	O
+kısmı	O
+olabilir	O
+.	O
+
+
+bunun	O
+yanı	O
+sıra	O
+,	O
+baharat	B-PROD
+ise	O
+tohum	O
+,	O
+üzüm	O
+cinsinden	O
+meyve	O
+tanesi	O
+,	O
+ağaç	O
+kabuğu	O
+,	O
+kök	O
+,	O
+meyve	O
+veya	O
+bitkinin	O
+başka	O
+bir	O
+kısmı	O
+olabilir	O
+.	O
+
+
+bunun	O
+yanı	O
+sıra	O
+,	O
+baharat	B-PROD
+ise	O
+tohum	O
+,	O
+üzüm	O
+cinsinden	O
+meyve	O
+tanesi	O
+,	O
+ağaç	O
+kabuğu	O
+,	O
+kök	O
+,	O
+meyve	O
+veya	O
+bitkinin	O
+başka	O
+bir	O
+kısmı	O
+olabilir	O
+.	O
+
+
+bunun	O
+yanı	O
+sıra	O
+,	O
+metal	B-PROD
+ise	O
+tohum	O
+,	O
+üzüm	O
+cinsinden	O
+meyve	O
+tanesi	O
+,	O
+ağaç	O
+kabuğu	O
+,	O
+kök	O
+,	O
+meyve	O
+veya	O
+bitkinin	O
+başka	O
+bir	O
+kısmı	O
+olabilir	O
+.	O
+
+
+fantagio	B-CORP
+entertainment	I-CORP
+in	O
+oluşturduğu	O
+5	O
+üyeli	O
+erkek	O
+grubudur	O
+.	O
+
+
+fantagio	B-CORP
+entertainment	I-CORP
+in	O
+oluşturduğu	O
+5	O
+üyeli	O
+erkek	O
+grubudur	O
+.	O
+
+
+fantagio	B-CORP
+entertainment	I-CORP
+in	O
+oluşturduğu	O
+5	O
+üyeli	O
+erkek	O
+grubudur	O
+.	O
+
+
+nbc	B-CORP
+news	I-CORP
+in	O
+oluşturduğu	O
+5	O
+üyeli	O
+erkek	O
+grubudur	O
+.	O
+
+
+fantagio	B-CORP
+entertainment	I-CORP
+in	O
+oluşturduğu	O
+5	O
+üyeli	O
+erkek	O
+grubudur	O
+.	O
+
+
+ligi	O
+nde	O
+mücadele	O
+eden	O
+borussia	B-GRP
+dortmund	I-GRP
+ii	I-GRP
+kadrosuna	O
+dahil	O
+edilse	O
+de	O
+forma	O
+şansı	O
+bulamadı	O
+.	O
+
+
+ligi	O
+nde	O
+mücadele	O
+eden	O
+chelsea	B-GRP
+fc	I-GRP
+kadrosuna	O
+dahil	O
+edilse	O
+de	O
+forma	O
+şansı	O
+bulamadı	O
+.	O
+
+
+ligi	O
+nde	O
+mücadele	O
+eden	O
+borussia	B-GRP
+dortmund	I-GRP
+ii	I-GRP
+kadrosuna	O
+dahil	O
+edilse	O
+de	O
+forma	O
+şansı	O
+bulamadı	O
+.	O
+
+
+ligi	O
+nde	O
+mücadele	O
+eden	O
+borussia	B-GRP
+dortmund	I-GRP
+ii	I-GRP
+kadrosuna	O
+dahil	O
+edilse	O
+de	O
+forma	O
+şansı	O
+bulamadı	O
+.	O
+
+
+ligi	O
+nde	O
+mücadele	O
+eden	O
+borussia	B-GRP
+dortmund	I-GRP
+ii	I-GRP
+kadrosuna	O
+dahil	O
+edilse	O
+de	O
+forma	O
+şansı	O
+bulamadı	O
+.	O
+
+
+from	O
+:	O
+11	O
+/	O
+01	O
+/	O
+1999	O
+till	O
+:	O
+18	O
+/	O
+11	O
+/	O
+2002	O
+color	O
+:	O
+ind	O
+text	O
+:	O
+ecevit	B-PER
+fontsize	O
+:	O
+10	O
+
+
+from	O
+:	O
+11	O
+/	O
+01	O
+/	O
+1999	O
+till	O
+:	O
+18	O
+/	O
+11	O
+/	O
+2002	O
+color	O
+:	O
+ind	O
+text	O
+:	O
+ecevit	B-PER
+fontsize	O
+:	O
+10	O
+
+
+from	O
+:	O
+11	O
+/	O
+01	O
+/	O
+1999	O
+till	O
+:	O
+18	O
+/	O
+11	O
+/	O
+2002	O
+color	O
+:	O
+ind	O
+text	O
+:	O
+türk	B-PER
+fontsize	O
+:	O
+10	O
+
+
+from	O
+:	O
+11	O
+/	O
+01	O
+/	O
+1999	O
+till	O
+:	O
+18	O
+/	O
+11	O
+/	O
+2002	O
+color	O
+:	O
+ind	O
+text	O
+:	O
+ecevit	B-PER
+fontsize	O
+:	O
+10	O
+
+
+from	O
+:	O
+11	O
+/	O
+01	O
+/	O
+1999	O
+till	O
+:	O
+18	O
+/	O
+11	O
+/	O
+2002	O
+color	O
+:	O
+ind	O
+text	O
+:	O
+frank	B-PER
+rijkaard	I-PER
+fontsize	O
+:	O
+10	O
+
+
+s360	O
+gibi	O
+s500	O
+de	O
+honda	O
+nın	O
+güçlü	O
+motosiklet	B-PROD
+geçmişinden	O
+payını	O
+almıştır	O
+.	O
+
+
+s360	O
+gibi	O
+s500	O
+de	O
+honda	O
+nın	O
+güçlü	O
+pasta	B-PROD
+geçmişinden	O
+payını	O
+almıştır	O
+.	O
+
+
+s360	O
+gibi	O
+s500	O
+de	O
+honda	O
+nın	O
+güçlü	O
+motosiklet	B-PROD
+geçmişinden	O
+payını	O
+almıştır	O
+.	O
+
+
+s360	O
+gibi	O
+s500	O
+de	O
+honda	O
+nın	O
+güçlü	O
+motosiklet	B-PROD
+geçmişinden	O
+payını	O
+almıştır	O
+.	O
+
+
+s360	O
+gibi	O
+s500	O
+de	O
+honda	O
+nın	O
+güçlü	O
+motosiklet	B-PROD
+geçmişinden	O
+payını	O
+almıştır	O
+.	O
+
+
+kukla	O
+yorgi	B-PER
+yazar	O
+ahmet	B-PER
+ümit	I-PER
+tarafından	O
+yazılıp	O
+2002	O
+de	O
+basılan	O
+bir	O
+gerilim	O
+romanıdır	O
+.	O
+
+
+kukla	O
+türk	B-PER
+yazar	O
+fethi	B-PER
+gürcan	I-PER
+tarafından	O
+yazılıp	O
+2002	O
+de	O
+basılan	O
+bir	O
+gerilim	O
+romanıdır	O
+.	O
+
+
+kukla	O
+türk	B-PER
+yazar	O
+ahmet	B-PER
+ümit	I-PER
+tarafından	O
+yazılıp	O
+2002	O
+de	O
+basılan	O
+bir	O
+gerilim	O
+romanıdır	O
+.	O
+
+
+kukla	O
+türk	B-PER
+yazar	O
+marcel	B-PER
+pagnol	I-PER
+tarafından	O
+yazılıp	O
+2002	O
+de	O
+basılan	O
+bir	O
+gerilim	O
+romanıdır	O
+.	O
+
+
+kukla	O
+türk	B-PER
+yazar	O
+gotye	B-PER
+tarafından	O
+yazılıp	O
+2002	O
+de	O
+basılan	O
+bir	O
+gerilim	O
+romanıdır	O
+.	O
+
+
+rothen	O
+in	O
+bu	O
+dönemlerde	O
+valenciennes	O
+e	O
+ya	O
+da	O
+strasbourg	B-GRP
+a	O
+gideceği	O
+konuşuldu	O
+.	O
+
+
+rothen	O
+in	O
+bu	O
+dönemlerde	O
+valenciennes	O
+e	O
+ya	O
+da	O
+odense	B-GRP
+a	O
+gideceği	O
+konuşuldu	O
+.	O
+
+
+rothen	O
+in	O
+bu	O
+dönemlerde	O
+valenciennes	O
+e	O
+ya	O
+da	O
+strasbourg	B-GRP
+a	O
+gideceği	O
+konuşuldu	O
+.	O
+
+
+rothen	O
+in	O
+bu	O
+dönemlerde	O
+valenciennes	O
+e	O
+ya	O
+da	O
+strasbourg	B-GRP
+a	O
+gideceği	O
+konuşuldu	O
+.	O
+
+
+rothen	O
+in	O
+bu	O
+dönemlerde	O
+valenciennes	O
+e	O
+ya	O
+da	O
+strasbourg	B-GRP
+a	O
+gideceği	O
+konuşuldu	O
+.	O
+
+
+küçük	O
+siyah	O
+topaklar	O
+,	O
+özellikle	O
+sesin	O
+netliği	O
+için	O
+sloganını	O
+kullanarak	O
+,	O
+şarkıcılar	O
+için	O
+balgam	O
+söktürücü	O
+bir	O
+911	B-PROD
+olarak	O
+pazarlandı	O
+.	O
+
+
+küçük	O
+siyah	O
+topaklar	O
+,	O
+özellikle	O
+sesin	O
+netliği	O
+için	O
+sloganını	O
+kullanarak	O
+,	O
+şarkıcılar	O
+için	O
+balgam	O
+söktürücü	O
+bir	O
+microsoft	B-PROD
+lumia	I-PROD
+540	I-PROD
+olarak	O
+pazarlandı	O
+.	O
+
+
+küçük	O
+siyah	O
+topaklar	O
+,	O
+özellikle	O
+sesin	O
+netliği	O
+için	O
+sloganını	O
+kullanarak	O
+,	O
+şarkıcılar	O
+için	O
+balgam	O
+söktürücü	O
+bir	O
+pastil	B-PROD
+olarak	O
+pazarlandı	O
+.	O
+
+
+küçük	O
+siyah	O
+topaklar	O
+,	O
+özellikle	O
+sesin	O
+netliği	O
+için	O
+sloganını	O
+kullanarak	O
+,	O
+şarkıcılar	O
+için	O
+balgam	O
+söktürücü	O
+bir	O
+tramvay	B-PROD
+olarak	O
+pazarlandı	O
+.	O
+
+
+küçük	O
+siyah	O
+topaklar	O
+,	O
+özellikle	O
+sesin	O
+netliği	O
+için	O
+sloganını	O
+kullanarak	O
+,	O
+şarkıcılar	O
+için	O
+balgam	O
+söktürücü	O
+bir	O
+pastil	B-PROD
+olarak	O
+pazarlandı	O
+.	O
+
+
+bir	O
+sezon	O
+burada	O
+oynadıktan	O
+sonra	O
+gaziantepspor	B-GRP
+altyapısına	O
+transfer	O
+oldu	O
+.	O
+
+
+bir	O
+sezon	O
+burada	O
+oynadıktan	O
+sonra	O
+gaziantepspor	B-GRP
+altyapısına	O
+transfer	O
+oldu	O
+.	O
+
+
+bir	O
+sezon	O
+burada	O
+oynadıktan	O
+sonra	O
+i̇stanbul	B-GRP
+güngörenspor	I-GRP
+altyapısına	O
+transfer	O
+oldu	O
+.	O
+
+
+bir	O
+sezon	O
+burada	O
+oynadıktan	O
+sonra	O
+1.	B-GRP
+fc	I-GRP
+kaiserslautern	I-GRP
+altyapısına	O
+transfer	O
+oldu	O
+.	O
+
+
+bir	O
+sezon	O
+burada	O
+oynadıktan	O
+sonra	O
+gaziantepspor	B-GRP
+altyapısına	O
+transfer	O
+oldu	O
+.	O
+
+
+lig	O
+takımlarından	O
+i̇stanbul	B-GRP
+güngörenspor	I-GRP
+un	O
+başına	O
+geçti	O
+.	O
+
+
+lig	O
+takımlarından	O
+i̇stanbul	B-GRP
+güngörenspor	I-GRP
+un	O
+başına	O
+geçti	O
+.	O
+
+
+lig	O
+takımlarından	O
+i̇stanbul	B-GRP
+güngörenspor	I-GRP
+un	O
+başına	O
+geçti	O
+.	O
+
+
+lig	O
+takımlarından	O
+i̇stanbul	B-GRP
+güngörenspor	I-GRP
+un	O
+başına	O
+geçti	O
+.	O
+
+
+lig	O
+takımlarından	O
+quevilly	B-GRP
+un	O
+başına	O
+geçti	O
+.	O
+
+
+fakat	O
+annesi	O
+,	O
+sm	O
+’	O
+nin	O
+ünlü	O
+gruplarından	O
+h.o.t’	B-GRP
+hayranı	O
+olduğu	O
+ve	O
+kızını	O
+onlarla	O
+görmek	O
+istediği	O
+için	O
+onu	O
+seçmelere	O
+getirdi	O
+.	O
+
+
+fakat	O
+annesi	O
+,	O
+sm	O
+’	O
+nin	O
+ünlü	O
+gruplarından	O
+h.o.t’	B-GRP
+hayranı	O
+olduğu	O
+ve	O
+kızını	O
+onlarla	O
+görmek	O
+istediği	O
+için	O
+onu	O
+seçmelere	O
+getirdi	O
+.	O
+
+
+fakat	O
+annesi	O
+,	O
+sm	O
+’	O
+nin	O
+ünlü	O
+gruplarından	O
+lecce	B-GRP
+hayranı	O
+olduğu	O
+ve	O
+kızını	O
+onlarla	O
+görmek	O
+istediği	O
+için	O
+onu	O
+seçmelere	O
+getirdi	O
+.	O
+
+
+fakat	O
+annesi	O
+,	O
+sm	O
+’	O
+nin	O
+ünlü	O
+gruplarından	O
+h.o.t’	B-GRP
+hayranı	O
+olduğu	O
+ve	O
+kızını	O
+onlarla	O
+görmek	O
+istediği	O
+için	O
+onu	O
+seçmelere	O
+getirdi	O
+.	O
+
+
+fakat	O
+annesi	O
+,	O
+sm	O
+’	O
+nin	O
+ünlü	O
+gruplarından	O
+h.o.t’	B-GRP
+hayranı	O
+olduğu	O
+ve	O
+kızını	O
+onlarla	O
+görmek	O
+istediği	O
+için	O
+onu	O
+seçmelere	O
+getirdi	O
+.	O
+
+
+covidien	O
+,	O
+merkezi	O
+bangladeş	B-LOC
+hükümeti	I-LOC
+planlama	I-LOC
+komisyonu	I-LOC
+üyeliği	I-LOC
+olan	O
+küresel	O
+bir	O
+sağlık	O
+ürünleri	O
+şirketi	O
+ve	O
+tıbbi	B-PROD
+cihaz	I-PROD
+ve	O
+malzeme	O
+üreticisiydi	O
+.	O
+
+
+covidien	O
+,	O
+merkezi	O
+i̇rlanda	B-LOC
+olan	O
+küresel	O
+bir	O
+sağlık	O
+ürünleri	O
+şirketi	O
+ve	O
+tıbbi	B-PROD
+cihaz	I-PROD
+ve	O
+malzeme	O
+üreticisiydi	O
+.	O
+
+
+covidien	O
+,	O
+merkezi	O
+i̇rlanda	B-LOC
+olan	O
+küresel	O
+bir	O
+sağlık	O
+ürünleri	O
+şirketi	O
+ve	O
+tıbbi	B-PROD
+cihaz	I-PROD
+ve	O
+malzeme	O
+üreticisiydi	O
+.	O
+
+
+covidien	O
+,	O
+merkezi	O
+i̇rlanda	B-LOC
+olan	O
+küresel	O
+bir	O
+sağlık	O
+ürünleri	O
+şirketi	O
+ve	O
+tıbbi	B-PROD
+cihaz	I-PROD
+ve	O
+malzeme	O
+üreticisiydi	O
+.	O
+
+
+covidien	O
+,	O
+merkezi	O
+orta	B-LOC
+makedonya	I-LOC
+bölgesi	I-LOC
+olan	O
+küresel	O
+bir	O
+sağlık	O
+ürünleri	O
+şirketi	O
+ve	O
+tıbbi	B-PROD
+cihaz	I-PROD
+ve	O
+malzeme	O
+üreticisiydi	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2013	O
+yılında	O
+espanyol	B-GRP
+b	I-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2013	O
+yılında	O
+espanyol	B-GRP
+b	I-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2013	O
+yılında	O
+espanyol	B-GRP
+b	I-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2013	O
+yılında	O
+1.	B-GRP
+fc	I-GRP
+kaiserslautern	I-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+profesyonel	O
+kariyerine	O
+2013	O
+yılında	O
+espanyol	B-GRP
+b	I-GRP
+kulübünde	O
+başladı	O
+.	O
+
+
+daha	O
+sonra	O
+fagiano	B-GRP
+okayama	I-GRP
+kulübüne	O
+transfer	O
+oldu	O
+.	O
+
+
+daha	O
+sonra	O
+matsumoto	B-GRP
+yamaga	I-GRP
+fc	I-GRP
+kulübüne	O
+transfer	O
+oldu	O
+.	O
+
+
+daha	O
+sonra	O
+fagiano	B-GRP
+okayama	I-GRP
+kulübüne	O
+transfer	O
+oldu	O
+.	O
+
+
+daha	O
+sonra	O
+fagiano	B-GRP
+okayama	I-GRP
+kulübüne	O
+transfer	O
+oldu	O
+.	O
+
+
+daha	O
+sonra	O
+fagiano	B-GRP
+okayama	I-GRP
+kulübüne	O
+transfer	O
+oldu	O
+.	O
+
+
+gurgen	O
+18	O
+yaşında	O
+moskova	B-GRP
+devlet	I-GRP
+üniversitesi	I-GRP
+,	O
+fizik	O
+bölümüne	O
+girdi	O
+.	O
+
+
+gurgen	O
+18	O
+yaşında	O
+brøndby	B-GRP
+if	I-GRP
+,	O
+fizik	O
+bölümüne	O
+girdi	O
+.	O
+
+
+gurgen	O
+18	O
+yaşında	O
+h.o.t’	B-GRP
+,	O
+fizik	O
+bölümüne	O
+girdi	O
+.	O
+
+
+gurgen	O
+18	O
+yaşında	O
+moskova	B-GRP
+devlet	I-GRP
+üniversitesi	I-GRP
+,	O
+fizik	O
+bölümüne	O
+girdi	O
+.	O
+
+
+gurgen	O
+18	O
+yaşında	O
+moskova	B-GRP
+devlet	I-GRP
+üniversitesi	I-GRP
+,	O
+fizik	O
+bölümüne	O
+girdi	O
+.	O
+
+
+bu	O
+durumdaki	O
+bir	O
+sistemin	O
+tamamı	O
+kozmetik	B-PROD
+ya	O
+da	O
+yazılım	B-CW
+sorunlar	O
+sebebiyle	O
+durmayacaktır	O
+.	O
+
+
+bu	O
+durumdaki	O
+bir	O
+sistemin	O
+tamamı	O
+tohum	B-PROD
+ya	O
+da	O
+yazılım	B-CW
+sorunlar	O
+sebebiyle	O
+durmayacaktır	O
+.	O
+
+
+bu	O
+durumdaki	O
+bir	O
+sistemin	O
+tamamı	O
+dvd	B-PROD
+ya	O
+da	O
+yazılım	B-CW
+sorunlar	O
+sebebiyle	O
+durmayacaktır	O
+.	O
+
+
+bu	O
+durumdaki	O
+bir	O
+sistemin	O
+tamamı	O
+cd	B-PROD
+ya	O
+da	O
+yazılım	B-CW
+sorunlar	O
+sebebiyle	O
+durmayacaktır	O
+.	O
+
+
+bu	O
+durumdaki	O
+bir	O
+sistemin	O
+tamamı	O
+donanım	B-PROD
+ya	O
+da	O
+yazılım	B-CW
+sorunlar	O
+sebebiyle	O
+durmayacaktır	O
+.	O
+
+
