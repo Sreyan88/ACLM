@@ -3,7 +3,7 @@ import torch
 import argparse
 import os
 from tqdm import tqdm
-os.environ['CUDA_VISIBLE-DEVICES']="0"
+os.environ['CUDA_VISIBLE_DEVICES']="0"
 
 parser = argparse.ArgumentParser(description='Train flair model')
 parser.add_argument('--input_folder', '-i', help='Name of the input folder containing train, dev and test files')
@@ -54,77 +54,3 @@ tagger: SequenceTagger = SequenceTagger.load(checkpoint)
 trainer: ModelTrainer = ModelTrainer(tagger, corpus)
 
 trainer.final_test(output_folder,eval_mini_batch_size=256,main_evaluation_metric=('micro avg', 'f1-score'))
-
-# def read_conll_file(filepath):
-#     # Initialize empty lists to store the sentences and gold labels
-#     sentences = []
-#     gold_labels = []
-#     predicted_labels = []
-
-#     # Initialize an empty list to store the current sentence
-#     current_sentence = []
-#     # Initialize an empty list to store the current gold labels
-#     current_gold_labels = []
-#     current_predicted_labels = []
-
-#     # Open the file and iterate over each line
-#     with open(filepath, 'r') as f:
-#         print('Reading the prediction file {}'.format(filepath))
-#         for line in tqdm(f):
-#             # If the line is blank, it indicates the end of a sentence
-#             if line.strip() == '':
-#                 # Add the current sentence and gold labels to the lists
-#                 sentences.append(current_sentence)
-#                 gold_labels.append(current_gold_labels)
-#                 predicted_labels.append(current_predicted_labels)
-#                 # Reset the lists for the next sentence
-#                 current_sentence = []
-#                 current_gold_labels = []
-#                 current_predicted_labels = []
-#             else:
-#                 # Split the line on the tab character to get the word and label
-#                 parts = line.strip().split()
-#                 if len(parts)==2:
-#                     word = ''
-#                 else:
-#                     word = parts[0]
-#                 label = parts[-2]
-#                 predicted = parts[-1]
-#                 # Add the word and label to the current lists
-#                 current_sentence.append(word)
-#                 current_gold_labels.append(label)
-#                 current_predicted_labels.append(predicted)
-
-#     # Return the sentences and gold labels
-#     return sentences, gold_labels,predicted_labels
-
-# def get_equal_sentences(sentences, gold_labels, predicted_labels):
-#     equal = []
-#     print("Checking for correct predictions...")
-#     for i in tqdm(range(len(gold_labels))):
-#         if args.need_consistency==False or gold_labels[i] == predicted_labels[i]:
-#             equal.append([sentences[i],gold_labels[i]])
-#     print(len(equal))
-#     return equal
-
-# def write_file(filepath, equal):
-#     with open(filepath, 'w') as f:
-#     # Iterate over the tokens and labels
-#         print('Writing new data (train + correct predictions) to file {}....'.format(filepath))
-#         train = open(f'{data_folder}train.txt','r')
-#         train = train.readlines()
-#         for line in train:
-#             f.write(line)
-#         f.write("\n")
-#         for tokens, labels in tqdm(equal):
-#             for token, label in zip(tokens, labels):
-#             # Write the token and label to the file, separated by a tab character
-#                 f.write(f"{token}\t{label}\n")
-#                 # Add a blank line after each sentence
-#             f.write("\n")
-
-# sentences, gold_labels,predicted_labels = read_conll_file(output_folder + '/test.tsv')
-
-# equal = get_equal_sentences(sentences, gold_labels, predicted_labels)
-
-# write_file(data_folder+args.input_file+'-aug+gold.txt', equal)

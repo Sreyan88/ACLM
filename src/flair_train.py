@@ -2,7 +2,6 @@ import flair
 import torch
 import argparse
 import os
-# os.environ['CUDA_VISIBLE-DEVICES']="1"
 
 parser = argparse.ArgumentParser(description='Train flair model')
 parser.add_argument('--input_folder', '-i', help='Name of the input folder containing train, dev and test files')
@@ -17,8 +16,6 @@ parser.add_argument('--seed', '-s', type=int, help='random seed')
 args = parser.parse_args()
 
 print(args)
-
-# args.seed = int(args.seed)
 
 flair.set_seed(args.seed)
 torch.backends.cudnn.deterministic = True
@@ -55,7 +52,6 @@ corpus: Corpus = ColumnCorpus(data_folder, columns, train_file=args.train_file,
 tag_dictionary = corpus.make_label_dictionary(label_type=tag_type)
 
 embedding_types: List[TokenEmbeddings] = [
-    #  TransformerWordEmbeddings('studio-ousia/luke-large',fine_tune = True,model_max_length=512, allow_long_sentences=False),
     TransformerWordEmbeddings('xlm-roberta-large',fine_tune = True,model_max_length=256),
  ]
 
@@ -67,18 +63,6 @@ tagger: SequenceTagger = SequenceTagger(use_rnn = False,
                                         use_crf=False)
 
 trainer: ModelTrainer = ModelTrainer(tagger, corpus)
-
-# trainer.train(output_folder, learning_rate=0.01,
-#               mini_batch_size=64,
-#               max_epochs=150)
-#from pathlib import Path
-
-# Load from checkpoint
-# checkpoint = 'NER_1_NO_CRF/best-model.pt'
-# trained_model = SequenceTagger.load(checkpoint)
-
-# torch.save(trained_model.state_dict(), 'weights_no_crf.pth')
-# trainer.resume(trained_model,base_path=output_folder, learning_rate=0.01,max_epochs=100, mini_batch_size=32,embeddings_storage_mode='gpu',main_evaluation_metric=('macro avg', 'f1-score'))
 
 trainer.train(output_folder, learning_rate=args.lr,save_final_model=False,
              mini_batch_size=args.batch_size,

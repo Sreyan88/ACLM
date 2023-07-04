@@ -11,11 +11,8 @@ import pandas as pd
 
 import os
 
-# os.environ["CUDA_VISIBLE_DEVICES"]=""
 
 stopwords_all = stopwords(["bn","de", "es","en","hi","ko","nl","ru","tr","zh"])
-
-# print(stopwords_all)
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-a', type=str, required=True, help="mode attn/random")
@@ -27,7 +24,6 @@ parser.add_argument('-df', type=str, required=True, help="dev file path")
 
 
 args = parser.parse_args()
-
 
 mode = args.a
 k = args.m
@@ -53,8 +49,6 @@ try:
         if bert_keys[i] in ckpt_keys[i]:
 
             ckpt['state_dict'][bert_keys[i]] = ckpt['state_dict'][ckpt_keys[i]]
-
-
             count += 1
 
     if mode=='attn':
@@ -78,23 +72,6 @@ except:
         model.load_state_dict(ckpt, strict = False)
 
 
-
-# with open("testing.txt","w") as f:
-#     for i in range(len(bert_keys)):
-
-#         f.write(str(i))
-#         f.write(bert_keys[i]+"\n")
-#         f.write(str(ckpt[bert_keys[i]])+"\n")
-#         f.write(str(model.state_dict()[bert_keys[i]])+"\n")
-
-print(len(model.state_dict().keys()))
-
-print(count)
-
-
-
-
-
 def getAttentionMatrix(sent):
     tokens = []
 
@@ -102,24 +79,9 @@ def getAttentionMatrix(sent):
 
     x = tokenizer(sentence_split, return_tensors='pt',is_split_into_words=True)
 
-    # print(x)
-
-    # hggh
-
     word_ids = x.word_ids()
 
-
-
-    # reverse = tokenizer.backend_tokenizer.pre_tokenizer.pre_tokenize_str(sent)
-
-    # print(reverse)
-    # print(tokenizer.convert_ids_to_tokens(x["input_ids"][0]))
-    # print(word_ids)
-
-
     toDelete = []
-
-
 
     for i in range(len(word_ids)):
         id = word_ids[i]
@@ -134,10 +96,7 @@ def getAttentionMatrix(sent):
         else:
             tokens[id].append(i)
 
-
-
     output = model(**x)
-
 
     attention_matrix = np.zeros([len(tokens), len(tokens)])
 
@@ -155,8 +114,6 @@ def getAttentionMatrix(sent):
             if(len(tokens[i])>1):
                 attention[:,tokens[i][0]] = np.sum(attention[:, tokens[i][0]:tokens[i][0]+len(tokens[i])], axis=1)
 
-
-
         for i in range(len(tokens)):
 
             if(len(tokens[i])>1):
@@ -170,12 +127,6 @@ def getAttentionMatrix(sent):
 
 
     return attention_matrix
-
-
-# [('colipa', 'B-LOC'), ('hypertrophy', 'O')],
-# [('is', 'O'), ('the', 'O'), ('logic', 'B-CW'), ('studio', 'I-CW'), ('real', 'O')]]
-
-# getAttentionMatrix(sequence)
 
 
 def getMasksTry(sent,k):
@@ -195,20 +146,13 @@ def getMasksTry(sent,k):
                 ignore.append(i)
                 ners[-1].append(i)
             elif re.search(r'\W_', t[0]) or t[0] in stopwords_all:
-                # print(t[0])
                 ignore.append(i)
 
         unmasked = []
 
-
-
-
         new_input = []
         for t in sent:
             new_input.append([t[0],t[1],0])
-
-
-
 
         for i in range(len(ignore)):
             new_input[ignore[i]][2] =0
@@ -218,8 +162,6 @@ def getMasksTry(sent,k):
                 new_input[t][2] =1
 
         return new_input, unmasked
-
-
 
 
 def getMasks(sent, k=0.2):
@@ -243,7 +185,6 @@ def getMasks(sent, k=0.2):
             countners=countners+1
         elif re.search(r'[\u0021-\u002F\u003A-\u0040\u005B-\u0060\u007B-\u007E]', t[0])  or t[0] in stopwords_all:
             ignore.append(i)
-            # print(t[0])
 
 
     k = int(np.ceil(k*(len(sent)-countners)))
@@ -268,19 +209,9 @@ def getMasks(sent, k=0.2):
 
     attentionMatrix[:,ignore]= -100
 
-    # print(attentionMatrix)
-
-
-
-    # print(unmasked)
-
     modelInput = "[MASK]"
 
     new_input = []
-
-
-
-    # try:
 
     for i in range(len(ners)):
         for t in ners[i]:
@@ -295,19 +226,11 @@ def getMasks(sent, k=0.2):
 
     unmasked.sort()
 
-    # print(unmasked)
-
-
-
     for t in sent:
         new_input.append([t[0],t[1],0])
 
-    # print(new_input)
-
     for i in range(len(unmasked)):
         new_input[unmasked[i]][2] =1
-
-
 
     for i in range(len(ignore)):
         new_input[ignore[i]][2] =0
@@ -315,45 +238,6 @@ def getMasks(sent, k=0.2):
     for i in range(len(ners)):
         for t in ners[i]:
             new_input[t][2] =1
-
-        # if i==0 or unmasked[i-1] +1 != unmasked[i]:
-        #     modelInput = modelInput + " "+ "[MASK]"
-        # modelInput = modelInput + sent[i][0]
-
-
-
-
-    # except:
-
-    #     unmasked = []
-
-
-
-
-    #     new_input = []
-    #     for t in sent:
-    #         new_input.append([t[0],t[1],0])
-
-    #     for i in range(len(unmasked)):
-    #         new_input[unmasked[i]][2] =1
-
-
-
-    #     for i in range(len(ignore)):
-    #         new_input[ignore[i]][2] =0
-
-    #     for i in range(len(ners)):
-    #         for t in ners[i]:
-    #             new_input[t][2] =1
-
-
-    #     unmasked.append("err")
-
-
-    # print(new_input)
-    # print(unmasked)
-
-
 
     return new_input, unmasked
 
@@ -381,29 +265,14 @@ def getMasks2(sent, k=0.2):
             ignore.append(i)
         else:
             indexes_to_consider.append(i)
-            # print(t[0])
 
     k = int(np.ceil(k*len(indexes_to_consider)))
     k = min(k, len(sent))
-
-
-
-
-
-
     unmasked = random.sample(indexes_to_consider,k)
-
-
-
     new_input = []
-
-
-
 
     for t in sent:
         new_input.append([t[0],t[1],0])
-
-    # print(new_input)
 
     for i in range(len(unmasked)):
         new_input[unmasked[i]][2] =1
@@ -482,7 +351,6 @@ def process_file2(file_path):
 
     # Read each line of the file
     for line in file:
-        # print(line)
       # Remove the newline character from the line
         line = line.strip('\n')
 
@@ -499,7 +367,6 @@ def process_file2(file_path):
         words = split_at_punctuation(thisLine[0])
 
       # Split the line by the tab character and store it in a tuple
-    #   print(words)
 
         for i in range(len(words)):
             word = words[i]
@@ -528,9 +395,6 @@ def process_file2(file_path):
     if current_list:
         result.append(current_list)
 
-    # print(result)
-
-    # Return the result list
     return result
 
 
@@ -538,13 +402,7 @@ def generateMasks(path, out,k, mode):
     sentences = process_file2(path)
     newsents = []
     unmasked = []
-
-
-
     for sent in tqdm(sentences):
-        # print(sent)
-
-
         if mode=="attn" or mode=="plm" :
             newsent, unmasks= getMasksTry(sent,k)
         elif mode=="random":
@@ -552,17 +410,8 @@ def generateMasks(path, out,k, mode):
         else:
             raise Exception("Not valid mode")
 
-
-
-
-
-
-
         newsents.append(newsent)
         unmasked.append(unmasks)
-
-
-
 
     with open(out,"w") as f:
         for s in newsents:
@@ -570,11 +419,7 @@ def generateMasks(path, out,k, mode):
                 f.write(token[0]+'\t'+token[1]+'\t'+str(token[2])+"\n")
             f.write("\n")
 
-
     return newsents,unmasked
-
-
-
 
 if dir[-1] != '/':
     dir += '/'
