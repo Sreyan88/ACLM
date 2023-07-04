@@ -6,12 +6,12 @@ Implementation of [ACLM: A Selective-Denoising based Generative Data Augmentatio
 
 **Steps:**
 
-1. Installing dependencies using:
+1. Install dependencies using:
 ```
 pip install -r requirements.txt
 ```
 
-2.
+2. Go to the root folder
 ```
 cd ./src
 ```
@@ -28,11 +28,6 @@ Example:
 sh train_dynamic_multilingual.sh zh zh_CN 100 8 42 0.3 5
 sh train_dynamic_multilingual_mixner.sh zh zh_CN 100 8 42 0.3 5
 ```
-
-
-Languages Used and their keys:
-German (de_DE), English (en_XX), Spanish (es_XX), Hindi (hi_IN), Korean (ko_KR), Dutch (nl_XX), Russian (ru_RU), Turkish (tr_TR), Chinese (zh_CN), Bengali (bn_IN)
-
 
 **Please cite our work:**
 ```
