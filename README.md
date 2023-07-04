@@ -27,11 +27,11 @@ OR
 For mixner:
 
 ```
-sh train_dynamic_multilingual_mixup.sh <language> <language label> <size of dataset> <flair batch size> <seed> <masking rate> <number of generations>
+sh train_dynamic_multilingual_mixner.sh <language> <language label> <size of dataset> <flair batch size> <seed> <masking rate> <number of generations>
 
 Example:
 
-sh train_dynamic_multilingual_mixup.sh zh zh_CN 100 8 42 0.3 5
+sh train_dynamic_multilingual_mixner.sh zh zh_CN 100 8 42 0.3 5
 ```
 
 
