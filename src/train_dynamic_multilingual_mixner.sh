@@ -31,7 +31,7 @@ python flair_train.py \
 -o "${input_folder}/${language}_flair_xlm_${size}" \
 -g cuda:0 \
 -tf "${language}_sample_train.conll" \
--bs 8 \
+-bs $flair_batch_size \
 -l 0.01 \
 -ep 100 \
 -lang $language \
@@ -39,7 +39,7 @@ python flair_train.py \
 
 python generate-bert-attn.py \
 -a attn \
--m 0.3 \
+-m $masking_rate \
 -dir "../data/${size}" \
 -ckpt "../data/${size}/${language}_flair_xlm_${size}/best-model.pt" \
 -tf "../data/${size}/${language}_sample_train.conll" \
