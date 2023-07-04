@@ -16,13 +16,13 @@
 set -e
 set -x
 
-language="zh"
-language_label="zh_CN"
-size=100
-flair_batch_size=8
-SEED=42
-masking_rate=0.3
-generations=5
+language=$1
+language_label=$2
+size=$3
+flair_batch_size=$4
+SEED=$5
+masking_rate=$6
+generations=$7
 
 let result=$size/100
 
