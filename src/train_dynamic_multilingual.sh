@@ -24,7 +24,26 @@ SEED=42
 masking_rate=0.3
 generations=5
 
-let result=$size/100
+input_folder="../data/${size}"
+
+python flair_train.py \
+-i $input_folder \
+-o "${input_folder}/${language}_flair_xlm_${size}" \
+-g cuda:0 \
+-tf "${language}_sample_train.conll" \
+-bs 8 \
+-l 0.01 \
+-ep 100 \
+-lang $language \
+-s $SEED
+
+python generate-bert-attn.py \
+-a attn \
+-m 0.3 \
+-dir "../data/${size}" \
+-ckpt "../data/${size}/${language}_flair_xlm_${size}/best-model.pt" \
+-tf "../data/${size}/${language}_sample_train.conll" \
+-df "../data/${size}/${language}_dev.conll"
 
 directory="../data/${size}"
 attn_train="${language}_sample_train_attn_${masking_rate}_xlm-roberta-large"
@@ -79,7 +98,7 @@ python flair_eval_equal.py \
 --file_name $run \
 -gfl $language \
 --seed $SEED \
---ckpt "../data/${size}/${language}_flair_xlm_${size}_${result}/best-model.pt"
+--ckpt "../data/${size}/${language}_flair_xlm_${size}/best-model.pt"
 
 consistent_file="${generated_file}-aug+gold.txt"
 

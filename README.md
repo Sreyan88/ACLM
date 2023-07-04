@@ -4,20 +4,35 @@ Implementation of [ACLM: A Selective-Denoising based Generative Data Augmentatio
 
 ![Proposed Methodology](./assets/diagram.jpg)
 
-* Installing dependencies using:
+Steps:
+
+1. Installing dependencies using:
 ```
 pip install -r requirements.txt
 ```
 
-Steps:
-
-1. Use [generate-bert-attn.py](./src/generate-bert-attn.py) to process the files in [data](./data/) \
 2. cd ./src
-3. Update the paths and required file names in [train_dynamic_multilingual.sh](./src/train_dynamic_multilingual.sh) and [train_dynamic_multilingual_mixup.sh](./src/train_dynamic_multilingual_mixup.sh)
-4. Run the sh files
 
-train_dynamic_multilingual.sh - ACLM \
-train_dynamic_multilingual_mixup.sh - ACLM with mixner
+3. Run the required sh files
+```
+sh train_dynamic_multilingual.sh <language> <language label> <size of dataset> <flair batch size> <seed> <masking rate> <number of generations>
+
+Example:
+
+sh train_dynamic_multilingual.sh zh zh_CN 100 8 42 0.3 5
+```
+
+OR
+
+For mixner:
+
+```
+sh train_dynamic_multilingual_mixup.sh <language> <language label> <size of dataset> <flair batch size> <seed> <masking rate> <number of generations>
+
+Example:
+
+sh train_dynamic_multilingual_mixup.sh zh zh_CN 100 8 42 0.3 5
+```
 
 
 Languages Used and their keys:
