@@ -28,7 +28,7 @@ Example:
 sh train_dynamic_multilingual.sh zh zh_CN 100 8 42 0.3 5
 sh train_dynamic_multilingual_mixner.sh zh zh_CN 100 8 42 0.3 5
 ```
-
+---
 **Please cite our work:**
 ```
 @misc{ghosh2023aclm,
