@@ -34,12 +34,21 @@ Implementation of [ACLM: A Selective-Denoising based Generative Data Augmentatio
 ---
 **Please cite our work:**
 ```
-@misc{ghosh2023aclm,
-      title={ACLM: A Selective-Denoising based Generative Data Augmentation Approach for Low-Resource Complex NER},
-      author={Sreyan Ghosh and Utkarsh Tyagi and Manan Suri and Sonal Kumar and S Ramaneswaran and Dinesh Manocha},
-      year={2023},
-      eprint={2306.00928},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{ghosh-etal-2023-aclm,
+    title = "{ACLM}: A Selective-Denoising based Generative Data Augmentation Approach for Low-Resource Complex {NER}",
+    author = "Ghosh, Sreyan  and
+      Tyagi, Utkarsh  and
+      Suri, Manan  and
+      Kumar, Sonal  and
+      S, Ramaneswaran  and
+      Manocha, Dinesh",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-long.8",
+    pages = "104--125",
+    abstract = "Complex Named Entity Recognition (NER) is the task of detecting linguistically complex named entities in low-context text. In this paper, we present ACLM Attention-map aware keyword selection for Conditional Language Model fine-tuning), a novel data augmentation approach based on conditional generation, to address the data scarcity problem in low-resource complex NER. ACLM alleviates the context-entity mismatch issue, a problem existing NER data augmentation techniques suffer from and often generates incoherent augmentations by placing complex named entities in the wrong context. ACLM builds on BART and is optimized on a novel text reconstruction or denoising task - we use selective masking (aided by attention maps) to retain the named entities and certain keywords in the input sentence that provide contextually relevant additional knowledge or hints about the named entities. Compared with other data augmentation strategies, ACLM can generate more diverse and coherent augmentations preserving the true word sense of complex entities in the sentence. We demonstrate the effectiveness of ACLM both qualitatively and quantitatively on monolingual, cross-lingual, and multilingual complex NER across various low-resource settings. ACLM outperforms all our neural baselines by a significant margin (1{\%}-36{\%}). In addition, we demonstrate the application of ACLM to other domains that suffer from data scarcity (e.g., biomedical). In practice, ACLM generates more effective and factual augmentations for these domains than prior methods.",
 }
 ```
